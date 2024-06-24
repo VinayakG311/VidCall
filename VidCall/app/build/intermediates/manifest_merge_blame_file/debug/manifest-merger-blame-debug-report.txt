@@ -1,0 +1,409 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.mc_project"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+9        android:targetSdkVersion="34" />
+10
+11    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+11-->/Users/vinayakgoel/Downloads/VidCall-main/VidCall/app/src/main/AndroidManifest.xml:4:5-79
+11-->/Users/vinayakgoel/Downloads/VidCall-main/VidCall/app/src/main/AndroidManifest.xml:4:22-77
+12    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+12-->/Users/vinayakgoel/Downloads/VidCall-main/VidCall/app/src/main/AndroidManifest.xml:5:5-70
+12-->/Users/vinayakgoel/Downloads/VidCall-main/VidCall/app/src/main/AndroidManifest.xml:5:22-68
+13    <uses-permission android:name="android.permission.BODY_SENSORS" />
+13-->/Users/vinayakgoel/Downloads/VidCall-main/VidCall/app/src/main/AndroidManifest.xml:6:5-70
+13-->/Users/vinayakgoel/Downloads/VidCall-main/VidCall/app/src/main/AndroidManifest.xml:6:22-68
+14
+15    <!-- XXX ACCESS_NETWORK_STATE is required by WebRTC. -->
+16    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+16-->[org.jitsi.react:jitsi-meet-sdk:9.2.2] /Users/vinayakgoel/.gradle/caches/transforms-3/682f2a8c58f573eb97bc2713479145eb/transformed/jitsi-meet-sdk-9.2.2/AndroidManifest.xml:8:5-79
+16-->[org.jitsi.react:jitsi-meet-sdk:9.2.2] /Users/vinayakgoel/.gradle/caches/transforms-3/682f2a8c58f573eb97bc2713479145eb/transformed/jitsi-meet-sdk-9.2.2/AndroidManifest.xml:8:22-76
+17    <uses-permission android:name="android.permission.BLUETOOTH" />
+17-->[org.jitsi.react:jitsi-meet-sdk:9.2.2] /Users/vinayakgoel/.gradle/caches/transforms-3/682f2a8c58f573eb97bc2713479145eb/transformed/jitsi-meet-sdk-9.2.2/AndroidManifest.xml:9:5-68
+17-->[org.jitsi.react:jitsi-meet-sdk:9.2.2] /Users/vinayakgoel/.gradle/caches/transforms-3/682f2a8c58f573eb97bc2713479145eb/transformed/jitsi-meet-sdk-9.2.2/AndroidManifest.xml:9:22-65
+18    <uses-permission android:name="android.permission.CAMERA" />
+18-->[org.jitsi.react:jitsi-meet-sdk:9.2.2] /Users/vinayakgoel/.gradle/caches/transforms-3/682f2a8c58f573eb97bc2713479145eb/transformed/jitsi-meet-sdk-9.2.2/AndroidManifest.xml:10:5-65
+18-->[org.jitsi.react:jitsi-meet-sdk:9.2.2] /Users/vinayakgoel/.gradle/caches/transforms-3/682f2a8c58f573eb97bc2713479145eb/transformed/jitsi-meet-sdk-9.2.2/AndroidManifest.xml:10:22-62
+19    <uses-permission android:name="android.permission.INTERNET" />
+19-->[org.jitsi.react:jitsi-meet-sdk:9.2.2] /Users/vinayakgoel/.gradle/caches/transforms-3/682f2a8c58f573eb97bc2713479145eb/transformed/jitsi-meet-sdk-9.2.2/AndroidManifest.xml:11:5-67
+19-->[org.jitsi.react:jitsi-meet-sdk:9.2.2] /Users/vinayakgoel/.gradle/caches/transforms-3/682f2a8c58f573eb97bc2713479145eb/transformed/jitsi-meet-sdk-9.2.2/AndroidManifest.xml:11:22-64
+20    <uses-permission android:name="android.permission.MANAGE_OWN_CALLS" />
+20-->[org.jitsi.react:jitsi-meet-sdk:9.2.2] /Users/vinayakgoel/.gradle/caches/transforms-3/682f2a8c58f573eb97bc2713479145eb/transformed/jitsi-meet-sdk-9.2.2/AndroidManifest.xml:12:5-75
+20-->[org.jitsi.react:jitsi-meet-sdk:9.2.2] /Users/vinayakgoel/.gradle/caches/transforms-3/682f2a8c58f573eb97bc2713479145eb/transformed/jitsi-meet-sdk-9.2.2/AndroidManifest.xml:12:22-72
+21    <uses-permission android:name="android.permission.WAKE_LOCK" />
+21-->[org.jitsi.react:jitsi-meet-sdk:9.2.2] /Users/vinayakgoel/.gradle/caches/transforms-3/682f2a8c58f573eb97bc2713479145eb/transformed/jitsi-meet-sdk-9.2.2/AndroidManifest.xml:15:5-68
+21-->[org.jitsi.react:jitsi-meet-sdk:9.2.2] /Users/vinayakgoel/.gradle/caches/transforms-3/682f2a8c58f573eb97bc2713479145eb/transformed/jitsi-meet-sdk-9.2.2/AndroidManifest.xml:15:22-65
+22    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+22-->[org.jitsi.react:jitsi-meet-sdk:9.2.2] /Users/vinayakgoel/.gradle/caches/transforms-3/682f2a8c58f573eb97bc2713479145eb/transformed/jitsi-meet-sdk-9.2.2/AndroidManifest.xml:16:5-76
+22-->[org.jitsi.react:jitsi-meet-sdk:9.2.2] /Users/vinayakgoel/.gradle/caches/transforms-3/682f2a8c58f573eb97bc2713479145eb/transformed/jitsi-meet-sdk-9.2.2/AndroidManifest.xml:16:22-73
+23    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+23-->[org.jitsi.react:jitsi-meet-sdk:9.2.2] /Users/vinayakgoel/.gradle/caches/transforms-3/682f2a8c58f573eb97bc2713479145eb/transformed/jitsi-meet-sdk-9.2.2/AndroidManifest.xml:17:5-77
+23-->[org.jitsi.react:jitsi-meet-sdk:9.2.2] /Users/vinayakgoel/.gradle/caches/transforms-3/682f2a8c58f573eb97bc2713479145eb/transformed/jitsi-meet-sdk-9.2.2/AndroidManifest.xml:17:22-74
+24    <uses-permission android:name="android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK" />
+24-->[org.jitsi.react:jitsi-meet-sdk:9.2.2] /Users/vinayakgoel/.gradle/caches/transforms-3/682f2a8c58f573eb97bc2713479145eb/transformed/jitsi-meet-sdk-9.2.2/AndroidManifest.xml:18:5-92
+24-->[org.jitsi.react:jitsi-meet-sdk:9.2.2] /Users/vinayakgoel/.gradle/caches/transforms-3/682f2a8c58f573eb97bc2713479145eb/transformed/jitsi-meet-sdk-9.2.2/AndroidManifest.xml:18:22-89
+25    <uses-permission android:name="android.permission.FOREGROUND_SERVICE_MEDIA_PROJECTION" />
+25-->[org.jitsi.react:jitsi-meet-sdk:9.2.2] /Users/vinayakgoel/.gradle/caches/transforms-3/682f2a8c58f573eb97bc2713479145eb/transformed/jitsi-meet-sdk-9.2.2/AndroidManifest.xml:19:5-94
+25-->[org.jitsi.react:jitsi-meet-sdk:9.2.2] /Users/vinayakgoel/.gradle/caches/transforms-3/682f2a8c58f573eb97bc2713479145eb/transformed/jitsi-meet-sdk-9.2.2/AndroidManifest.xml:19:22-91
+26    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+26-->[org.jitsi.react:jitsi-meet-sdk:9.2.2] /Users/vinayakgoel/.gradle/caches/transforms-3/682f2a8c58f573eb97bc2713479145eb/transformed/jitsi-meet-sdk-9.2.2/AndroidManifest.xml:20:5-77
+26-->[org.jitsi.react:jitsi-meet-sdk:9.2.2] /Users/vinayakgoel/.gradle/caches/transforms-3/682f2a8c58f573eb97bc2713479145eb/transformed/jitsi-meet-sdk-9.2.2/AndroidManifest.xml:20:22-74
+27
+28    <uses-feature
+28-->[org.jitsi.react:jitsi-meet-sdk:9.2.2] /Users/vinayakgoel/.gradle/caches/transforms-3/682f2a8c58f573eb97bc2713479145eb/transformed/jitsi-meet-sdk-9.2.2/AndroidManifest.xml:22:5-24:35
+29        android:glEsVersion="0x00020000"
+29-->[org.jitsi.react:jitsi-meet-sdk:9.2.2] /Users/vinayakgoel/.gradle/caches/transforms-3/682f2a8c58f573eb97bc2713479145eb/transformed/jitsi-meet-sdk-9.2.2/AndroidManifest.xml:23:9-41
+30        android:required="true" />
+30-->[org.jitsi.react:jitsi-meet-sdk:9.2.2] /Users/vinayakgoel/.gradle/caches/transforms-3/682f2a8c58f573eb97bc2713479145eb/transformed/jitsi-meet-sdk-9.2.2/AndroidManifest.xml:24:9-32
+31    <uses-feature
+31-->[org.jitsi.react:jitsi-meet-sdk:9.2.2] /Users/vinayakgoel/.gradle/caches/transforms-3/682f2a8c58f573eb97bc2713479145eb/transformed/jitsi-meet-sdk-9.2.2/AndroidManifest.xml:25:5-27:36
+32        android:name="android.hardware.camera"
+32-->[org.jitsi.react:jitsi-meet-sdk:9.2.2] /Users/vinayakgoel/.gradle/caches/transforms-3/682f2a8c58f573eb97bc2713479145eb/transformed/jitsi-meet-sdk-9.2.2/AndroidManifest.xml:26:9-47
+33        android:required="false" />
+33-->[org.jitsi.react:jitsi-meet-sdk:9.2.2] /Users/vinayakgoel/.gradle/caches/transforms-3/682f2a8c58f573eb97bc2713479145eb/transformed/jitsi-meet-sdk-9.2.2/AndroidManifest.xml:27:9-33
+34    <uses-feature
+34-->[org.jitsi.react:jitsi-meet-sdk:9.2.2] /Users/vinayakgoel/.gradle/caches/transforms-3/682f2a8c58f573eb97bc2713479145eb/transformed/jitsi-meet-sdk-9.2.2/AndroidManifest.xml:28:5-30:36
+35        android:name="android.hardware.camera.autofocus"
+35-->[org.jitsi.react:jitsi-meet-sdk:9.2.2] /Users/vinayakgoel/.gradle/caches/transforms-3/682f2a8c58f573eb97bc2713479145eb/transformed/jitsi-meet-sdk-9.2.2/AndroidManifest.xml:29:9-57
+36        android:required="false" />
+36-->[org.jitsi.react:jitsi-meet-sdk:9.2.2] /Users/vinayakgoel/.gradle/caches/transforms-3/682f2a8c58f573eb97bc2713479145eb/transformed/jitsi-meet-sdk-9.2.2/AndroidManifest.xml:30:9-33
+37
+38    <uses-permission android:name="android.permission.WRITE_CALENDAR" />
+38-->[com.facebook.react:react-native-calendar-events:2.2.0-jitsi-16757212] /Users/vinayakgoel/.gradle/caches/transforms-3/78ad371d61217b87ae5817680715f625/transformed/react-native-calendar-events-2.2.0-jitsi-16757212/AndroidManifest.xml:7:5-73
+38-->[com.facebook.react:react-native-calendar-events:2.2.0-jitsi-16757212] /Users/vinayakgoel/.gradle/caches/transforms-3/78ad371d61217b87ae5817680715f625/transformed/react-native-calendar-events-2.2.0-jitsi-16757212/AndroidManifest.xml:7:22-70
+39    <uses-permission android:name="android.permission.READ_CALENDAR" />
+39-->[com.facebook.react:react-native-calendar-events:2.2.0-jitsi-16757212] /Users/vinayakgoel/.gradle/caches/transforms-3/78ad371d61217b87ae5817680715f625/transformed/react-native-calendar-events-2.2.0-jitsi-16757212/AndroidManifest.xml:8:5-72
+39-->[com.facebook.react:react-native-calendar-events:2.2.0-jitsi-16757212] /Users/vinayakgoel/.gradle/caches/transforms-3/78ad371d61217b87ae5817680715f625/transformed/react-native-calendar-events-2.2.0-jitsi-16757212/AndroidManifest.xml:8:22-69
+40
+41    <uses-feature
+41-->[com.facebook.react:react-native-webrtc:118.0.7-jitsi-16757212] /Users/vinayakgoel/.gradle/caches/transforms-3/17413a73b0b5fe3ecd40d29963cefbe4/transformed/react-native-webrtc-118.0.7-jitsi-16757212/AndroidManifest.xml:8:5-11:32
+42        android:name="android.hardware.usb.host"
+42-->[com.facebook.react:react-native-webrtc:118.0.7-jitsi-16757212] /Users/vinayakgoel/.gradle/caches/transforms-3/17413a73b0b5fe3ecd40d29963cefbe4/transformed/react-native-webrtc-118.0.7-jitsi-16757212/AndroidManifest.xml:9:9-49
+43        android:required="false" /> <!-- Required by older versions of Google Play services to create IID tokens -->
+43-->[com.facebook.react:react-native-webrtc:118.0.7-jitsi-16757212] /Users/vinayakgoel/.gradle/caches/transforms-3/17413a73b0b5fe3ecd40d29963cefbe4/transformed/react-native-webrtc-118.0.7-jitsi-16757212/AndroidManifest.xml:10:9-33
+44    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+44-->[com.google.android.gms:play-services-iid:17.0.0] /Users/vinayakgoel/.gradle/caches/transforms-3/41cbacf155cef9472b1b47891d827297/transformed/play-services-iid-17.0.0/AndroidManifest.xml:23:5-82
+44-->[com.google.android.gms:play-services-iid:17.0.0] /Users/vinayakgoel/.gradle/caches/transforms-3/41cbacf155cef9472b1b47891d827297/transformed/play-services-iid-17.0.0/AndroidManifest.xml:23:22-79
+45
+46    <permission
+46-->[androidx.core:core:1.13.0] /Users/vinayakgoel/.gradle/caches/transforms-3/fe2493e55ed439378b0f650daa9755b3/transformed/core-1.13.0/AndroidManifest.xml:22:5-24:47
+47        android:name="com.example.mc_project.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+47-->[androidx.core:core:1.13.0] /Users/vinayakgoel/.gradle/caches/transforms-3/fe2493e55ed439378b0f650daa9755b3/transformed/core-1.13.0/AndroidManifest.xml:23:9-81
+48        android:protectionLevel="signature" />
+48-->[androidx.core:core:1.13.0] /Users/vinayakgoel/.gradle/caches/transforms-3/fe2493e55ed439378b0f650daa9755b3/transformed/core-1.13.0/AndroidManifest.xml:24:9-44
+49
+50    <uses-permission android:name="com.example.mc_project.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+50-->[androidx.core:core:1.13.0] /Users/vinayakgoel/.gradle/caches/transforms-3/fe2493e55ed439378b0f650daa9755b3/transformed/core-1.13.0/AndroidManifest.xml:26:5-97
+50-->[androidx.core:core:1.13.0] /Users/vinayakgoel/.gradle/caches/transforms-3/fe2493e55ed439378b0f650daa9755b3/transformed/core-1.13.0/AndroidManifest.xml:26:22-94
+51    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
+51-->[com.android.installreferrer:installreferrer:1.1.2] /Users/vinayakgoel/.gradle/caches/transforms-3/a98d202c7cfbbb11193f308483c6e306/transformed/installreferrer-1.1.2/AndroidManifest.xml:9:5-110
+51-->[com.android.installreferrer:installreferrer:1.1.2] /Users/vinayakgoel/.gradle/caches/transforms-3/a98d202c7cfbbb11193f308483c6e306/transformed/installreferrer-1.1.2/AndroidManifest.xml:9:22-107
+52
+53    <application
+53-->/Users/vinayakgoel/Downloads/VidCall-main/VidCall/app/src/main/AndroidManifest.xml:8:5-39:19
+54        android:allowBackup="true"
+54-->/Users/vinayakgoel/Downloads/VidCall-main/VidCall/app/src/main/AndroidManifest.xml:9:9-35
+55        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+55-->[androidx.core:core:1.13.0] /Users/vinayakgoel/.gradle/caches/transforms-3/fe2493e55ed439378b0f650daa9755b3/transformed/core-1.13.0/AndroidManifest.xml:28:18-86
+56        android:dataExtractionRules="@xml/data_extraction_rules"
+56-->/Users/vinayakgoel/Downloads/VidCall-main/VidCall/app/src/main/AndroidManifest.xml:10:9-65
+57        android:debuggable="true"
+58        android:extractNativeLibs="false"
+59        android:fullBackupContent="@xml/backup_rules"
+59-->/Users/vinayakgoel/Downloads/VidCall-main/VidCall/app/src/main/AndroidManifest.xml:11:9-54
+60        android:icon="@mipmap/ic_launcher"
+60-->/Users/vinayakgoel/Downloads/VidCall-main/VidCall/app/src/main/AndroidManifest.xml:12:9-43
+61        android:label="@string/app_name"
+61-->/Users/vinayakgoel/Downloads/VidCall-main/VidCall/app/src/main/AndroidManifest.xml:13:9-41
+62        android:roundIcon="@mipmap/ic_launcher_round"
+62-->/Users/vinayakgoel/Downloads/VidCall-main/VidCall/app/src/main/AndroidManifest.xml:14:9-54
+63        android:supportsRtl="true"
+63-->/Users/vinayakgoel/Downloads/VidCall-main/VidCall/app/src/main/AndroidManifest.xml:15:9-35
+64        android:testOnly="true"
+65        android:theme="@style/Theme.MC_Project" >
+65-->/Users/vinayakgoel/Downloads/VidCall-main/VidCall/app/src/main/AndroidManifest.xml:16:9-48
+66        <activity
+66-->/Users/vinayakgoel/Downloads/VidCall-main/VidCall/app/src/main/AndroidManifest.xml:18:9-22:55
+67            android:name="com.example.mc_project.UserLogin"
+67-->/Users/vinayakgoel/Downloads/VidCall-main/VidCall/app/src/main/AndroidManifest.xml:19:13-38
+68            android:exported="false"
+68-->/Users/vinayakgoel/Downloads/VidCall-main/VidCall/app/src/main/AndroidManifest.xml:20:13-37
+69            android:label="@string/title_activity_user_login"
+69-->/Users/vinayakgoel/Downloads/VidCall-main/VidCall/app/src/main/AndroidManifest.xml:21:13-62
+70            android:theme="@style/Theme.MC_Project" />
+70-->/Users/vinayakgoel/Downloads/VidCall-main/VidCall/app/src/main/AndroidManifest.xml:22:13-52
+71        <activity
+71-->/Users/vinayakgoel/Downloads/VidCall-main/VidCall/app/src/main/AndroidManifest.xml:23:9-27:55
+72            android:name="com.example.mc_project.MainActivity"
+72-->/Users/vinayakgoel/Downloads/VidCall-main/VidCall/app/src/main/AndroidManifest.xml:24:13-41
+73            android:exported="false"
+73-->/Users/vinayakgoel/Downloads/VidCall-main/VidCall/app/src/main/AndroidManifest.xml:25:13-37
+74            android:label="@string/title_activity_homse_screen"
+74-->/Users/vinayakgoel/Downloads/VidCall-main/VidCall/app/src/main/AndroidManifest.xml:26:13-64
+75            android:theme="@style/Theme.MC_Project" />
+75-->/Users/vinayakgoel/Downloads/VidCall-main/VidCall/app/src/main/AndroidManifest.xml:27:13-52
+76        <activity
+76-->/Users/vinayakgoel/Downloads/VidCall-main/VidCall/app/src/main/AndroidManifest.xml:28:9-38:20
+77            android:name="com.example.mc_project.HomeScreen"
+77-->/Users/vinayakgoel/Downloads/VidCall-main/VidCall/app/src/main/AndroidManifest.xml:29:13-39
+78            android:exported="true"
+78-->/Users/vinayakgoel/Downloads/VidCall-main/VidCall/app/src/main/AndroidManifest.xml:30:13-36
+79            android:label="@string/app_name"
+79-->/Users/vinayakgoel/Downloads/VidCall-main/VidCall/app/src/main/AndroidManifest.xml:31:13-45
+80            android:theme="@style/Theme.MC_Project" >
+80-->/Users/vinayakgoel/Downloads/VidCall-main/VidCall/app/src/main/AndroidManifest.xml:32:13-52
+81            <intent-filter>
+81-->/Users/vinayakgoel/Downloads/VidCall-main/VidCall/app/src/main/AndroidManifest.xml:33:13-37:29
+82                <action android:name="android.intent.action.MAIN" />
+82-->/Users/vinayakgoel/Downloads/VidCall-main/VidCall/app/src/main/AndroidManifest.xml:34:17-69
+82-->/Users/vinayakgoel/Downloads/VidCall-main/VidCall/app/src/main/AndroidManifest.xml:34:25-66
+83
+84                <category android:name="android.intent.category.LAUNCHER" />
+84-->/Users/vinayakgoel/Downloads/VidCall-main/VidCall/app/src/main/AndroidManifest.xml:36:17-77
+84-->/Users/vinayakgoel/Downloads/VidCall-main/VidCall/app/src/main/AndroidManifest.xml:36:27-74
+85            </intent-filter>
+86        </activity>
+87
+88        <service
+88-->[androidx.room:room-runtime:2.6.1] /Users/vinayakgoel/.gradle/caches/transforms-3/d2cd34f4b3fe975d8e8aa6373e10490e/transformed/room-runtime-2.6.1/AndroidManifest.xml:24:9-28:63
+89            android:name="androidx.room.MultiInstanceInvalidationService"
+89-->[androidx.room:room-runtime:2.6.1] /Users/vinayakgoel/.gradle/caches/transforms-3/d2cd34f4b3fe975d8e8aa6373e10490e/transformed/room-runtime-2.6.1/AndroidManifest.xml:25:13-74
+90            android:directBootAware="true"
+90-->[androidx.room:room-runtime:2.6.1] /Users/vinayakgoel/.gradle/caches/transforms-3/d2cd34f4b3fe975d8e8aa6373e10490e/transformed/room-runtime-2.6.1/AndroidManifest.xml:26:13-43
+91            android:exported="false" />
+91-->[androidx.room:room-runtime:2.6.1] /Users/vinayakgoel/.gradle/caches/transforms-3/d2cd34f4b3fe975d8e8aa6373e10490e/transformed/room-runtime-2.6.1/AndroidManifest.xml:27:13-37
+92
+93        <activity
+93-->[org.jitsi.react:jitsi-meet-sdk:9.2.2] /Users/vinayakgoel/.gradle/caches/transforms-3/682f2a8c58f573eb97bc2713479145eb/transformed/jitsi-meet-sdk-9.2.2/AndroidManifest.xml:36:9-43:58
+94            android:name="org.jitsi.meet.sdk.JitsiMeetActivity"
+94-->[org.jitsi.react:jitsi-meet-sdk:9.2.2] /Users/vinayakgoel/.gradle/caches/transforms-3/682f2a8c58f573eb97bc2713479145eb/transformed/jitsi-meet-sdk-9.2.2/AndroidManifest.xml:37:13-64
+95            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize|uiMode"
+95-->[org.jitsi.react:jitsi-meet-sdk:9.2.2] /Users/vinayakgoel/.gradle/caches/transforms-3/682f2a8c58f573eb97bc2713479145eb/transformed/jitsi-meet-sdk-9.2.2/AndroidManifest.xml:38:13-122
+96            android:launchMode="singleTask"
+96-->[org.jitsi.react:jitsi-meet-sdk:9.2.2] /Users/vinayakgoel/.gradle/caches/transforms-3/682f2a8c58f573eb97bc2713479145eb/transformed/jitsi-meet-sdk-9.2.2/AndroidManifest.xml:39:13-44
+97            android:resizeableActivity="true"
+97-->[org.jitsi.react:jitsi-meet-sdk:9.2.2] /Users/vinayakgoel/.gradle/caches/transforms-3/682f2a8c58f573eb97bc2713479145eb/transformed/jitsi-meet-sdk-9.2.2/AndroidManifest.xml:40:13-46
+98            android:supportsPictureInPicture="true"
+98-->[org.jitsi.react:jitsi-meet-sdk:9.2.2] /Users/vinayakgoel/.gradle/caches/transforms-3/682f2a8c58f573eb97bc2713479145eb/transformed/jitsi-meet-sdk-9.2.2/AndroidManifest.xml:41:13-52
+99            android:theme="@style/JitsiMeetActivityStyle"
+99-->[org.jitsi.react:jitsi-meet-sdk:9.2.2] /Users/vinayakgoel/.gradle/caches/transforms-3/682f2a8c58f573eb97bc2713479145eb/transformed/jitsi-meet-sdk-9.2.2/AndroidManifest.xml:42:13-58
+100            android:windowSoftInputMode="adjustResize" />
+100-->[org.jitsi.react:jitsi-meet-sdk:9.2.2] /Users/vinayakgoel/.gradle/caches/transforms-3/682f2a8c58f573eb97bc2713479145eb/transformed/jitsi-meet-sdk-9.2.2/AndroidManifest.xml:43:13-55
+101
+102        <service
+102-->[org.jitsi.react:jitsi-meet-sdk:9.2.2] /Users/vinayakgoel/.gradle/caches/transforms-3/682f2a8c58f573eb97bc2713479145eb/transformed/jitsi-meet-sdk-9.2.2/AndroidManifest.xml:45:9-52:19
+103            android:name="org.jitsi.meet.sdk.ConnectionService"
+103-->[org.jitsi.react:jitsi-meet-sdk:9.2.2] /Users/vinayakgoel/.gradle/caches/transforms-3/682f2a8c58f573eb97bc2713479145eb/transformed/jitsi-meet-sdk-9.2.2/AndroidManifest.xml:46:13-64
+104            android:exported="true"
+104-->[org.jitsi.react:jitsi-meet-sdk:9.2.2] /Users/vinayakgoel/.gradle/caches/transforms-3/682f2a8c58f573eb97bc2713479145eb/transformed/jitsi-meet-sdk-9.2.2/AndroidManifest.xml:47:13-36
+105            android:permission="android.permission.BIND_TELECOM_CONNECTION_SERVICE" >
+105-->[org.jitsi.react:jitsi-meet-sdk:9.2.2] /Users/vinayakgoel/.gradle/caches/transforms-3/682f2a8c58f573eb97bc2713479145eb/transformed/jitsi-meet-sdk-9.2.2/AndroidManifest.xml:48:13-84
+106            <intent-filter>
+106-->[org.jitsi.react:jitsi-meet-sdk:9.2.2] /Users/vinayakgoel/.gradle/caches/transforms-3/682f2a8c58f573eb97bc2713479145eb/transformed/jitsi-meet-sdk-9.2.2/AndroidManifest.xml:49:13-51:29
+107                <action android:name="android.telecom.ConnectionService" />
+107-->[org.jitsi.react:jitsi-meet-sdk:9.2.2] /Users/vinayakgoel/.gradle/caches/transforms-3/682f2a8c58f573eb97bc2713479145eb/transformed/jitsi-meet-sdk-9.2.2/AndroidManifest.xml:50:17-76
+107-->[org.jitsi.react:jitsi-meet-sdk:9.2.2] /Users/vinayakgoel/.gradle/caches/transforms-3/682f2a8c58f573eb97bc2713479145eb/transformed/jitsi-meet-sdk-9.2.2/AndroidManifest.xml:50:25-73
+108            </intent-filter>
+109        </service>
+110        <service
+110-->[org.jitsi.react:jitsi-meet-sdk:9.2.2] /Users/vinayakgoel/.gradle/caches/transforms-3/682f2a8c58f573eb97bc2713479145eb/transformed/jitsi-meet-sdk-9.2.2/AndroidManifest.xml:53:9-55:61
+111            android:name="org.jitsi.meet.sdk.JitsiMeetOngoingConferenceService"
+111-->[org.jitsi.react:jitsi-meet-sdk:9.2.2] /Users/vinayakgoel/.gradle/caches/transforms-3/682f2a8c58f573eb97bc2713479145eb/transformed/jitsi-meet-sdk-9.2.2/AndroidManifest.xml:54:13-80
+112            android:foregroundServiceType="mediaPlayback" />
+112-->[org.jitsi.react:jitsi-meet-sdk:9.2.2] /Users/vinayakgoel/.gradle/caches/transforms-3/682f2a8c58f573eb97bc2713479145eb/transformed/jitsi-meet-sdk-9.2.2/AndroidManifest.xml:55:13-58
+113
+114        <provider
+114-->[org.jitsi.react:jitsi-meet-sdk:9.2.2] /Users/vinayakgoel/.gradle/caches/transforms-3/682f2a8c58f573eb97bc2713479145eb/transformed/jitsi-meet-sdk-9.2.2/AndroidManifest.xml:57:9-62:20
+115            android:name="com.reactnativecommunity.webview.RNCWebViewFileProvider"
+115-->[org.jitsi.react:jitsi-meet-sdk:9.2.2] /Users/vinayakgoel/.gradle/caches/transforms-3/682f2a8c58f573eb97bc2713479145eb/transformed/jitsi-meet-sdk-9.2.2/AndroidManifest.xml:58:13-83
+116            android:authorities="com.example.mc_project.fileprovider"
+116-->[org.jitsi.react:jitsi-meet-sdk:9.2.2] /Users/vinayakgoel/.gradle/caches/transforms-3/682f2a8c58f573eb97bc2713479145eb/transformed/jitsi-meet-sdk-9.2.2/AndroidManifest.xml:59:13-64
+117            android:enabled="false"
+117-->[org.jitsi.react:jitsi-meet-sdk:9.2.2] /Users/vinayakgoel/.gradle/caches/transforms-3/682f2a8c58f573eb97bc2713479145eb/transformed/jitsi-meet-sdk-9.2.2/AndroidManifest.xml:60:13-36
+118            android:exported="false"
+118-->[com.facebook.react:react-native-webview:13.5.1-jitsi-16757212] /Users/vinayakgoel/.gradle/caches/transforms-3/2744b2fa791070175ebb4a8880fe0f54/transformed/react-native-webview-13.5.1-jitsi-16757212/AndroidManifest.xml:11:13-37
+119            android:grantUriPermissions="true" >
+119-->[com.facebook.react:react-native-webview:13.5.1-jitsi-16757212] /Users/vinayakgoel/.gradle/caches/transforms-3/2744b2fa791070175ebb4a8880fe0f54/transformed/react-native-webview-13.5.1-jitsi-16757212/AndroidManifest.xml:12:13-47
+120            <meta-data
+120-->[com.facebook.react:react-native-webview:13.5.1-jitsi-16757212] /Users/vinayakgoel/.gradle/caches/transforms-3/2744b2fa791070175ebb4a8880fe0f54/transformed/react-native-webview-13.5.1-jitsi-16757212/AndroidManifest.xml:13:13-15:63
+121                android:name="android.support.FILE_PROVIDER_PATHS"
+121-->[com.facebook.react:react-native-webview:13.5.1-jitsi-16757212] /Users/vinayakgoel/.gradle/caches/transforms-3/2744b2fa791070175ebb4a8880fe0f54/transformed/react-native-webview-13.5.1-jitsi-16757212/AndroidManifest.xml:14:17-67
+122                android:resource="@xml/file_provider_paths" />
+122-->[com.facebook.react:react-native-webview:13.5.1-jitsi-16757212] /Users/vinayakgoel/.gradle/caches/transforms-3/2744b2fa791070175ebb4a8880fe0f54/transformed/react-native-webview-13.5.1-jitsi-16757212/AndroidManifest.xml:15:17-60
+123        </provider>
+124        <provider
+124-->[org.jitsi.react:jitsi-meet-sdk:9.2.2] /Users/vinayakgoel/.gradle/caches/transforms-3/682f2a8c58f573eb97bc2713479145eb/transformed/jitsi-meet-sdk-9.2.2/AndroidManifest.xml:63:9-70:20
+125            android:name="androidx.startup.InitializationProvider"
+125-->[org.jitsi.react:jitsi-meet-sdk:9.2.2] /Users/vinayakgoel/.gradle/caches/transforms-3/682f2a8c58f573eb97bc2713479145eb/transformed/jitsi-meet-sdk-9.2.2/AndroidManifest.xml:64:13-67
+126            android:authorities="com.example.mc_project.androidx-startup"
+126-->[org.jitsi.react:jitsi-meet-sdk:9.2.2] /Users/vinayakgoel/.gradle/caches/transforms-3/682f2a8c58f573eb97bc2713479145eb/transformed/jitsi-meet-sdk-9.2.2/AndroidManifest.xml:65:13-68
+127            android:exported="false" >
+127-->[org.jitsi.react:jitsi-meet-sdk:9.2.2] /Users/vinayakgoel/.gradle/caches/transforms-3/682f2a8c58f573eb97bc2713479145eb/transformed/jitsi-meet-sdk-9.2.2/AndroidManifest.xml:66:13-37
+128            <meta-data
+128-->[org.jitsi.react:jitsi-meet-sdk:9.2.2] /Users/vinayakgoel/.gradle/caches/transforms-3/682f2a8c58f573eb97bc2713479145eb/transformed/jitsi-meet-sdk-9.2.2/AndroidManifest.xml:67:13-69:52
+129                android:name="org.jitsi.meet.sdk.JitsiInitializer"
+129-->[org.jitsi.react:jitsi-meet-sdk:9.2.2] /Users/vinayakgoel/.gradle/caches/transforms-3/682f2a8c58f573eb97bc2713479145eb/transformed/jitsi-meet-sdk-9.2.2/AndroidManifest.xml:68:17-67
+130                android:value="androidx.startup" />
+130-->[org.jitsi.react:jitsi-meet-sdk:9.2.2] /Users/vinayakgoel/.gradle/caches/transforms-3/682f2a8c58f573eb97bc2713479145eb/transformed/jitsi-meet-sdk-9.2.2/AndroidManifest.xml:69:17-49
+131            <meta-data
+131-->[androidx.emoji2:emoji2:1.4.0] /Users/vinayakgoel/.gradle/caches/transforms-3/0f2122af0cf9ce63063776a78cdd6786/transformed/emoji2-1.4.0/AndroidManifest.xml:29:13-31:52
+132                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+132-->[androidx.emoji2:emoji2:1.4.0] /Users/vinayakgoel/.gradle/caches/transforms-3/0f2122af0cf9ce63063776a78cdd6786/transformed/emoji2-1.4.0/AndroidManifest.xml:30:17-75
+133                android:value="androidx.startup" />
+133-->[androidx.emoji2:emoji2:1.4.0] /Users/vinayakgoel/.gradle/caches/transforms-3/0f2122af0cf9ce63063776a78cdd6786/transformed/emoji2-1.4.0/AndroidManifest.xml:31:17-49
+134            <meta-data
+134-->[androidx.lifecycle:lifecycle-process:2.7.0] /Users/vinayakgoel/.gradle/caches/transforms-3/b13010458167cba5b3502ba27f0cb0e7/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:29:13-31:52
+135                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+135-->[androidx.lifecycle:lifecycle-process:2.7.0] /Users/vinayakgoel/.gradle/caches/transforms-3/b13010458167cba5b3502ba27f0cb0e7/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:30:17-78
+136                android:value="androidx.startup" />
+136-->[androidx.lifecycle:lifecycle-process:2.7.0] /Users/vinayakgoel/.gradle/caches/transforms-3/b13010458167cba5b3502ba27f0cb0e7/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:31:17-49
+137            <meta-data
+137-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/vinayakgoel/.gradle/caches/transforms-3/88d63c740a587a2dcc85b228c7d0250d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:29:13-31:52
+138                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+138-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/vinayakgoel/.gradle/caches/transforms-3/88d63c740a587a2dcc85b228c7d0250d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:30:17-85
+139                android:value="androidx.startup" />
+139-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/vinayakgoel/.gradle/caches/transforms-3/88d63c740a587a2dcc85b228c7d0250d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:31:17-49
+140        </provider>
+141        <provider
+141-->[com.facebook.react:react-native-performance:5.0.0-jitsi-16757212] /Users/vinayakgoel/.gradle/caches/transforms-3/d37e041e5f25106b328ef8a7c0775bf5/transformed/react-native-performance-5.0.0-jitsi-16757212/AndroidManifest.xml:8:9-12:39
+142            android:name="com.oblador.performance.StartTimeProvider"
+142-->[com.facebook.react:react-native-performance:5.0.0-jitsi-16757212] /Users/vinayakgoel/.gradle/caches/transforms-3/d37e041e5f25106b328ef8a7c0775bf5/transformed/react-native-performance-5.0.0-jitsi-16757212/AndroidManifest.xml:9:13-69
+143            android:authorities="com.example.mc_project.start.time.provider"
+143-->[com.facebook.react:react-native-performance:5.0.0-jitsi-16757212] /Users/vinayakgoel/.gradle/caches/transforms-3/d37e041e5f25106b328ef8a7c0775bf5/transformed/react-native-performance-5.0.0-jitsi-16757212/AndroidManifest.xml:10:13-71
+144            android:exported="false"
+144-->[com.facebook.react:react-native-performance:5.0.0-jitsi-16757212] /Users/vinayakgoel/.gradle/caches/transforms-3/d37e041e5f25106b328ef8a7c0775bf5/transformed/react-native-performance-5.0.0-jitsi-16757212/AndroidManifest.xml:11:13-37
+145            android:initOrder="200" />
+145-->[com.facebook.react:react-native-performance:5.0.0-jitsi-16757212] /Users/vinayakgoel/.gradle/caches/transforms-3/d37e041e5f25106b328ef8a7c0775bf5/transformed/react-native-performance-5.0.0-jitsi-16757212/AndroidManifest.xml:12:13-36
+146
+147        <service
+147-->[com.facebook.react:react-native-webrtc:118.0.7-jitsi-16757212] /Users/vinayakgoel/.gradle/caches/transforms-3/17413a73b0b5fe3ecd40d29963cefbe4/transformed/react-native-webrtc-118.0.7-jitsi-16757212/AndroidManifest.xml:14:9-17:19
+148            android:name="com.oney.WebRTCModule.MediaProjectionService"
+148-->[com.facebook.react:react-native-webrtc:118.0.7-jitsi-16757212] /Users/vinayakgoel/.gradle/caches/transforms-3/17413a73b0b5fe3ecd40d29963cefbe4/transformed/react-native-webrtc-118.0.7-jitsi-16757212/AndroidManifest.xml:15:13-72
+149            android:foregroundServiceType="mediaProjection" >
+149-->[com.facebook.react:react-native-webrtc:118.0.7-jitsi-16757212] /Users/vinayakgoel/.gradle/caches/transforms-3/17413a73b0b5fe3ecd40d29963cefbe4/transformed/react-native-webrtc-118.0.7-jitsi-16757212/AndroidManifest.xml:16:13-60
+150        </service>
+151
+152        <uses-library
+152-->[com.giphy.sdk:ui:2.3.4] /Users/vinayakgoel/.gradle/caches/transforms-3/7ad81f3bbfd8d866d8c02a97384f2b52/transformed/ui-2.3.4/AndroidManifest.xml:12:9-14:40
+153            android:name="android.test.runner"
+153-->[com.giphy.sdk:ui:2.3.4] /Users/vinayakgoel/.gradle/caches/transforms-3/7ad81f3bbfd8d866d8c02a97384f2b52/transformed/ui-2.3.4/AndroidManifest.xml:13:13-47
+154            android:required="false" />
+154-->[com.giphy.sdk:ui:2.3.4] /Users/vinayakgoel/.gradle/caches/transforms-3/7ad81f3bbfd8d866d8c02a97384f2b52/transformed/ui-2.3.4/AndroidManifest.xml:14:13-37
+155        <uses-library
+155-->[com.giphy.sdk:ui:2.3.4] /Users/vinayakgoel/.gradle/caches/transforms-3/7ad81f3bbfd8d866d8c02a97384f2b52/transformed/ui-2.3.4/AndroidManifest.xml:15:9-17:40
+156            android:name="android.test.base"
+156-->[com.giphy.sdk:ui:2.3.4] /Users/vinayakgoel/.gradle/caches/transforms-3/7ad81f3bbfd8d866d8c02a97384f2b52/transformed/ui-2.3.4/AndroidManifest.xml:16:13-45
+157            android:required="false" />
+157-->[com.giphy.sdk:ui:2.3.4] /Users/vinayakgoel/.gradle/caches/transforms-3/7ad81f3bbfd8d866d8c02a97384f2b52/transformed/ui-2.3.4/AndroidManifest.xml:17:13-37
+158        <uses-library
+158-->[com.giphy.sdk:ui:2.3.4] /Users/vinayakgoel/.gradle/caches/transforms-3/7ad81f3bbfd8d866d8c02a97384f2b52/transformed/ui-2.3.4/AndroidManifest.xml:18:9-20:40
+159            android:name="android.test.mock"
+159-->[com.giphy.sdk:ui:2.3.4] /Users/vinayakgoel/.gradle/caches/transforms-3/7ad81f3bbfd8d866d8c02a97384f2b52/transformed/ui-2.3.4/AndroidManifest.xml:19:13-45
+160            android:required="false" />
+160-->[com.giphy.sdk:ui:2.3.4] /Users/vinayakgoel/.gradle/caches/transforms-3/7ad81f3bbfd8d866d8c02a97384f2b52/transformed/ui-2.3.4/AndroidManifest.xml:20:13-37
+161
+162        <activity
+162-->[com.google.android.gms:play-services-auth:20.5.0] /Users/vinayakgoel/.gradle/caches/transforms-3/9e58d14c790579a2a518da974cfb9352/transformed/play-services-auth-20.5.0/AndroidManifest.xml:23:9-27:75
+163            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+163-->[com.google.android.gms:play-services-auth:20.5.0] /Users/vinayakgoel/.gradle/caches/transforms-3/9e58d14c790579a2a518da974cfb9352/transformed/play-services-auth-20.5.0/AndroidManifest.xml:24:13-93
+164            android:excludeFromRecents="true"
+164-->[com.google.android.gms:play-services-auth:20.5.0] /Users/vinayakgoel/.gradle/caches/transforms-3/9e58d14c790579a2a518da974cfb9352/transformed/play-services-auth-20.5.0/AndroidManifest.xml:25:13-46
+165            android:exported="false"
+165-->[com.google.android.gms:play-services-auth:20.5.0] /Users/vinayakgoel/.gradle/caches/transforms-3/9e58d14c790579a2a518da974cfb9352/transformed/play-services-auth-20.5.0/AndroidManifest.xml:26:13-37
+166            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+166-->[com.google.android.gms:play-services-auth:20.5.0] /Users/vinayakgoel/.gradle/caches/transforms-3/9e58d14c790579a2a518da974cfb9352/transformed/play-services-auth-20.5.0/AndroidManifest.xml:27:13-72
+167        <!--
+168            Service handling Google Sign-In user revocation. For apps that do not integrate with
+169            Google Sign-In, this service will never be started.
+170        -->
+171        <service
+171-->[com.google.android.gms:play-services-auth:20.5.0] /Users/vinayakgoel/.gradle/caches/transforms-3/9e58d14c790579a2a518da974cfb9352/transformed/play-services-auth-20.5.0/AndroidManifest.xml:33:9-37:51
+172            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+172-->[com.google.android.gms:play-services-auth:20.5.0] /Users/vinayakgoel/.gradle/caches/transforms-3/9e58d14c790579a2a518da974cfb9352/transformed/play-services-auth-20.5.0/AndroidManifest.xml:34:13-89
+173            android:exported="true"
+173-->[com.google.android.gms:play-services-auth:20.5.0] /Users/vinayakgoel/.gradle/caches/transforms-3/9e58d14c790579a2a518da974cfb9352/transformed/play-services-auth-20.5.0/AndroidManifest.xml:35:13-36
+174            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION"
+174-->[com.google.android.gms:play-services-auth:20.5.0] /Users/vinayakgoel/.gradle/caches/transforms-3/9e58d14c790579a2a518da974cfb9352/transformed/play-services-auth-20.5.0/AndroidManifest.xml:36:13-107
+175            android:visibleToInstantApps="true" />
+175-->[com.google.android.gms:play-services-auth:20.5.0] /Users/vinayakgoel/.gradle/caches/transforms-3/9e58d14c790579a2a518da974cfb9352/transformed/play-services-auth-20.5.0/AndroidManifest.xml:37:13-48
+176
+177        <activity
+177-->[com.google.android.gms:play-services-base:18.0.1] /Users/vinayakgoel/.gradle/caches/transforms-3/b96b0e8858f7bbc35e265247a17d59c6/transformed/play-services-base-18.0.1/AndroidManifest.xml:20:9-22:45
+178            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+178-->[com.google.android.gms:play-services-base:18.0.1] /Users/vinayakgoel/.gradle/caches/transforms-3/b96b0e8858f7bbc35e265247a17d59c6/transformed/play-services-base-18.0.1/AndroidManifest.xml:20:19-85
+179            android:exported="false"
+179-->[com.google.android.gms:play-services-base:18.0.1] /Users/vinayakgoel/.gradle/caches/transforms-3/b96b0e8858f7bbc35e265247a17d59c6/transformed/play-services-base-18.0.1/AndroidManifest.xml:22:19-43
+180            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+180-->[com.google.android.gms:play-services-base:18.0.1] /Users/vinayakgoel/.gradle/caches/transforms-3/b96b0e8858f7bbc35e265247a17d59c6/transformed/play-services-base-18.0.1/AndroidManifest.xml:21:19-78
+181
+182        <meta-data
+182-->[com.google.android.gms:play-services-basement:18.2.0] /Users/vinayakgoel/.gradle/caches/transforms-3/3eb24c3dc000a07452cf5a28e5ea6974/transformed/play-services-basement-18.2.0/AndroidManifest.xml:21:9-23:69
+183            android:name="com.google.android.gms.version"
+183-->[com.google.android.gms:play-services-basement:18.2.0] /Users/vinayakgoel/.gradle/caches/transforms-3/3eb24c3dc000a07452cf5a28e5ea6974/transformed/play-services-basement-18.2.0/AndroidManifest.xml:22:13-58
+184            android:value="@integer/google_play_services_version" />
+184-->[com.google.android.gms:play-services-basement:18.2.0] /Users/vinayakgoel/.gradle/caches/transforms-3/3eb24c3dc000a07452cf5a28e5ea6974/transformed/play-services-basement-18.2.0/AndroidManifest.xml:23:13-66
+185
+186        <activity
+186-->[androidx.compose.ui:ui-tooling-android:1.5.1] /Users/vinayakgoel/.gradle/caches/transforms-3/e79d9f5b6b209a08ce281e4a8bff474f/transformed/ui-tooling-release/AndroidManifest.xml:23:9-25:39
+187            android:name="androidx.compose.ui.tooling.PreviewActivity"
+187-->[androidx.compose.ui:ui-tooling-android:1.5.1] /Users/vinayakgoel/.gradle/caches/transforms-3/e79d9f5b6b209a08ce281e4a8bff474f/transformed/ui-tooling-release/AndroidManifest.xml:24:13-71
+188            android:exported="true" />
+188-->[androidx.compose.ui:ui-tooling-android:1.5.1] /Users/vinayakgoel/.gradle/caches/transforms-3/e79d9f5b6b209a08ce281e4a8bff474f/transformed/ui-tooling-release/AndroidManifest.xml:25:13-36
+189        <activity
+189-->[androidx.compose.ui:ui-test-manifest:1.5.1] /Users/vinayakgoel/.gradle/caches/transforms-3/73bec10849f69921833b9517bbbf87e2/transformed/ui-test-manifest-1.5.1/AndroidManifest.xml:23:9-25:39
+190            android:name="androidx.activity.ComponentActivity"
+190-->[androidx.compose.ui:ui-test-manifest:1.5.1] /Users/vinayakgoel/.gradle/caches/transforms-3/73bec10849f69921833b9517bbbf87e2/transformed/ui-test-manifest-1.5.1/AndroidManifest.xml:24:13-63
+191            android:exported="true" />
+191-->[androidx.compose.ui:ui-test-manifest:1.5.1] /Users/vinayakgoel/.gradle/caches/transforms-3/73bec10849f69921833b9517bbbf87e2/transformed/ui-test-manifest-1.5.1/AndroidManifest.xml:25:13-36
+192
+193        <receiver
+193-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/vinayakgoel/.gradle/caches/transforms-3/88d63c740a587a2dcc85b228c7d0250d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:34:9-52:20
+194            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+194-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/vinayakgoel/.gradle/caches/transforms-3/88d63c740a587a2dcc85b228c7d0250d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:35:13-76
+195            android:directBootAware="false"
+195-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/vinayakgoel/.gradle/caches/transforms-3/88d63c740a587a2dcc85b228c7d0250d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:36:13-44
+196            android:enabled="true"
+196-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/vinayakgoel/.gradle/caches/transforms-3/88d63c740a587a2dcc85b228c7d0250d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:37:13-35
+197            android:exported="true"
+197-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/vinayakgoel/.gradle/caches/transforms-3/88d63c740a587a2dcc85b228c7d0250d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:38:13-36
+198            android:permission="android.permission.DUMP" >
+198-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/vinayakgoel/.gradle/caches/transforms-3/88d63c740a587a2dcc85b228c7d0250d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:39:13-57
+199            <intent-filter>
+199-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/vinayakgoel/.gradle/caches/transforms-3/88d63c740a587a2dcc85b228c7d0250d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:40:13-42:29
+200                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+200-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/vinayakgoel/.gradle/caches/transforms-3/88d63c740a587a2dcc85b228c7d0250d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:41:17-91
+200-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/vinayakgoel/.gradle/caches/transforms-3/88d63c740a587a2dcc85b228c7d0250d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:41:25-88
+201            </intent-filter>
+202            <intent-filter>
+202-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/vinayakgoel/.gradle/caches/transforms-3/88d63c740a587a2dcc85b228c7d0250d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:43:13-45:29
+203                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+203-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/vinayakgoel/.gradle/caches/transforms-3/88d63c740a587a2dcc85b228c7d0250d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:44:17-85
+203-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/vinayakgoel/.gradle/caches/transforms-3/88d63c740a587a2dcc85b228c7d0250d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:44:25-82
+204            </intent-filter>
+205            <intent-filter>
+205-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/vinayakgoel/.gradle/caches/transforms-3/88d63c740a587a2dcc85b228c7d0250d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:46:13-48:29
+206                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+206-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/vinayakgoel/.gradle/caches/transforms-3/88d63c740a587a2dcc85b228c7d0250d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:47:17-88
+206-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/vinayakgoel/.gradle/caches/transforms-3/88d63c740a587a2dcc85b228c7d0250d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:47:25-85
+207            </intent-filter>
+208            <intent-filter>
+208-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/vinayakgoel/.gradle/caches/transforms-3/88d63c740a587a2dcc85b228c7d0250d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:49:13-51:29
+209                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+209-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/vinayakgoel/.gradle/caches/transforms-3/88d63c740a587a2dcc85b228c7d0250d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:50:17-95
+209-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/vinayakgoel/.gradle/caches/transforms-3/88d63c740a587a2dcc85b228c7d0250d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:50:25-92
+210            </intent-filter>
+211        </receiver>
+212
+213        <meta-data
+213-->[com.facebook.soloader:soloader:0.10.5] /Users/vinayakgoel/.gradle/caches/transforms-3/f84547bb7b2966322bf303897f5fb033/transformed/soloader-0.10.5/AndroidManifest.xml:12:9-14:37
+214            android:name="com.facebook.soloader.enabled"
+214-->[com.facebook.soloader:soloader:0.10.5] /Users/vinayakgoel/.gradle/caches/transforms-3/f84547bb7b2966322bf303897f5fb033/transformed/soloader-0.10.5/AndroidManifest.xml:13:13-57
+215            android:value="false" />
+215-->[com.facebook.soloader:soloader:0.10.5] /Users/vinayakgoel/.gradle/caches/transforms-3/f84547bb7b2966322bf303897f5fb033/transformed/soloader-0.10.5/AndroidManifest.xml:14:13-34
+216    </application>
+217
+218</manifest>

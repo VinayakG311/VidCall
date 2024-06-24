@@ -1,0 +1,1003 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/vinayakgoel/Downloads/VidCall-main/VidCall/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /Users/vinayakgoel/Downloads/VidCall-main/VidCall/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /Users/vinayakgoel/Downloads/VidCall-main/VidCall/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /Users/vinayakgoel/Downloads/VidCall-main/VidCall/app/src/main/AndroidManifest.xml:2:1-41:12
+MERGED from [androidx.room:room-ktx:2.6.1] /Users/vinayakgoel/.gradle/caches/transforms-3/c2045b2e1493736e728a33f41c239c37/transformed/room-ktx-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.room:room-runtime:2.6.1] /Users/vinayakgoel/.gradle/caches/transforms-3/d2cd34f4b3fe975d8e8aa6373e10490e/transformed/room-runtime-2.6.1/AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.compose.material3:material3:1.1.1] /Users/vinayakgoel/.gradle/caches/transforms-3/6cabdb3d3bd38ef21c82cc99139ff272/transformed/material3-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [org.jitsi.react:jitsi-meet-sdk:9.2.2] /Users/vinayakgoel/.gradle/caches/transforms-3/682f2a8c58f573eb97bc2713479145eb/transformed/jitsi-meet-sdk-9.2.2/AndroidManifest.xml:2:1-73:12
+MERGED from [com.facebook.react:react-native-amplitude:2.7.0-jitsi-16757212] /Users/vinayakgoel/.gradle/caches/transforms-3/267fc028d96ea238e36114255735dbff/transformed/react-native-amplitude-2.7.0-jitsi-16757212/AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.react:react-native-giphy:2.3.0-jitsi-16757212] /Users/vinayakgoel/.gradle/caches/transforms-3/f366a80258503fb34c8050a226c5ddd5/transformed/react-native-giphy-2.3.0-jitsi-16757212/AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.react:react-native-google-signin:10.1.0-jitsi-16757212] /Users/vinayakgoel/.gradle/caches/transforms-3/f95dd7203b2ce48f09b39db64ff1018b/transformed/react-native-google-signin-10.1.0-jitsi-16757212/AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.react:react-native-async-storage:1.19.4-jitsi-16757212] /Users/vinayakgoel/.gradle/caches/transforms-3/54c0374511232615bbdbe48c2e638bfd/transformed/react-native-async-storage-1.19.4-jitsi-16757212/AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.react:react-native-background-timer:2.4.1-jitsi-16757212] /Users/vinayakgoel/.gradle/caches/transforms-3/90f1ff778d22c743349beb9d62fcdb1e/transformed/react-native-background-timer-2.4.1-jitsi-16757212/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.react:react-native-calendar-events:2.2.0-jitsi-16757212] /Users/vinayakgoel/.gradle/caches/transforms-3/78ad371d61217b87ae5817680715f625/transformed/react-native-calendar-events-2.2.0-jitsi-16757212/AndroidManifest.xml:2:1-10:12
+MERGED from [com.facebook.react:react-native-community_clipboard:1.5.1-jitsi-16757212] /Users/vinayakgoel/.gradle/caches/transforms-3/fefe0a8a4bd9939681c943cd9b426979/transformed/react-native-community_clipboard-1.5.1-jitsi-16757212/AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.react:react-native-community_netinfo:11.1.0-jitsi-16757212] /Users/vinayakgoel/.gradle/caches/transforms-3/17e22c02c37a696f686caf76d59a450e/transformed/react-native-community_netinfo-11.1.0-jitsi-16757212/AndroidManifest.xml:2:1-10:12
+MERGED from [com.facebook.react:react-native-default-preference:1.4.4-jitsi-16757212] /Users/vinayakgoel/.gradle/caches/transforms-3/9ace953c6e0ac75f3b498a2c82306902/transformed/react-native-default-preference-1.4.4-jitsi-16757212/AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.react:react-native-device-info:10.9.0-jitsi-16757212] /Users/vinayakgoel/.gradle/caches/transforms-3/7a7bf0e37b0eeef2e276a1e3344e78fd/transformed/react-native-device-info-10.9.0-jitsi-16757212/AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.react:react-native-gesture-handler:2.9.0-jitsi-16757212] /Users/vinayakgoel/.gradle/caches/transforms-3/811adcb2060962e48caa95d2b748a39d/transformed/react-native-gesture-handler-2.9.0-jitsi-16757212/AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.react:react-native-get-random-values:1.9.0-jitsi-16757212] /Users/vinayakgoel/.gradle/caches/transforms-3/ec7702d9258e537a67269024ba597900/transformed/react-native-get-random-values-1.9.0-jitsi-16757212/AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.react:react-native-immersive-mode:2.0.1-jitsi-16757212] /Users/vinayakgoel/.gradle/caches/transforms-3/e8d8cfe5e198644e73cddc82f5dfae91/transformed/react-native-immersive-mode-2.0.1-jitsi-16757212/AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.react:react-native-keep-awake:4.0.0-jitsi-16757212] /Users/vinayakgoel/.gradle/caches/transforms-3/e32d035a07b42e0a9e4ebb8f40fd5c99/transformed/react-native-keep-awake-4.0.0-jitsi-16757212/AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.react:react-native-orientation-locker:1.6.0-jitsi-16757212] /Users/vinayakgoel/.gradle/caches/transforms-3/e8a2de4c5faa96a9b403dab35e156ab9/transformed/react-native-orientation-locker-1.6.0-jitsi-16757212/AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.react:react-native-pager-view:6.2.0-jitsi-16757212] /Users/vinayakgoel/.gradle/caches/transforms-3/fee9c4f68889d3f155c81e56e76a4b0c/transformed/react-native-pager-view-6.2.0-jitsi-16757212/AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.react:react-native-performance:5.0.0-jitsi-16757212] /Users/vinayakgoel/.gradle/caches/transforms-3/d37e041e5f25106b328ef8a7c0775bf5/transformed/react-native-performance-5.0.0-jitsi-16757212/AndroidManifest.xml:2:1-15:12
+MERGED from [com.facebook.react:react-native-safe-area-context:4.7.1-jitsi-16757212] /Users/vinayakgoel/.gradle/caches/transforms-3/0e07f8e02160319a9a2a9f7bc0a27f9d/transformed/react-native-safe-area-context-4.7.1-jitsi-16757212/AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.react:react-native-screens:3.24.0-jitsi-16757212] /Users/vinayakgoel/.gradle/caches/transforms-3/071816d4583da03ef8ec8bd4ba343444/transformed/react-native-screens-3.24.0-jitsi-16757212/AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.react:react-native-slider:4.4.3-jitsi-16757212] /Users/vinayakgoel/.gradle/caches/transforms-3/d2d21c051605919f00536aa63e652adc/transformed/react-native-slider-4.4.3-jitsi-16757212/AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.react:react-native-sound:0.11.2-jitsi-16757212] /Users/vinayakgoel/.gradle/caches/transforms-3/7ced468816a5ef790c1863d66bdd3515/transformed/react-native-sound-0.11.2-jitsi-16757212/AndroidManifest.xml:2:1-8:12
+MERGED from [com.facebook.react:react-native-splash-screen:3.3.0-jitsi-16757212] /Users/vinayakgoel/.gradle/caches/transforms-3/11b32698af0e06ab4f0f3559245d4778/transformed/react-native-splash-screen-3.3.0-jitsi-16757212/AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.react:react-native-svg:13.13.0-jitsi-16757212] /Users/vinayakgoel/.gradle/caches/transforms-3/43bd8be87d9f4b86b97b275b1dd02ca5/transformed/react-native-svg-13.13.0-jitsi-16757212/AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.react:react-native-video:6.0.0-alpha.11-jitsi-16757212] /Users/vinayakgoel/.gradle/caches/transforms-3/63b4845ef9f74779db8183a85c2b3ae3/transformed/react-native-video-6.0.0-alpha.11-jitsi-16757212/AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.react:react-native-webrtc:118.0.7-jitsi-16757212] /Users/vinayakgoel/.gradle/caches/transforms-3/17413a73b0b5fe3ecd40d29963cefbe4/transformed/react-native-webrtc-118.0.7-jitsi-16757212/AndroidManifest.xml:2:1-20:12
+MERGED from [com.facebook.react:react-native-webview:13.5.1-jitsi-16757212] /Users/vinayakgoel/.gradle/caches/transforms-3/2744b2fa791070175ebb4a8880fe0f54/transformed/react-native-webview-13.5.1-jitsi-16757212/AndroidManifest.xml:2:1-19:12
+MERGED from [com.facebook.react:react-android:0.72.9] /Users/vinayakgoel/.gradle/caches/transforms-3/0824b22d56203e77b751127bfb2312a8/transformed/react-android-0.72.9-debug/AndroidManifest.xml:2:1-7:12
+MERGED from [com.giphy.sdk:ui:2.3.4] /Users/vinayakgoel/.gradle/caches/transforms-3/7ad81f3bbfd8d866d8c02a97384f2b52/transformed/ui-2.3.4/AndroidManifest.xml:2:1-23:12
+MERGED from [com.google.android.material:material:1.6.1] /Users/vinayakgoel/.gradle/caches/transforms-3/9180585be40de5c989d84e275ec23a45/transformed/material-1.6.1/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/vinayakgoel/.gradle/caches/transforms-3/4d47a41814ca8fd3f96f88785febe36b/transformed/constraintlayout-2.1.4/AndroidManifest.xml:2:1-11:12
+MERGED from [com.airbnb.android:lottie:3.4.1] /Users/vinayakgoel/.gradle/caches/transforms-3/677e5b68f2226f07a09c96d6aaf6f750/transformed/lottie-3.4.1/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.4.2] /Users/vinayakgoel/.gradle/caches/transforms-3/d428cdbb265b1cf0d47b1199d32f1ae3/transformed/appcompat-1.4.2/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-auth:20.5.0] /Users/vinayakgoel/.gradle/caches/transforms-3/9e58d14c790579a2a518da974cfb9352/transformed/play-services-auth-20.5.0/AndroidManifest.xml:17:1-40:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/vinayakgoel/.gradle/caches/transforms-3/8245dd159d772a77cec2cf58c1522993/transformed/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/vinayakgoel/.gradle/caches/transforms-3/41cbacf155cef9472b1b47891d827297/transformed/play-services-iid-17.0.0/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.1] /Users/vinayakgoel/.gradle/caches/transforms-3/955e809bc9a072ffbfebcee2713c4bc0/transformed/play-services-auth-api-phone-18.0.1/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.4] /Users/vinayakgoel/.gradle/caches/transforms-3/cc2774e1ce86014daa0461803ac19f3f/transformed/play-services-auth-base-18.0.4/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-fido:20.0.1] /Users/vinayakgoel/.gradle/caches/transforms-3/af9b0611843f81fd009d1c736d65cc3f/transformed/play-services-fido-20.0.1/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/vinayakgoel/.gradle/caches/transforms-3/b96b0e8858f7bbc35e265247a17d59c6/transformed/play-services-base-18.0.1/AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/vinayakgoel/.gradle/caches/transforms-3/9b12380274dfc718ed38ce41cf1e8dd0/transformed/play-services-tasks-18.0.1/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/vinayakgoel/.gradle/caches/transforms-3/dee8fb5003a0e0f8b1e4ae4bdaaca352/transformed/play-services-stats-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:18.2.0] /Users/vinayakgoel/.gradle/caches/transforms-3/3eb24c3dc000a07452cf5a28e5ea6974/transformed/play-services-basement-18.2.0/AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.4.1] /Users/vinayakgoel/.gradle/caches/transforms-3/0e7986ba568480be9812b24d7fc7b8dc/transformed/fragment-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.7.7] /Users/vinayakgoel/.gradle/caches/transforms-3/5c6f2d12a7e85cafd8bbd421b5d1aaaf/transformed/navigation-common-2.7.7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime:2.7.7] /Users/vinayakgoel/.gradle/caches/transforms-3/fd7b7b2d7803721c9d70d8594847033e/transformed/navigation-runtime-2.7.7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.7.7] /Users/vinayakgoel/.gradle/caches/transforms-3/85e4a629b70869ef5c65b4e00d102735/transformed/navigation-common-ktx-2.7.7/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.7.7] /Users/vinayakgoel/.gradle/caches/transforms-3/18960b6ecc8bae627e7dcb56fc72b915/transformed/navigation-runtime-ktx-2.7.7/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-compose:2.7.7] /Users/vinayakgoel/.gradle/caches/transforms-3/f9365121a67cb5ee1f9ab8fc9e6e9768/transformed/navigation-compose-2.7.7/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/vinayakgoel/.gradle/caches/transforms-3/dc9cc29224b4b9fee07ca364c355f44c/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/vinayakgoel/.gradle/caches/transforms-3/b486a3c86145fb12e6901acb9e799e18/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/vinayakgoel/.gradle/caches/transforms-3/a6a058df991561627587f07f610834a8/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.foundation:foundation-android:1.5.1] /Users/vinayakgoel/.gradle/caches/transforms-3/4ed87c31ada1478d1c0ddbeb6620b1fe/transformed/foundation-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.5.1] /Users/vinayakgoel/.gradle/caches/transforms-3/3a8a1288ba8055548d53ba1431b301dc/transformed/foundation-layout-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-core-android:1.5.1] /Users/vinayakgoel/.gradle/caches/transforms-3/37d230d638514e6226b55bb3ecb3f11f/transformed/animation-core-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.5.1] /Users/vinayakgoel/.gradle/caches/transforms-3/1e952e4a82314ecae5ddabafb5378439/transformed/ui-tooling-data-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-unit-android:1.5.1] /Users/vinayakgoel/.gradle/caches/transforms-3/7a318e0e6a89a4270c58ee7b3bd9e6f3/transformed/ui-unit-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-geometry-android:1.5.1] /Users/vinayakgoel/.gradle/caches/transforms-3/f118a4eac15dabb2404b6b91c72e121b/transformed/ui-geometry-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.5.1] /Users/vinayakgoel/.gradle/caches/transforms-3/cddcbcba9ed96b249350da77dd0bcf1a/transformed/ui-tooling-preview-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-tooling-android:1.5.1] /Users/vinayakgoel/.gradle/caches/transforms-3/e79d9f5b6b209a08ce281e4a8bff474f/transformed/ui-tooling-release/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.compose.material:material-android:1.5.0] /Users/vinayakgoel/.gradle/caches/transforms-3/f3c76ae5f0500e3f73e1b1896bd03fda/transformed/material-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-icons-core-android:1.5.0] /Users/vinayakgoel/.gradle/caches/transforms-3/d06e3f93158cd4db0389582a1f85282f/transformed/material-icons-core-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-ripple-android:1.5.0] /Users/vinayakgoel/.gradle/caches/transforms-3/c1ea51e8830848884dee3b5c1c9f6e07/transformed/material-ripple-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-android:1.5.1] /Users/vinayakgoel/.gradle/caches/transforms-3/afffa5e9b4d092b7e0644e0e6493db30/transformed/animation-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-util-android:1.5.1] /Users/vinayakgoel/.gradle/caches/transforms-3/1c15dc1532a2756884aa741758abefc8/transformed/ui-util-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-graphics-android:1.5.1] /Users/vinayakgoel/.gradle/caches/transforms-3/ef30fecd5bae0bcf908263145c054a10/transformed/ui-graphics-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-text-android:1.5.1] /Users/vinayakgoel/.gradle/caches/transforms-3/c7f2938f1692f8d4317685e7b56fa69a/transformed/ui-text-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.4.0] /Users/vinayakgoel/.gradle/caches/transforms-3/8e9c2f45d091206a2f313f66f775eb11/transformed/emoji2-views-helper-1.4.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.4.0] /Users/vinayakgoel/.gradle/caches/transforms-3/0f2122af0cf9ce63063776a78cdd6786/transformed/emoji2-1.4.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/vinayakgoel/.gradle/caches/transforms-3/b13010458167cba5b3502ba27f0cb0e7/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] /Users/vinayakgoel/.gradle/caches/transforms-3/b9c56fde6f0df2208b00facf34ba2b76/transformed/lifecycle-livedata-core-ktx-2.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] /Users/vinayakgoel/.gradle/caches/transforms-3/7ee6ea72859c41559626be981f705e20/transformed/lifecycle-livedata-2.7.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.7.0] /Users/vinayakgoel/.gradle/caches/transforms-3/a538db5486be0f3f014742b2c2a386b1/transformed/lifecycle-viewmodel-ktx-2.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/vinayakgoel/.gradle/caches/transforms-3/a8f35a2a2ede439815335bfd83f4f571/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/vinayakgoel/.gradle/caches/transforms-3/420238a5ce7a0c9ad017f37308c8b778/transformed/savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] /Users/vinayakgoel/.gradle/caches/transforms-3/24831ab24e9ad9de1d02c3f0a6e23698/transformed/lifecycle-viewmodel-savedstate-2.7.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] /Users/vinayakgoel/.gradle/caches/transforms-3/0ec54a57e53333d05f231f58b9a1b865/transformed/lifecycle-livedata-core-2.7.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] /Users/vinayakgoel/.gradle/caches/transforms-3/3914667efc4eb8df6802e6a82517a136/transformed/lifecycle-viewmodel-2.7.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.7.0] /Users/vinayakgoel/.gradle/caches/transforms-3/8610f161b4529facd79ff009f842ee43/transformed/lifecycle-viewmodel-compose-2.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-android:1.5.1] /Users/vinayakgoel/.gradle/caches/transforms-3/09bfacf80f13f6e057be8321df824532/transformed/ui-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-test-manifest:1.5.1] /Users/vinayakgoel/.gradle/caches/transforms-3/73bec10849f69921833b9517bbbf87e2/transformed/ui-test-manifest-1.5.1/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.activity:activity:1.9.0] /Users/vinayakgoel/.gradle/caches/transforms-3/9aac3e0fed1c3411a8db51a7fbb63829/transformed/activity-1.9.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-compose:1.9.0] /Users/vinayakgoel/.gradle/caches/transforms-3/1eb6b77c280c02d008a9b7a102dff0a8/transformed/activity-compose-1.9.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity-ktx:1.9.0] /Users/vinayakgoel/.gradle/caches/transforms-3/8590752c106adcfa5e399e3baeee518f/transformed/activity-ktx-1.9.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/vinayakgoel/.gradle/caches/transforms-3/48d575af14cfe42a666a739c40a3514c/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.core:core-ktx:1.13.0] /Users/vinayakgoel/.gradle/caches/transforms-3/2f992b8b089738ac4dc05ba6701ebe15/transformed/core-ktx-1.13.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /Users/vinayakgoel/.gradle/caches/transforms-3/abb5ff77c2751c1eab016d104627e078/transformed/swiperefreshlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.autofill:autofill:1.1.0] /Users/vinayakgoel/.gradle/caches/transforms-3/c026a1222c9e3d0eb0fd1cf15f708172/transformed/autofill-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.4.2] /Users/vinayakgoel/.gradle/caches/transforms-3/befaa04760f92cc8f439640487437b66/transformed/appcompat-resources-1.4.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/vinayakgoel/.gradle/caches/transforms-3/fe4d510104ccb5dcfad2f2e08da0aea3/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.exoplayer:exoplayer:2.18.1] /Users/vinayakgoel/.gradle/caches/transforms-3/2d536ab735ec16697f1f2cbe1f0436d9/transformed/exoplayer-2.18.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.18.1] /Users/vinayakgoel/.gradle/caches/transforms-3/a5fd598d1232c7ab2ee5b4761bf7351e/transformed/exoplayer-ui-2.18.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.6.0] /Users/vinayakgoel/.gradle/caches/transforms-3/988b1f2ab41c2af80be8c3c88400dfe8/transformed/media-1.6.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.webkit:webkit:1.4.0] /Users/vinayakgoel/.gradle/caches/transforms-3/7e7b3f0406553cddcaf2b9e546c8c58f/transformed/webkit-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/vinayakgoel/.gradle/caches/transforms-3/3c3b1017a7599a0273976e4459010fc4/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/vinayakgoel/.gradle/caches/transforms-3/ecfa9c5ffe5d307576765493a9b3899d/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.2.0] /Users/vinayakgoel/.gradle/caches/transforms-3/ccb0579a2788c779a885f2e7e4263e87/transformed/coordinatorlayout-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] /Users/vinayakgoel/.gradle/caches/transforms-3/a0224e23448cb2cd8d281d4f4535ed42/transformed/recyclerview-1.2.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.18.1] /Users/vinayakgoel/.gradle/caches/transforms-3/2f33d1bb9d81dfa2b1dc625ff3cd6af0/transformed/exoplayer-dash-2.18.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.18.1] /Users/vinayakgoel/.gradle/caches/transforms-3/5108767b95ad1b2a1d745cda0e9bc173/transformed/exoplayer-hls-2.18.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-rtsp:2.18.1] /Users/vinayakgoel/.gradle/caches/transforms-3/356a58c49050589ab05c755867e3b712/transformed/exoplayer-rtsp-2.18.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.18.1] /Users/vinayakgoel/.gradle/caches/transforms-3/0b54a9ccb33a9122b30f9ec0aacb1991/transformed/exoplayer-smoothstreaming-2.18.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.18.1] /Users/vinayakgoel/.gradle/caches/transforms-3/619569a36f2188f541f10f761a6818d0/transformed/exoplayer-core-2.18.1/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/vinayakgoel/.gradle/caches/transforms-3/d6931f3af788d0f0a50bd79250a190d8/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/vinayakgoel/.gradle/caches/transforms-3/d94580f9fc1e89f96e187a80fe889989/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] /Users/vinayakgoel/.gradle/caches/transforms-3/d7ac77918cf32c1519dc6028687ad937/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.13.0] /Users/vinayakgoel/.gradle/caches/transforms-3/fe2493e55ed439378b0f650daa9755b3/transformed/core-1.13.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] /Users/vinayakgoel/.gradle/caches/transforms-3/f253f7c771aee773cfc603e7f8a3a1e6/transformed/lifecycle-runtime-2.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.7.0] /Users/vinayakgoel/.gradle/caches/transforms-3/a2b9c074a8d2cbabfe2fd6e67c289e38/transformed/lifecycle-runtime-ktx-2.7.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.5.1] /Users/vinayakgoel/.gradle/caches/transforms-3/139fef9a4dba9acfa1590b382ad2b670/transformed/runtime-saveable-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-android:1.5.1] /Users/vinayakgoel/.gradle/caches/transforms-3/ec2067ea59968e0f5a80781425135072/transformed/runtime-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.sqlite:sqlite-framework:2.4.0] /Users/vinayakgoel/.gradle/caches/transforms-3/46fc299752b31d522160c7b80b8874a0/transformed/sqlite-framework-2.4.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.4.0] /Users/vinayakgoel/.gradle/caches/transforms-3/8ff9de99cf54956ad6428f6c99136365/transformed/sqlite-2.4.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.exoplayer:extension-okhttp:2.18.1] /Users/vinayakgoel/.gradle/caches/transforms-3/447e209bb68e64cb6fba5a295decc5de/transformed/extension-okhttp-2.18.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.6.0] /Users/vinayakgoel/.gradle/caches/transforms-3/746b5087d4782873923d4db93bc92e95/transformed/imagepipeline-okhttp3-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /Users/vinayakgoel/.gradle/caches/transforms-3/01c3711c87add96a8da98fedd846c218/transformed/annotation-experimental-1.4.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/vinayakgoel/.gradle/caches/transforms-3/0b894c72608b2a8f3d743beae188f8ef/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/vinayakgoel/.gradle/caches/transforms-3/6948b5c6a7c655d6addb45de2b882709/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/vinayakgoel/.gradle/caches/transforms-3/88d63c740a587a2dcc85b228c7d0250d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/vinayakgoel/.gradle/caches/transforms-3/cc6ba7be16e0b85c171c04fb53c56b72/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.1.0] /Users/vinayakgoel/.gradle/caches/transforms-3/2b1d59c1c82b99b8cf6deb31d8d4be9e/transformed/tracing-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/vinayakgoel/.gradle/caches/transforms-3/d3003920fb6c7a61f04ab547863adaff/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/vinayakgoel/.gradle/caches/transforms-3/fb017ad09699c572054d13a5fb77594d/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/vinayakgoel/.gradle/caches/transforms-3/163f965c440222c2ab554fc165508d6f/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.databinding:viewbinding:7.2.2] /Users/vinayakgoel/.gradle/caches/transforms-3/cf3b7eb812f030f02e2a10366154e395/transformed/viewbinding-7.2.2/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-datasource:2.18.1] /Users/vinayakgoel/.gradle/caches/transforms-3/2d7bfc2ab191044abc0acd1ff2a4fe17/transformed/exoplayer-datasource-2.18.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-database:2.18.1] /Users/vinayakgoel/.gradle/caches/transforms-3/043b96c63dcf6eaef4aa2213b44e27fc/transformed/exoplayer-database-2.18.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.18.1] /Users/vinayakgoel/.gradle/caches/transforms-3/1f684f447595ad5aef8489cccb68a843/transformed/exoplayer-extractor-2.18.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-decoder:2.18.1] /Users/vinayakgoel/.gradle/caches/transforms-3/3c2dbd956b76527caa5d73167ccbedf7/transformed/exoplayer-decoder-2.18.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.18.1] /Users/vinayakgoel/.gradle/caches/transforms-3/f83a0ee863b5bed487203276357ab911/transformed/exoplayer-common-2.18.1/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/vinayakgoel/.gradle/caches/transforms-3/573da8d163c759c9f5d2656c70a12f34/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/vinayakgoel/.gradle/caches/transforms-3/507fdf271e930787416ffb0723bfda0e/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/vinayakgoel/.gradle/caches/transforms-3/a613e83d048f84b4f7ecc892a3bc15ac/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [org.webkit:android-jsc:r250231] /Users/vinayakgoel/.gradle/caches/transforms-3/df86aeaa16ba68151ca7d3f5f41d62be/transformed/android-jsc-r250231/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.fresco:animated-gif:2.6.0] /Users/vinayakgoel/.gradle/caches/transforms-3/91b05a841a3a2a93dc0309c51ae9c8cf/transformed/animated-gif-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.jakewharton.timber:timber:4.7.1] /Users/vinayakgoel/.gradle/caches/transforms-3/628760951794161d70dea8f971acb418/transformed/timber-4.7.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.squareup.duktape:duktape-android:1.3.0] /Users/vinayakgoel/.gradle/caches/transforms-3/a1578f3e0f95d3d2d5da6cc667180b6d/transformed/duktape-android-1.3.0/AndroidManifest.xml:2:1-14:12
+MERGED from [com.facebook.fbjni:fbjni:0.3.0] /Users/vinayakgoel/.gradle/caches/transforms-3/87fb0e0fa91da05ad5265db3a891960a/transformed/fbjni-0.3.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fresco:2.6.0] /Users/vinayakgoel/.gradle/caches/transforms-3/6a476a842ee47d0361667d132ed20b34/transformed/fresco-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:animated-webp:2.6.0] /Users/vinayakgoel/.gradle/caches/transforms-3/8948b877a2ba46939e061fc567b01272/transformed/animated-webp-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:animated-base:2.6.0] /Users/vinayakgoel/.gradle/caches/transforms-3/8c226d4496ca5812e0dea17bad75621c/transformed/animated-base-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:animated-drawable:2.6.0] /Users/vinayakgoel/.gradle/caches/transforms-3/3344baa591e9f28f222f1bce175bab4d/transformed/animated-drawable-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.6.0] /Users/vinayakgoel/.gradle/caches/transforms-3/5eee55a3b64da8f56b8aac652faa7046/transformed/drawee-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:middleware:2.6.0] /Users/vinayakgoel/.gradle/caches/transforms-3/9e2b0d96231eb039a4f4f302f227bb1d/transformed/middleware-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:ui-common:2.6.0] /Users/vinayakgoel/.gradle/caches/transforms-3/b24dc14944b84dc3373d9ddb21820963/transformed/ui-common-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.6.0] /Users/vinayakgoel/.gradle/caches/transforms-3/32ee795fe3a829148022ca21a702c042/transformed/nativeimagefilters-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-native:2.6.0] /Users/vinayakgoel/.gradle/caches/transforms-3/8683a5a6e92971824a26b3c66c4e1a7b/transformed/memory-type-native-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-java:2.6.0] /Users/vinayakgoel/.gradle/caches/transforms-3/768fbb4460baa80520584af92fc050d2/transformed/memory-type-java-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-native:2.6.0] /Users/vinayakgoel/.gradle/caches/transforms-3/e80cd6287a8b8d00d83bcba1dc8eb605/transformed/imagepipeline-native-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.6.0] /Users/vinayakgoel/.gradle/caches/transforms-3/4b720ca69922e254312151048a4856ff/transformed/memory-type-ashmem-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.6.0] /Users/vinayakgoel/.gradle/caches/transforms-3/b8c0a5a891e93a7f9ce1e765a0df7ee7/transformed/imagepipeline-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:webpsupport:2.6.0] /Users/vinayakgoel/.gradle/caches/transforms-3/6ca025b46d74a3ca1b5a61ba0226663d/transformed/webpsupport-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.6.0] /Users/vinayakgoel/.gradle/caches/transforms-3/e9580b33ed291c556978e3fdf7a10bb5/transformed/nativeimagetranscoder-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.6.0] /Users/vinayakgoel/.gradle/caches/transforms-3/46a1026dadb80e734fe1dc9de932b8a1/transformed/imagepipeline-base-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:soloader:2.6.0] /Users/vinayakgoel/.gradle/caches/transforms-3/efe81665b55ba7d93ca0f02eeb030627/transformed/soloader-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.10.5] /Users/vinayakgoel/.gradle/caches/transforms-3/f84547bb7b2966322bf303897f5fb033/transformed/soloader-0.10.5/AndroidManifest.xml:2:1-17:12
+MERGED from [com.facebook.fresco:fbcore:2.6.0] /Users/vinayakgoel/.gradle/caches/transforms-3/408b24afd8187062d293c4bdb545ed30/transformed/fbcore-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.amplitude:android-sdk:2.34.0] /Users/vinayakgoel/.gradle/caches/transforms-3/3dca3e18e51426a9e7723305ec21509f/transformed/android-sdk-2.34.0/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.installreferrer:installreferrer:1.1.2] /Users/vinayakgoel/.gradle/caches/transforms-3/a98d202c7cfbbb11193f308483c6e306/transformed/installreferrer-1.1.2/AndroidManifest.xml:2:1-13:12
+MERGED from [org.jitsi:webrtc:118.0.0] /Users/vinayakgoel/.gradle/caches/transforms-3/5b806dbe6014e171f5b38699b600c477/transformed/webrtc-118.0.0/AndroidManifest.xml:2:1-11:12
+	package
+		INJECTED from /Users/vinayakgoel/Downloads/VidCall-main/VidCall/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/vinayakgoel/Downloads/VidCall-main/VidCall/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/vinayakgoel/Downloads/VidCall-main/VidCall/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/vinayakgoel/Downloads/VidCall-main/VidCall/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/vinayakgoel/Downloads/VidCall-main/VidCall/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from /Users/vinayakgoel/Downloads/VidCall-main/VidCall/app/src/main/AndroidManifest.xml:4:5-79
+MERGED from [org.jitsi.react:jitsi-meet-sdk:9.2.2] /Users/vinayakgoel/.gradle/caches/transforms-3/682f2a8c58f573eb97bc2713479145eb/transformed/jitsi-meet-sdk-9.2.2/AndroidManifest.xml:13:5-80
+MERGED from [org.jitsi.react:jitsi-meet-sdk:9.2.2] /Users/vinayakgoel/.gradle/caches/transforms-3/682f2a8c58f573eb97bc2713479145eb/transformed/jitsi-meet-sdk-9.2.2/AndroidManifest.xml:13:5-80
+	android:name
+		ADDED from /Users/vinayakgoel/Downloads/VidCall-main/VidCall/app/src/main/AndroidManifest.xml:4:22-77
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/vinayakgoel/Downloads/VidCall-main/VidCall/app/src/main/AndroidManifest.xml:5:5-70
+MERGED from [org.jitsi.react:jitsi-meet-sdk:9.2.2] /Users/vinayakgoel/.gradle/caches/transforms-3/682f2a8c58f573eb97bc2713479145eb/transformed/jitsi-meet-sdk-9.2.2/AndroidManifest.xml:14:5-71
+MERGED from [org.jitsi.react:jitsi-meet-sdk:9.2.2] /Users/vinayakgoel/.gradle/caches/transforms-3/682f2a8c58f573eb97bc2713479145eb/transformed/jitsi-meet-sdk-9.2.2/AndroidManifest.xml:14:5-71
+	android:name
+		ADDED from /Users/vinayakgoel/Downloads/VidCall-main/VidCall/app/src/main/AndroidManifest.xml:5:22-68
+uses-permission#android.permission.BODY_SENSORS
+ADDED from /Users/vinayakgoel/Downloads/VidCall-main/VidCall/app/src/main/AndroidManifest.xml:6:5-70
+	android:name
+		ADDED from /Users/vinayakgoel/Downloads/VidCall-main/VidCall/app/src/main/AndroidManifest.xml:6:22-68
+application
+ADDED from /Users/vinayakgoel/Downloads/VidCall-main/VidCall/app/src/main/AndroidManifest.xml:8:5-39:19
+INJECTED from /Users/vinayakgoel/Downloads/VidCall-main/VidCall/app/src/main/AndroidManifest.xml:8:5-39:19
+MERGED from [androidx.room:room-runtime:2.6.1] /Users/vinayakgoel/.gradle/caches/transforms-3/d2cd34f4b3fe975d8e8aa6373e10490e/transformed/room-runtime-2.6.1/AndroidManifest.xml:23:5-29:19
+MERGED from [androidx.room:room-runtime:2.6.1] /Users/vinayakgoel/.gradle/caches/transforms-3/d2cd34f4b3fe975d8e8aa6373e10490e/transformed/room-runtime-2.6.1/AndroidManifest.xml:23:5-29:19
+MERGED from [org.jitsi.react:jitsi-meet-sdk:9.2.2] /Users/vinayakgoel/.gradle/caches/transforms-3/682f2a8c58f573eb97bc2713479145eb/transformed/jitsi-meet-sdk-9.2.2/AndroidManifest.xml:32:5-71:19
+MERGED from [org.jitsi.react:jitsi-meet-sdk:9.2.2] /Users/vinayakgoel/.gradle/caches/transforms-3/682f2a8c58f573eb97bc2713479145eb/transformed/jitsi-meet-sdk-9.2.2/AndroidManifest.xml:32:5-71:19
+MERGED from [com.facebook.react:react-native-performance:5.0.0-jitsi-16757212] /Users/vinayakgoel/.gradle/caches/transforms-3/d37e041e5f25106b328ef8a7c0775bf5/transformed/react-native-performance-5.0.0-jitsi-16757212/AndroidManifest.xml:7:5-13:19
+MERGED from [com.facebook.react:react-native-performance:5.0.0-jitsi-16757212] /Users/vinayakgoel/.gradle/caches/transforms-3/d37e041e5f25106b328ef8a7c0775bf5/transformed/react-native-performance-5.0.0-jitsi-16757212/AndroidManifest.xml:7:5-13:19
+MERGED from [com.facebook.react:react-native-webrtc:118.0.7-jitsi-16757212] /Users/vinayakgoel/.gradle/caches/transforms-3/17413a73b0b5fe3ecd40d29963cefbe4/transformed/react-native-webrtc-118.0.7-jitsi-16757212/AndroidManifest.xml:13:5-18:19
+MERGED from [com.facebook.react:react-native-webrtc:118.0.7-jitsi-16757212] /Users/vinayakgoel/.gradle/caches/transforms-3/17413a73b0b5fe3ecd40d29963cefbe4/transformed/react-native-webrtc-118.0.7-jitsi-16757212/AndroidManifest.xml:13:5-18:19
+MERGED from [com.facebook.react:react-native-webview:13.5.1-jitsi-16757212] /Users/vinayakgoel/.gradle/caches/transforms-3/2744b2fa791070175ebb4a8880fe0f54/transformed/react-native-webview-13.5.1-jitsi-16757212/AndroidManifest.xml:7:5-17:19
+MERGED from [com.facebook.react:react-native-webview:13.5.1-jitsi-16757212] /Users/vinayakgoel/.gradle/caches/transforms-3/2744b2fa791070175ebb4a8880fe0f54/transformed/react-native-webview-13.5.1-jitsi-16757212/AndroidManifest.xml:7:5-17:19
+MERGED from [com.giphy.sdk:ui:2.3.4] /Users/vinayakgoel/.gradle/caches/transforms-3/7ad81f3bbfd8d866d8c02a97384f2b52/transformed/ui-2.3.4/AndroidManifest.xml:11:5-21:19
+MERGED from [com.giphy.sdk:ui:2.3.4] /Users/vinayakgoel/.gradle/caches/transforms-3/7ad81f3bbfd8d866d8c02a97384f2b52/transformed/ui-2.3.4/AndroidManifest.xml:11:5-21:19
+MERGED from [com.google.android.material:material:1.6.1] /Users/vinayakgoel/.gradle/caches/transforms-3/9180585be40de5c989d84e275ec23a45/transformed/material-1.6.1/AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.material:material:1.6.1] /Users/vinayakgoel/.gradle/caches/transforms-3/9180585be40de5c989d84e275ec23a45/transformed/material-1.6.1/AndroidManifest.xml:24:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/vinayakgoel/.gradle/caches/transforms-3/4d47a41814ca8fd3f96f88785febe36b/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/vinayakgoel/.gradle/caches/transforms-3/4d47a41814ca8fd3f96f88785febe36b/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [com.airbnb.android:lottie:3.4.1] /Users/vinayakgoel/.gradle/caches/transforms-3/677e5b68f2226f07a09c96d6aaf6f750/transformed/lottie-3.4.1/AndroidManifest.xml:9:5-20
+MERGED from [com.airbnb.android:lottie:3.4.1] /Users/vinayakgoel/.gradle/caches/transforms-3/677e5b68f2226f07a09c96d6aaf6f750/transformed/lottie-3.4.1/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-auth:20.5.0] /Users/vinayakgoel/.gradle/caches/transforms-3/9e58d14c790579a2a518da974cfb9352/transformed/play-services-auth-20.5.0/AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.gms:play-services-auth:20.5.0] /Users/vinayakgoel/.gradle/caches/transforms-3/9e58d14c790579a2a518da974cfb9352/transformed/play-services-auth-20.5.0/AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/vinayakgoel/.gradle/caches/transforms-3/41cbacf155cef9472b1b47891d827297/transformed/play-services-iid-17.0.0/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/vinayakgoel/.gradle/caches/transforms-3/41cbacf155cef9472b1b47891d827297/transformed/play-services-iid-17.0.0/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-fido:20.0.1] /Users/vinayakgoel/.gradle/caches/transforms-3/af9b0611843f81fd009d1c736d65cc3f/transformed/play-services-fido-20.0.1/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-fido:20.0.1] /Users/vinayakgoel/.gradle/caches/transforms-3/af9b0611843f81fd009d1c736d65cc3f/transformed/play-services-fido-20.0.1/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/vinayakgoel/.gradle/caches/transforms-3/b96b0e8858f7bbc35e265247a17d59c6/transformed/play-services-base-18.0.1/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/vinayakgoel/.gradle/caches/transforms-3/b96b0e8858f7bbc35e265247a17d59c6/transformed/play-services-base-18.0.1/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/vinayakgoel/.gradle/caches/transforms-3/9b12380274dfc718ed38ce41cf1e8dd0/transformed/play-services-tasks-18.0.1/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/vinayakgoel/.gradle/caches/transforms-3/9b12380274dfc718ed38ce41cf1e8dd0/transformed/play-services-tasks-18.0.1/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/vinayakgoel/.gradle/caches/transforms-3/dee8fb5003a0e0f8b1e4ae4bdaaca352/transformed/play-services-stats-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/vinayakgoel/.gradle/caches/transforms-3/dee8fb5003a0e0f8b1e4ae4bdaaca352/transformed/play-services-stats-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.2.0] /Users/vinayakgoel/.gradle/caches/transforms-3/3eb24c3dc000a07452cf5a28e5ea6974/transformed/play-services-basement-18.2.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.2.0] /Users/vinayakgoel/.gradle/caches/transforms-3/3eb24c3dc000a07452cf5a28e5ea6974/transformed/play-services-basement-18.2.0/AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.5.1] /Users/vinayakgoel/.gradle/caches/transforms-3/e79d9f5b6b209a08ce281e4a8bff474f/transformed/ui-tooling-release/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.5.1] /Users/vinayakgoel/.gradle/caches/transforms-3/e79d9f5b6b209a08ce281e4a8bff474f/transformed/ui-tooling-release/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.emoji2:emoji2:1.4.0] /Users/vinayakgoel/.gradle/caches/transforms-3/0f2122af0cf9ce63063776a78cdd6786/transformed/emoji2-1.4.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.4.0] /Users/vinayakgoel/.gradle/caches/transforms-3/0f2122af0cf9ce63063776a78cdd6786/transformed/emoji2-1.4.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/vinayakgoel/.gradle/caches/transforms-3/b13010458167cba5b3502ba27f0cb0e7/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/vinayakgoel/.gradle/caches/transforms-3/b13010458167cba5b3502ba27f0cb0e7/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.compose.ui:ui-test-manifest:1.5.1] /Users/vinayakgoel/.gradle/caches/transforms-3/73bec10849f69921833b9517bbbf87e2/transformed/ui-test-manifest-1.5.1/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-test-manifest:1.5.1] /Users/vinayakgoel/.gradle/caches/transforms-3/73bec10849f69921833b9517bbbf87e2/transformed/ui-test-manifest-1.5.1/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.13.0] /Users/vinayakgoel/.gradle/caches/transforms-3/fe2493e55ed439378b0f650daa9755b3/transformed/core-1.13.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.13.0] /Users/vinayakgoel/.gradle/caches/transforms-3/fe2493e55ed439378b0f650daa9755b3/transformed/core-1.13.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/vinayakgoel/.gradle/caches/transforms-3/88d63c740a587a2dcc85b228c7d0250d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/vinayakgoel/.gradle/caches/transforms-3/88d63c740a587a2dcc85b228c7d0250d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/vinayakgoel/.gradle/caches/transforms-3/cc6ba7be16e0b85c171c04fb53c56b72/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/vinayakgoel/.gradle/caches/transforms-3/cc6ba7be16e0b85c171c04fb53c56b72/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/vinayakgoel/.gradle/caches/transforms-3/fb017ad09699c572054d13a5fb77594d/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/vinayakgoel/.gradle/caches/transforms-3/fb017ad09699c572054d13a5fb77594d/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [com.jakewharton.timber:timber:4.7.1] /Users/vinayakgoel/.gradle/caches/transforms-3/628760951794161d70dea8f971acb418/transformed/timber-4.7.1/AndroidManifest.xml:7:5-20
+MERGED from [com.jakewharton.timber:timber:4.7.1] /Users/vinayakgoel/.gradle/caches/transforms-3/628760951794161d70dea8f971acb418/transformed/timber-4.7.1/AndroidManifest.xml:7:5-20
+MERGED from [com.squareup.duktape:duktape-android:1.3.0] /Users/vinayakgoel/.gradle/caches/transforms-3/a1578f3e0f95d3d2d5da6cc667180b6d/transformed/duktape-android-1.3.0/AndroidManifest.xml:12:5-20
+MERGED from [com.squareup.duktape:duktape-android:1.3.0] /Users/vinayakgoel/.gradle/caches/transforms-3/a1578f3e0f95d3d2d5da6cc667180b6d/transformed/duktape-android-1.3.0/AndroidManifest.xml:12:5-20
+MERGED from [com.facebook.soloader:soloader:0.10.5] /Users/vinayakgoel/.gradle/caches/transforms-3/f84547bb7b2966322bf303897f5fb033/transformed/soloader-0.10.5/AndroidManifest.xml:11:5-15:19
+MERGED from [com.facebook.soloader:soloader:0.10.5] /Users/vinayakgoel/.gradle/caches/transforms-3/f84547bb7b2966322bf303897f5fb033/transformed/soloader-0.10.5/AndroidManifest.xml:11:5-15:19
+MERGED from [com.android.installreferrer:installreferrer:1.1.2] /Users/vinayakgoel/.gradle/caches/transforms-3/a98d202c7cfbbb11193f308483c6e306/transformed/installreferrer-1.1.2/AndroidManifest.xml:11:5-20
+MERGED from [com.android.installreferrer:installreferrer:1.1.2] /Users/vinayakgoel/.gradle/caches/transforms-3/a98d202c7cfbbb11193f308483c6e306/transformed/installreferrer-1.1.2/AndroidManifest.xml:11:5-20
+	android:extractNativeLibs
+		INJECTED from /Users/vinayakgoel/Downloads/VidCall-main/VidCall/app/src/main/AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.13.0] /Users/vinayakgoel/.gradle/caches/transforms-3/fe2493e55ed439378b0f650daa9755b3/transformed/core-1.13.0/AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from /Users/vinayakgoel/Downloads/VidCall-main/VidCall/app/src/main/AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from /Users/vinayakgoel/Downloads/VidCall-main/VidCall/app/src/main/AndroidManifest.xml:13:9-41
+	android:fullBackupContent
+		ADDED from /Users/vinayakgoel/Downloads/VidCall-main/VidCall/app/src/main/AndroidManifest.xml:11:9-54
+	android:roundIcon
+		ADDED from /Users/vinayakgoel/Downloads/VidCall-main/VidCall/app/src/main/AndroidManifest.xml:14:9-54
+	tools:targetApi
+		ADDED from /Users/vinayakgoel/Downloads/VidCall-main/VidCall/app/src/main/AndroidManifest.xml:17:9-29
+	android:icon
+		ADDED from /Users/vinayakgoel/Downloads/VidCall-main/VidCall/app/src/main/AndroidManifest.xml:12:9-43
+	android:allowBackup
+		ADDED from /Users/vinayakgoel/Downloads/VidCall-main/VidCall/app/src/main/AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from /Users/vinayakgoel/Downloads/VidCall-main/VidCall/app/src/main/AndroidManifest.xml:16:9-48
+	android:dataExtractionRules
+		ADDED from /Users/vinayakgoel/Downloads/VidCall-main/VidCall/app/src/main/AndroidManifest.xml:10:9-65
+activity#com.example.mc_project.UserLogin
+ADDED from /Users/vinayakgoel/Downloads/VidCall-main/VidCall/app/src/main/AndroidManifest.xml:18:9-22:55
+	android:label
+		ADDED from /Users/vinayakgoel/Downloads/VidCall-main/VidCall/app/src/main/AndroidManifest.xml:21:13-62
+	android:exported
+		ADDED from /Users/vinayakgoel/Downloads/VidCall-main/VidCall/app/src/main/AndroidManifest.xml:20:13-37
+	android:theme
+		ADDED from /Users/vinayakgoel/Downloads/VidCall-main/VidCall/app/src/main/AndroidManifest.xml:22:13-52
+	android:name
+		ADDED from /Users/vinayakgoel/Downloads/VidCall-main/VidCall/app/src/main/AndroidManifest.xml:19:13-38
+activity#com.example.mc_project.MainActivity
+ADDED from /Users/vinayakgoel/Downloads/VidCall-main/VidCall/app/src/main/AndroidManifest.xml:23:9-27:55
+	android:label
+		ADDED from /Users/vinayakgoel/Downloads/VidCall-main/VidCall/app/src/main/AndroidManifest.xml:26:13-64
+	android:exported
+		ADDED from /Users/vinayakgoel/Downloads/VidCall-main/VidCall/app/src/main/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from /Users/vinayakgoel/Downloads/VidCall-main/VidCall/app/src/main/AndroidManifest.xml:27:13-52
+	android:name
+		ADDED from /Users/vinayakgoel/Downloads/VidCall-main/VidCall/app/src/main/AndroidManifest.xml:24:13-41
+activity#com.example.mc_project.HomeScreen
+ADDED from /Users/vinayakgoel/Downloads/VidCall-main/VidCall/app/src/main/AndroidManifest.xml:28:9-38:20
+	android:label
+		ADDED from /Users/vinayakgoel/Downloads/VidCall-main/VidCall/app/src/main/AndroidManifest.xml:31:13-45
+	android:exported
+		ADDED from /Users/vinayakgoel/Downloads/VidCall-main/VidCall/app/src/main/AndroidManifest.xml:30:13-36
+	android:theme
+		ADDED from /Users/vinayakgoel/Downloads/VidCall-main/VidCall/app/src/main/AndroidManifest.xml:32:13-52
+	android:name
+		ADDED from /Users/vinayakgoel/Downloads/VidCall-main/VidCall/app/src/main/AndroidManifest.xml:29:13-39
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/vinayakgoel/Downloads/VidCall-main/VidCall/app/src/main/AndroidManifest.xml:33:13-37:29
+action#android.intent.action.MAIN
+ADDED from /Users/vinayakgoel/Downloads/VidCall-main/VidCall/app/src/main/AndroidManifest.xml:34:17-69
+	android:name
+		ADDED from /Users/vinayakgoel/Downloads/VidCall-main/VidCall/app/src/main/AndroidManifest.xml:34:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/vinayakgoel/Downloads/VidCall-main/VidCall/app/src/main/AndroidManifest.xml:36:17-77
+	android:name
+		ADDED from /Users/vinayakgoel/Downloads/VidCall-main/VidCall/app/src/main/AndroidManifest.xml:36:27-74
+uses-sdk
+INJECTED from /Users/vinayakgoel/Downloads/VidCall-main/VidCall/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/vinayakgoel/Downloads/VidCall-main/VidCall/app/src/main/AndroidManifest.xml
+INJECTED from /Users/vinayakgoel/Downloads/VidCall-main/VidCall/app/src/main/AndroidManifest.xml
+MERGED from [androidx.room:room-ktx:2.6.1] /Users/vinayakgoel/.gradle/caches/transforms-3/c2045b2e1493736e728a33f41c239c37/transformed/room-ktx-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-ktx:2.6.1] /Users/vinayakgoel/.gradle/caches/transforms-3/c2045b2e1493736e728a33f41c239c37/transformed/room-ktx-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-runtime:2.6.1] /Users/vinayakgoel/.gradle/caches/transforms-3/d2cd34f4b3fe975d8e8aa6373e10490e/transformed/room-runtime-2.6.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.room:room-runtime:2.6.1] /Users/vinayakgoel/.gradle/caches/transforms-3/d2cd34f4b3fe975d8e8aa6373e10490e/transformed/room-runtime-2.6.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.compose.material3:material3:1.1.1] /Users/vinayakgoel/.gradle/caches/transforms-3/6cabdb3d3bd38ef21c82cc99139ff272/transformed/material3-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material3:material3:1.1.1] /Users/vinayakgoel/.gradle/caches/transforms-3/6cabdb3d3bd38ef21c82cc99139ff272/transformed/material3-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [org.jitsi.react:jitsi-meet-sdk:9.2.2] /Users/vinayakgoel/.gradle/caches/transforms-3/682f2a8c58f573eb97bc2713479145eb/transformed/jitsi-meet-sdk-9.2.2/AndroidManifest.xml:6:5-44
+MERGED from [org.jitsi.react:jitsi-meet-sdk:9.2.2] /Users/vinayakgoel/.gradle/caches/transforms-3/682f2a8c58f573eb97bc2713479145eb/transformed/jitsi-meet-sdk-9.2.2/AndroidManifest.xml:6:5-44
+MERGED from [com.facebook.react:react-native-amplitude:2.7.0-jitsi-16757212] /Users/vinayakgoel/.gradle/caches/transforms-3/267fc028d96ea238e36114255735dbff/transformed/react-native-amplitude-2.7.0-jitsi-16757212/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.react:react-native-amplitude:2.7.0-jitsi-16757212] /Users/vinayakgoel/.gradle/caches/transforms-3/267fc028d96ea238e36114255735dbff/transformed/react-native-amplitude-2.7.0-jitsi-16757212/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.react:react-native-giphy:2.3.0-jitsi-16757212] /Users/vinayakgoel/.gradle/caches/transforms-3/f366a80258503fb34c8050a226c5ddd5/transformed/react-native-giphy-2.3.0-jitsi-16757212/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.react:react-native-giphy:2.3.0-jitsi-16757212] /Users/vinayakgoel/.gradle/caches/transforms-3/f366a80258503fb34c8050a226c5ddd5/transformed/react-native-giphy-2.3.0-jitsi-16757212/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.react:react-native-google-signin:10.1.0-jitsi-16757212] /Users/vinayakgoel/.gradle/caches/transforms-3/f95dd7203b2ce48f09b39db64ff1018b/transformed/react-native-google-signin-10.1.0-jitsi-16757212/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.react:react-native-google-signin:10.1.0-jitsi-16757212] /Users/vinayakgoel/.gradle/caches/transforms-3/f95dd7203b2ce48f09b39db64ff1018b/transformed/react-native-google-signin-10.1.0-jitsi-16757212/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.react:react-native-async-storage:1.19.4-jitsi-16757212] /Users/vinayakgoel/.gradle/caches/transforms-3/54c0374511232615bbdbe48c2e638bfd/transformed/react-native-async-storage-1.19.4-jitsi-16757212/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.react:react-native-async-storage:1.19.4-jitsi-16757212] /Users/vinayakgoel/.gradle/caches/transforms-3/54c0374511232615bbdbe48c2e638bfd/transformed/react-native-async-storage-1.19.4-jitsi-16757212/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.react:react-native-background-timer:2.4.1-jitsi-16757212] /Users/vinayakgoel/.gradle/caches/transforms-3/90f1ff778d22c743349beb9d62fcdb1e/transformed/react-native-background-timer-2.4.1-jitsi-16757212/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.react:react-native-background-timer:2.4.1-jitsi-16757212] /Users/vinayakgoel/.gradle/caches/transforms-3/90f1ff778d22c743349beb9d62fcdb1e/transformed/react-native-background-timer-2.4.1-jitsi-16757212/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.react:react-native-calendar-events:2.2.0-jitsi-16757212] /Users/vinayakgoel/.gradle/caches/transforms-3/78ad371d61217b87ae5817680715f625/transformed/react-native-calendar-events-2.2.0-jitsi-16757212/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.react:react-native-calendar-events:2.2.0-jitsi-16757212] /Users/vinayakgoel/.gradle/caches/transforms-3/78ad371d61217b87ae5817680715f625/transformed/react-native-calendar-events-2.2.0-jitsi-16757212/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.react:react-native-community_clipboard:1.5.1-jitsi-16757212] /Users/vinayakgoel/.gradle/caches/transforms-3/fefe0a8a4bd9939681c943cd9b426979/transformed/react-native-community_clipboard-1.5.1-jitsi-16757212/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.react:react-native-community_clipboard:1.5.1-jitsi-16757212] /Users/vinayakgoel/.gradle/caches/transforms-3/fefe0a8a4bd9939681c943cd9b426979/transformed/react-native-community_clipboard-1.5.1-jitsi-16757212/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.react:react-native-community_netinfo:11.1.0-jitsi-16757212] /Users/vinayakgoel/.gradle/caches/transforms-3/17e22c02c37a696f686caf76d59a450e/transformed/react-native-community_netinfo-11.1.0-jitsi-16757212/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.react:react-native-community_netinfo:11.1.0-jitsi-16757212] /Users/vinayakgoel/.gradle/caches/transforms-3/17e22c02c37a696f686caf76d59a450e/transformed/react-native-community_netinfo-11.1.0-jitsi-16757212/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.react:react-native-default-preference:1.4.4-jitsi-16757212] /Users/vinayakgoel/.gradle/caches/transforms-3/9ace953c6e0ac75f3b498a2c82306902/transformed/react-native-default-preference-1.4.4-jitsi-16757212/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.react:react-native-default-preference:1.4.4-jitsi-16757212] /Users/vinayakgoel/.gradle/caches/transforms-3/9ace953c6e0ac75f3b498a2c82306902/transformed/react-native-default-preference-1.4.4-jitsi-16757212/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.react:react-native-device-info:10.9.0-jitsi-16757212] /Users/vinayakgoel/.gradle/caches/transforms-3/7a7bf0e37b0eeef2e276a1e3344e78fd/transformed/react-native-device-info-10.9.0-jitsi-16757212/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.react:react-native-device-info:10.9.0-jitsi-16757212] /Users/vinayakgoel/.gradle/caches/transforms-3/7a7bf0e37b0eeef2e276a1e3344e78fd/transformed/react-native-device-info-10.9.0-jitsi-16757212/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.react:react-native-gesture-handler:2.9.0-jitsi-16757212] /Users/vinayakgoel/.gradle/caches/transforms-3/811adcb2060962e48caa95d2b748a39d/transformed/react-native-gesture-handler-2.9.0-jitsi-16757212/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.react:react-native-gesture-handler:2.9.0-jitsi-16757212] /Users/vinayakgoel/.gradle/caches/transforms-3/811adcb2060962e48caa95d2b748a39d/transformed/react-native-gesture-handler-2.9.0-jitsi-16757212/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.react:react-native-get-random-values:1.9.0-jitsi-16757212] /Users/vinayakgoel/.gradle/caches/transforms-3/ec7702d9258e537a67269024ba597900/transformed/react-native-get-random-values-1.9.0-jitsi-16757212/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.react:react-native-get-random-values:1.9.0-jitsi-16757212] /Users/vinayakgoel/.gradle/caches/transforms-3/ec7702d9258e537a67269024ba597900/transformed/react-native-get-random-values-1.9.0-jitsi-16757212/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.react:react-native-immersive-mode:2.0.1-jitsi-16757212] /Users/vinayakgoel/.gradle/caches/transforms-3/e8d8cfe5e198644e73cddc82f5dfae91/transformed/react-native-immersive-mode-2.0.1-jitsi-16757212/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.react:react-native-immersive-mode:2.0.1-jitsi-16757212] /Users/vinayakgoel/.gradle/caches/transforms-3/e8d8cfe5e198644e73cddc82f5dfae91/transformed/react-native-immersive-mode-2.0.1-jitsi-16757212/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.react:react-native-keep-awake:4.0.0-jitsi-16757212] /Users/vinayakgoel/.gradle/caches/transforms-3/e32d035a07b42e0a9e4ebb8f40fd5c99/transformed/react-native-keep-awake-4.0.0-jitsi-16757212/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.react:react-native-keep-awake:4.0.0-jitsi-16757212] /Users/vinayakgoel/.gradle/caches/transforms-3/e32d035a07b42e0a9e4ebb8f40fd5c99/transformed/react-native-keep-awake-4.0.0-jitsi-16757212/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.react:react-native-orientation-locker:1.6.0-jitsi-16757212] /Users/vinayakgoel/.gradle/caches/transforms-3/e8a2de4c5faa96a9b403dab35e156ab9/transformed/react-native-orientation-locker-1.6.0-jitsi-16757212/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.react:react-native-orientation-locker:1.6.0-jitsi-16757212] /Users/vinayakgoel/.gradle/caches/transforms-3/e8a2de4c5faa96a9b403dab35e156ab9/transformed/react-native-orientation-locker-1.6.0-jitsi-16757212/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.react:react-native-pager-view:6.2.0-jitsi-16757212] /Users/vinayakgoel/.gradle/caches/transforms-3/fee9c4f68889d3f155c81e56e76a4b0c/transformed/react-native-pager-view-6.2.0-jitsi-16757212/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.react:react-native-pager-view:6.2.0-jitsi-16757212] /Users/vinayakgoel/.gradle/caches/transforms-3/fee9c4f68889d3f155c81e56e76a4b0c/transformed/react-native-pager-view-6.2.0-jitsi-16757212/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.react:react-native-performance:5.0.0-jitsi-16757212] /Users/vinayakgoel/.gradle/caches/transforms-3/d37e041e5f25106b328ef8a7c0775bf5/transformed/react-native-performance-5.0.0-jitsi-16757212/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.react:react-native-performance:5.0.0-jitsi-16757212] /Users/vinayakgoel/.gradle/caches/transforms-3/d37e041e5f25106b328ef8a7c0775bf5/transformed/react-native-performance-5.0.0-jitsi-16757212/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.react:react-native-safe-area-context:4.7.1-jitsi-16757212] /Users/vinayakgoel/.gradle/caches/transforms-3/0e07f8e02160319a9a2a9f7bc0a27f9d/transformed/react-native-safe-area-context-4.7.1-jitsi-16757212/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.react:react-native-safe-area-context:4.7.1-jitsi-16757212] /Users/vinayakgoel/.gradle/caches/transforms-3/0e07f8e02160319a9a2a9f7bc0a27f9d/transformed/react-native-safe-area-context-4.7.1-jitsi-16757212/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.react:react-native-screens:3.24.0-jitsi-16757212] /Users/vinayakgoel/.gradle/caches/transforms-3/071816d4583da03ef8ec8bd4ba343444/transformed/react-native-screens-3.24.0-jitsi-16757212/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.react:react-native-screens:3.24.0-jitsi-16757212] /Users/vinayakgoel/.gradle/caches/transforms-3/071816d4583da03ef8ec8bd4ba343444/transformed/react-native-screens-3.24.0-jitsi-16757212/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.react:react-native-slider:4.4.3-jitsi-16757212] /Users/vinayakgoel/.gradle/caches/transforms-3/d2d21c051605919f00536aa63e652adc/transformed/react-native-slider-4.4.3-jitsi-16757212/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.react:react-native-slider:4.4.3-jitsi-16757212] /Users/vinayakgoel/.gradle/caches/transforms-3/d2d21c051605919f00536aa63e652adc/transformed/react-native-slider-4.4.3-jitsi-16757212/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.react:react-native-sound:0.11.2-jitsi-16757212] /Users/vinayakgoel/.gradle/caches/transforms-3/7ced468816a5ef790c1863d66bdd3515/transformed/react-native-sound-0.11.2-jitsi-16757212/AndroidManifest.xml:6:5-44
+MERGED from [com.facebook.react:react-native-sound:0.11.2-jitsi-16757212] /Users/vinayakgoel/.gradle/caches/transforms-3/7ced468816a5ef790c1863d66bdd3515/transformed/react-native-sound-0.11.2-jitsi-16757212/AndroidManifest.xml:6:5-44
+MERGED from [com.facebook.react:react-native-splash-screen:3.3.0-jitsi-16757212] /Users/vinayakgoel/.gradle/caches/transforms-3/11b32698af0e06ab4f0f3559245d4778/transformed/react-native-splash-screen-3.3.0-jitsi-16757212/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.react:react-native-splash-screen:3.3.0-jitsi-16757212] /Users/vinayakgoel/.gradle/caches/transforms-3/11b32698af0e06ab4f0f3559245d4778/transformed/react-native-splash-screen-3.3.0-jitsi-16757212/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.react:react-native-svg:13.13.0-jitsi-16757212] /Users/vinayakgoel/.gradle/caches/transforms-3/43bd8be87d9f4b86b97b275b1dd02ca5/transformed/react-native-svg-13.13.0-jitsi-16757212/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.react:react-native-svg:13.13.0-jitsi-16757212] /Users/vinayakgoel/.gradle/caches/transforms-3/43bd8be87d9f4b86b97b275b1dd02ca5/transformed/react-native-svg-13.13.0-jitsi-16757212/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.react:react-native-video:6.0.0-alpha.11-jitsi-16757212] /Users/vinayakgoel/.gradle/caches/transforms-3/63b4845ef9f74779db8183a85c2b3ae3/transformed/react-native-video-6.0.0-alpha.11-jitsi-16757212/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.react:react-native-video:6.0.0-alpha.11-jitsi-16757212] /Users/vinayakgoel/.gradle/caches/transforms-3/63b4845ef9f74779db8183a85c2b3ae3/transformed/react-native-video-6.0.0-alpha.11-jitsi-16757212/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.react:react-native-webrtc:118.0.7-jitsi-16757212] /Users/vinayakgoel/.gradle/caches/transforms-3/17413a73b0b5fe3ecd40d29963cefbe4/transformed/react-native-webrtc-118.0.7-jitsi-16757212/AndroidManifest.xml:6:5-44
+MERGED from [com.facebook.react:react-native-webrtc:118.0.7-jitsi-16757212] /Users/vinayakgoel/.gradle/caches/transforms-3/17413a73b0b5fe3ecd40d29963cefbe4/transformed/react-native-webrtc-118.0.7-jitsi-16757212/AndroidManifest.xml:6:5-44
+MERGED from [com.facebook.react:react-native-webview:13.5.1-jitsi-16757212] /Users/vinayakgoel/.gradle/caches/transforms-3/2744b2fa791070175ebb4a8880fe0f54/transformed/react-native-webview-13.5.1-jitsi-16757212/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.react:react-native-webview:13.5.1-jitsi-16757212] /Users/vinayakgoel/.gradle/caches/transforms-3/2744b2fa791070175ebb4a8880fe0f54/transformed/react-native-webview-13.5.1-jitsi-16757212/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.react:react-android:0.72.9] /Users/vinayakgoel/.gradle/caches/transforms-3/0824b22d56203e77b751127bfb2312a8/transformed/react-android-0.72.9-debug/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.react:react-android:0.72.9] /Users/vinayakgoel/.gradle/caches/transforms-3/0824b22d56203e77b751127bfb2312a8/transformed/react-android-0.72.9-debug/AndroidManifest.xml:5:5-44
+MERGED from [com.giphy.sdk:ui:2.3.4] /Users/vinayakgoel/.gradle/caches/transforms-3/7ad81f3bbfd8d866d8c02a97384f2b52/transformed/ui-2.3.4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.giphy.sdk:ui:2.3.4] /Users/vinayakgoel/.gradle/caches/transforms-3/7ad81f3bbfd8d866d8c02a97384f2b52/transformed/ui-2.3.4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.6.1] /Users/vinayakgoel/.gradle/caches/transforms-3/9180585be40de5c989d84e275ec23a45/transformed/material-1.6.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.6.1] /Users/vinayakgoel/.gradle/caches/transforms-3/9180585be40de5c989d84e275ec23a45/transformed/material-1.6.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/vinayakgoel/.gradle/caches/transforms-3/4d47a41814ca8fd3f96f88785febe36b/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/vinayakgoel/.gradle/caches/transforms-3/4d47a41814ca8fd3f96f88785febe36b/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.airbnb.android:lottie:3.4.1] /Users/vinayakgoel/.gradle/caches/transforms-3/677e5b68f2226f07a09c96d6aaf6f750/transformed/lottie-3.4.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.airbnb.android:lottie:3.4.1] /Users/vinayakgoel/.gradle/caches/transforms-3/677e5b68f2226f07a09c96d6aaf6f750/transformed/lottie-3.4.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.4.2] /Users/vinayakgoel/.gradle/caches/transforms-3/d428cdbb265b1cf0d47b1199d32f1ae3/transformed/appcompat-1.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.4.2] /Users/vinayakgoel/.gradle/caches/transforms-3/d428cdbb265b1cf0d47b1199d32f1ae3/transformed/appcompat-1.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-auth:20.5.0] /Users/vinayakgoel/.gradle/caches/transforms-3/9e58d14c790579a2a518da974cfb9352/transformed/play-services-auth-20.5.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:20.5.0] /Users/vinayakgoel/.gradle/caches/transforms-3/9e58d14c790579a2a518da974cfb9352/transformed/play-services-auth-20.5.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/vinayakgoel/.gradle/caches/transforms-3/8245dd159d772a77cec2cf58c1522993/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/vinayakgoel/.gradle/caches/transforms-3/8245dd159d772a77cec2cf58c1522993/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/vinayakgoel/.gradle/caches/transforms-3/41cbacf155cef9472b1b47891d827297/transformed/play-services-iid-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/vinayakgoel/.gradle/caches/transforms-3/41cbacf155cef9472b1b47891d827297/transformed/play-services-iid-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.1] /Users/vinayakgoel/.gradle/caches/transforms-3/955e809bc9a072ffbfebcee2713c4bc0/transformed/play-services-auth-api-phone-18.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.1] /Users/vinayakgoel/.gradle/caches/transforms-3/955e809bc9a072ffbfebcee2713c4bc0/transformed/play-services-auth-api-phone-18.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.4] /Users/vinayakgoel/.gradle/caches/transforms-3/cc2774e1ce86014daa0461803ac19f3f/transformed/play-services-auth-base-18.0.4/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.4] /Users/vinayakgoel/.gradle/caches/transforms-3/cc2774e1ce86014daa0461803ac19f3f/transformed/play-services-auth-base-18.0.4/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-fido:20.0.1] /Users/vinayakgoel/.gradle/caches/transforms-3/af9b0611843f81fd009d1c736d65cc3f/transformed/play-services-fido-20.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-fido:20.0.1] /Users/vinayakgoel/.gradle/caches/transforms-3/af9b0611843f81fd009d1c736d65cc3f/transformed/play-services-fido-20.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/vinayakgoel/.gradle/caches/transforms-3/b96b0e8858f7bbc35e265247a17d59c6/transformed/play-services-base-18.0.1/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/vinayakgoel/.gradle/caches/transforms-3/b96b0e8858f7bbc35e265247a17d59c6/transformed/play-services-base-18.0.1/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/vinayakgoel/.gradle/caches/transforms-3/9b12380274dfc718ed38ce41cf1e8dd0/transformed/play-services-tasks-18.0.1/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/vinayakgoel/.gradle/caches/transforms-3/9b12380274dfc718ed38ce41cf1e8dd0/transformed/play-services-tasks-18.0.1/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/vinayakgoel/.gradle/caches/transforms-3/dee8fb5003a0e0f8b1e4ae4bdaaca352/transformed/play-services-stats-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/vinayakgoel/.gradle/caches/transforms-3/dee8fb5003a0e0f8b1e4ae4bdaaca352/transformed/play-services-stats-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:18.2.0] /Users/vinayakgoel/.gradle/caches/transforms-3/3eb24c3dc000a07452cf5a28e5ea6974/transformed/play-services-basement-18.2.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.2.0] /Users/vinayakgoel/.gradle/caches/transforms-3/3eb24c3dc000a07452cf5a28e5ea6974/transformed/play-services-basement-18.2.0/AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.4.1] /Users/vinayakgoel/.gradle/caches/transforms-3/0e7986ba568480be9812b24d7fc7b8dc/transformed/fragment-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.4.1] /Users/vinayakgoel/.gradle/caches/transforms-3/0e7986ba568480be9812b24d7fc7b8dc/transformed/fragment-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.7.7] /Users/vinayakgoel/.gradle/caches/transforms-3/5c6f2d12a7e85cafd8bbd421b5d1aaaf/transformed/navigation-common-2.7.7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.7.7] /Users/vinayakgoel/.gradle/caches/transforms-3/5c6f2d12a7e85cafd8bbd421b5d1aaaf/transformed/navigation-common-2.7.7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.7.7] /Users/vinayakgoel/.gradle/caches/transforms-3/fd7b7b2d7803721c9d70d8594847033e/transformed/navigation-runtime-2.7.7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.7.7] /Users/vinayakgoel/.gradle/caches/transforms-3/fd7b7b2d7803721c9d70d8594847033e/transformed/navigation-runtime-2.7.7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.7.7] /Users/vinayakgoel/.gradle/caches/transforms-3/85e4a629b70869ef5c65b4e00d102735/transformed/navigation-common-ktx-2.7.7/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.7.7] /Users/vinayakgoel/.gradle/caches/transforms-3/85e4a629b70869ef5c65b4e00d102735/transformed/navigation-common-ktx-2.7.7/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.7.7] /Users/vinayakgoel/.gradle/caches/transforms-3/18960b6ecc8bae627e7dcb56fc72b915/transformed/navigation-runtime-ktx-2.7.7/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.7.7] /Users/vinayakgoel/.gradle/caches/transforms-3/18960b6ecc8bae627e7dcb56fc72b915/transformed/navigation-runtime-ktx-2.7.7/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-compose:2.7.7] /Users/vinayakgoel/.gradle/caches/transforms-3/f9365121a67cb5ee1f9ab8fc9e6e9768/transformed/navigation-compose-2.7.7/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-compose:2.7.7] /Users/vinayakgoel/.gradle/caches/transforms-3/f9365121a67cb5ee1f9ab8fc9e6e9768/transformed/navigation-compose-2.7.7/AndroidManifest.xml:5:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/vinayakgoel/.gradle/caches/transforms-3/dc9cc29224b4b9fee07ca364c355f44c/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/vinayakgoel/.gradle/caches/transforms-3/dc9cc29224b4b9fee07ca364c355f44c/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/vinayakgoel/.gradle/caches/transforms-3/b486a3c86145fb12e6901acb9e799e18/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/vinayakgoel/.gradle/caches/transforms-3/b486a3c86145fb12e6901acb9e799e18/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/vinayakgoel/.gradle/caches/transforms-3/a6a058df991561627587f07f610834a8/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/vinayakgoel/.gradle/caches/transforms-3/a6a058df991561627587f07f610834a8/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.5.1] /Users/vinayakgoel/.gradle/caches/transforms-3/4ed87c31ada1478d1c0ddbeb6620b1fe/transformed/foundation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.5.1] /Users/vinayakgoel/.gradle/caches/transforms-3/4ed87c31ada1478d1c0ddbeb6620b1fe/transformed/foundation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.5.1] /Users/vinayakgoel/.gradle/caches/transforms-3/3a8a1288ba8055548d53ba1431b301dc/transformed/foundation-layout-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.5.1] /Users/vinayakgoel/.gradle/caches/transforms-3/3a8a1288ba8055548d53ba1431b301dc/transformed/foundation-layout-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.5.1] /Users/vinayakgoel/.gradle/caches/transforms-3/37d230d638514e6226b55bb3ecb3f11f/transformed/animation-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.5.1] /Users/vinayakgoel/.gradle/caches/transforms-3/37d230d638514e6226b55bb3ecb3f11f/transformed/animation-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.5.1] /Users/vinayakgoel/.gradle/caches/transforms-3/1e952e4a82314ecae5ddabafb5378439/transformed/ui-tooling-data-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.5.1] /Users/vinayakgoel/.gradle/caches/transforms-3/1e952e4a82314ecae5ddabafb5378439/transformed/ui-tooling-data-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.5.1] /Users/vinayakgoel/.gradle/caches/transforms-3/7a318e0e6a89a4270c58ee7b3bd9e6f3/transformed/ui-unit-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.5.1] /Users/vinayakgoel/.gradle/caches/transforms-3/7a318e0e6a89a4270c58ee7b3bd9e6f3/transformed/ui-unit-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.5.1] /Users/vinayakgoel/.gradle/caches/transforms-3/f118a4eac15dabb2404b6b91c72e121b/transformed/ui-geometry-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.5.1] /Users/vinayakgoel/.gradle/caches/transforms-3/f118a4eac15dabb2404b6b91c72e121b/transformed/ui-geometry-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.5.1] /Users/vinayakgoel/.gradle/caches/transforms-3/cddcbcba9ed96b249350da77dd0bcf1a/transformed/ui-tooling-preview-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.5.1] /Users/vinayakgoel/.gradle/caches/transforms-3/cddcbcba9ed96b249350da77dd0bcf1a/transformed/ui-tooling-preview-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.5.1] /Users/vinayakgoel/.gradle/caches/transforms-3/e79d9f5b6b209a08ce281e4a8bff474f/transformed/ui-tooling-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.5.1] /Users/vinayakgoel/.gradle/caches/transforms-3/e79d9f5b6b209a08ce281e4a8bff474f/transformed/ui-tooling-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-android:1.5.0] /Users/vinayakgoel/.gradle/caches/transforms-3/f3c76ae5f0500e3f73e1b1896bd03fda/transformed/material-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-android:1.5.0] /Users/vinayakgoel/.gradle/caches/transforms-3/f3c76ae5f0500e3f73e1b1896bd03fda/transformed/material-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.5.0] /Users/vinayakgoel/.gradle/caches/transforms-3/d06e3f93158cd4db0389582a1f85282f/transformed/material-icons-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.5.0] /Users/vinayakgoel/.gradle/caches/transforms-3/d06e3f93158cd4db0389582a1f85282f/transformed/material-icons-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.5.0] /Users/vinayakgoel/.gradle/caches/transforms-3/c1ea51e8830848884dee3b5c1c9f6e07/transformed/material-ripple-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.5.0] /Users/vinayakgoel/.gradle/caches/transforms-3/c1ea51e8830848884dee3b5c1c9f6e07/transformed/material-ripple-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.5.1] /Users/vinayakgoel/.gradle/caches/transforms-3/afffa5e9b4d092b7e0644e0e6493db30/transformed/animation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.5.1] /Users/vinayakgoel/.gradle/caches/transforms-3/afffa5e9b4d092b7e0644e0e6493db30/transformed/animation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.5.1] /Users/vinayakgoel/.gradle/caches/transforms-3/1c15dc1532a2756884aa741758abefc8/transformed/ui-util-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.5.1] /Users/vinayakgoel/.gradle/caches/transforms-3/1c15dc1532a2756884aa741758abefc8/transformed/ui-util-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.5.1] /Users/vinayakgoel/.gradle/caches/transforms-3/ef30fecd5bae0bcf908263145c054a10/transformed/ui-graphics-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.5.1] /Users/vinayakgoel/.gradle/caches/transforms-3/ef30fecd5bae0bcf908263145c054a10/transformed/ui-graphics-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.5.1] /Users/vinayakgoel/.gradle/caches/transforms-3/c7f2938f1692f8d4317685e7b56fa69a/transformed/ui-text-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.5.1] /Users/vinayakgoel/.gradle/caches/transforms-3/c7f2938f1692f8d4317685e7b56fa69a/transformed/ui-text-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.4.0] /Users/vinayakgoel/.gradle/caches/transforms-3/8e9c2f45d091206a2f313f66f775eb11/transformed/emoji2-views-helper-1.4.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.4.0] /Users/vinayakgoel/.gradle/caches/transforms-3/8e9c2f45d091206a2f313f66f775eb11/transformed/emoji2-views-helper-1.4.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.4.0] /Users/vinayakgoel/.gradle/caches/transforms-3/0f2122af0cf9ce63063776a78cdd6786/transformed/emoji2-1.4.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.4.0] /Users/vinayakgoel/.gradle/caches/transforms-3/0f2122af0cf9ce63063776a78cdd6786/transformed/emoji2-1.4.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/vinayakgoel/.gradle/caches/transforms-3/b13010458167cba5b3502ba27f0cb0e7/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/vinayakgoel/.gradle/caches/transforms-3/b13010458167cba5b3502ba27f0cb0e7/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] /Users/vinayakgoel/.gradle/caches/transforms-3/b9c56fde6f0df2208b00facf34ba2b76/transformed/lifecycle-livedata-core-ktx-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] /Users/vinayakgoel/.gradle/caches/transforms-3/b9c56fde6f0df2208b00facf34ba2b76/transformed/lifecycle-livedata-core-ktx-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] /Users/vinayakgoel/.gradle/caches/transforms-3/7ee6ea72859c41559626be981f705e20/transformed/lifecycle-livedata-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] /Users/vinayakgoel/.gradle/caches/transforms-3/7ee6ea72859c41559626be981f705e20/transformed/lifecycle-livedata-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.7.0] /Users/vinayakgoel/.gradle/caches/transforms-3/a538db5486be0f3f014742b2c2a386b1/transformed/lifecycle-viewmodel-ktx-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.7.0] /Users/vinayakgoel/.gradle/caches/transforms-3/a538db5486be0f3f014742b2c2a386b1/transformed/lifecycle-viewmodel-ktx-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/vinayakgoel/.gradle/caches/transforms-3/a8f35a2a2ede439815335bfd83f4f571/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/vinayakgoel/.gradle/caches/transforms-3/a8f35a2a2ede439815335bfd83f4f571/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/vinayakgoel/.gradle/caches/transforms-3/420238a5ce7a0c9ad017f37308c8b778/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/vinayakgoel/.gradle/caches/transforms-3/420238a5ce7a0c9ad017f37308c8b778/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] /Users/vinayakgoel/.gradle/caches/transforms-3/24831ab24e9ad9de1d02c3f0a6e23698/transformed/lifecycle-viewmodel-savedstate-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] /Users/vinayakgoel/.gradle/caches/transforms-3/24831ab24e9ad9de1d02c3f0a6e23698/transformed/lifecycle-viewmodel-savedstate-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] /Users/vinayakgoel/.gradle/caches/transforms-3/0ec54a57e53333d05f231f58b9a1b865/transformed/lifecycle-livedata-core-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] /Users/vinayakgoel/.gradle/caches/transforms-3/0ec54a57e53333d05f231f58b9a1b865/transformed/lifecycle-livedata-core-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] /Users/vinayakgoel/.gradle/caches/transforms-3/3914667efc4eb8df6802e6a82517a136/transformed/lifecycle-viewmodel-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] /Users/vinayakgoel/.gradle/caches/transforms-3/3914667efc4eb8df6802e6a82517a136/transformed/lifecycle-viewmodel-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.7.0] /Users/vinayakgoel/.gradle/caches/transforms-3/8610f161b4529facd79ff009f842ee43/transformed/lifecycle-viewmodel-compose-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.7.0] /Users/vinayakgoel/.gradle/caches/transforms-3/8610f161b4529facd79ff009f842ee43/transformed/lifecycle-viewmodel-compose-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.5.1] /Users/vinayakgoel/.gradle/caches/transforms-3/09bfacf80f13f6e057be8321df824532/transformed/ui-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.5.1] /Users/vinayakgoel/.gradle/caches/transforms-3/09bfacf80f13f6e057be8321df824532/transformed/ui-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-test-manifest:1.5.1] /Users/vinayakgoel/.gradle/caches/transforms-3/73bec10849f69921833b9517bbbf87e2/transformed/ui-test-manifest-1.5.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-test-manifest:1.5.1] /Users/vinayakgoel/.gradle/caches/transforms-3/73bec10849f69921833b9517bbbf87e2/transformed/ui-test-manifest-1.5.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.9.0] /Users/vinayakgoel/.gradle/caches/transforms-3/9aac3e0fed1c3411a8db51a7fbb63829/transformed/activity-1.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.9.0] /Users/vinayakgoel/.gradle/caches/transforms-3/9aac3e0fed1c3411a8db51a7fbb63829/transformed/activity-1.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-compose:1.9.0] /Users/vinayakgoel/.gradle/caches/transforms-3/1eb6b77c280c02d008a9b7a102dff0a8/transformed/activity-compose-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.9.0] /Users/vinayakgoel/.gradle/caches/transforms-3/1eb6b77c280c02d008a9b7a102dff0a8/transformed/activity-compose-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.9.0] /Users/vinayakgoel/.gradle/caches/transforms-3/8590752c106adcfa5e399e3baeee518f/transformed/activity-ktx-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.9.0] /Users/vinayakgoel/.gradle/caches/transforms-3/8590752c106adcfa5e399e3baeee518f/transformed/activity-ktx-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/vinayakgoel/.gradle/caches/transforms-3/48d575af14cfe42a666a739c40a3514c/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/vinayakgoel/.gradle/caches/transforms-3/48d575af14cfe42a666a739c40a3514c/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.core:core-ktx:1.13.0] /Users/vinayakgoel/.gradle/caches/transforms-3/2f992b8b089738ac4dc05ba6701ebe15/transformed/core-ktx-1.13.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.13.0] /Users/vinayakgoel/.gradle/caches/transforms-3/2f992b8b089738ac4dc05ba6701ebe15/transformed/core-ktx-1.13.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /Users/vinayakgoel/.gradle/caches/transforms-3/abb5ff77c2751c1eab016d104627e078/transformed/swiperefreshlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /Users/vinayakgoel/.gradle/caches/transforms-3/abb5ff77c2751c1eab016d104627e078/transformed/swiperefreshlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.1.0] /Users/vinayakgoel/.gradle/caches/transforms-3/c026a1222c9e3d0eb0fd1cf15f708172/transformed/autofill-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.1.0] /Users/vinayakgoel/.gradle/caches/transforms-3/c026a1222c9e3d0eb0fd1cf15f708172/transformed/autofill-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.2] /Users/vinayakgoel/.gradle/caches/transforms-3/befaa04760f92cc8f439640487437b66/transformed/appcompat-resources-1.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.2] /Users/vinayakgoel/.gradle/caches/transforms-3/befaa04760f92cc8f439640487437b66/transformed/appcompat-resources-1.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/vinayakgoel/.gradle/caches/transforms-3/fe4d510104ccb5dcfad2f2e08da0aea3/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/vinayakgoel/.gradle/caches/transforms-3/fe4d510104ccb5dcfad2f2e08da0aea3/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.exoplayer:exoplayer:2.18.1] /Users/vinayakgoel/.gradle/caches/transforms-3/2d536ab735ec16697f1f2cbe1f0436d9/transformed/exoplayer-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer:2.18.1] /Users/vinayakgoel/.gradle/caches/transforms-3/2d536ab735ec16697f1f2cbe1f0436d9/transformed/exoplayer-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.18.1] /Users/vinayakgoel/.gradle/caches/transforms-3/a5fd598d1232c7ab2ee5b4761bf7351e/transformed/exoplayer-ui-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.18.1] /Users/vinayakgoel/.gradle/caches/transforms-3/a5fd598d1232c7ab2ee5b4761bf7351e/transformed/exoplayer-ui-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.6.0] /Users/vinayakgoel/.gradle/caches/transforms-3/988b1f2ab41c2af80be8c3c88400dfe8/transformed/media-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.6.0] /Users/vinayakgoel/.gradle/caches/transforms-3/988b1f2ab41c2af80be8c3c88400dfe8/transformed/media-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.webkit:webkit:1.4.0] /Users/vinayakgoel/.gradle/caches/transforms-3/7e7b3f0406553cddcaf2b9e546c8c58f/transformed/webkit-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.webkit:webkit:1.4.0] /Users/vinayakgoel/.gradle/caches/transforms-3/7e7b3f0406553cddcaf2b9e546c8c58f/transformed/webkit-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/vinayakgoel/.gradle/caches/transforms-3/3c3b1017a7599a0273976e4459010fc4/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/vinayakgoel/.gradle/caches/transforms-3/3c3b1017a7599a0273976e4459010fc4/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/vinayakgoel/.gradle/caches/transforms-3/ecfa9c5ffe5d307576765493a9b3899d/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/vinayakgoel/.gradle/caches/transforms-3/ecfa9c5ffe5d307576765493a9b3899d/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.2.0] /Users/vinayakgoel/.gradle/caches/transforms-3/ccb0579a2788c779a885f2e7e4263e87/transformed/coordinatorlayout-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.2.0] /Users/vinayakgoel/.gradle/caches/transforms-3/ccb0579a2788c779a885f2e7e4263e87/transformed/coordinatorlayout-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] /Users/vinayakgoel/.gradle/caches/transforms-3/a0224e23448cb2cd8d281d4f4535ed42/transformed/recyclerview-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] /Users/vinayakgoel/.gradle/caches/transforms-3/a0224e23448cb2cd8d281d4f4535ed42/transformed/recyclerview-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.18.1] /Users/vinayakgoel/.gradle/caches/transforms-3/2f33d1bb9d81dfa2b1dc625ff3cd6af0/transformed/exoplayer-dash-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.18.1] /Users/vinayakgoel/.gradle/caches/transforms-3/2f33d1bb9d81dfa2b1dc625ff3cd6af0/transformed/exoplayer-dash-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.18.1] /Users/vinayakgoel/.gradle/caches/transforms-3/5108767b95ad1b2a1d745cda0e9bc173/transformed/exoplayer-hls-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.18.1] /Users/vinayakgoel/.gradle/caches/transforms-3/5108767b95ad1b2a1d745cda0e9bc173/transformed/exoplayer-hls-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-rtsp:2.18.1] /Users/vinayakgoel/.gradle/caches/transforms-3/356a58c49050589ab05c755867e3b712/transformed/exoplayer-rtsp-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-rtsp:2.18.1] /Users/vinayakgoel/.gradle/caches/transforms-3/356a58c49050589ab05c755867e3b712/transformed/exoplayer-rtsp-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.18.1] /Users/vinayakgoel/.gradle/caches/transforms-3/0b54a9ccb33a9122b30f9ec0aacb1991/transformed/exoplayer-smoothstreaming-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.18.1] /Users/vinayakgoel/.gradle/caches/transforms-3/0b54a9ccb33a9122b30f9ec0aacb1991/transformed/exoplayer-smoothstreaming-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.18.1] /Users/vinayakgoel/.gradle/caches/transforms-3/619569a36f2188f541f10f761a6818d0/transformed/exoplayer-core-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.18.1] /Users/vinayakgoel/.gradle/caches/transforms-3/619569a36f2188f541f10f761a6818d0/transformed/exoplayer-core-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/vinayakgoel/.gradle/caches/transforms-3/d6931f3af788d0f0a50bd79250a190d8/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/vinayakgoel/.gradle/caches/transforms-3/d6931f3af788d0f0a50bd79250a190d8/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/vinayakgoel/.gradle/caches/transforms-3/d94580f9fc1e89f96e187a80fe889989/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/vinayakgoel/.gradle/caches/transforms-3/d94580f9fc1e89f96e187a80fe889989/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/vinayakgoel/.gradle/caches/transforms-3/d7ac77918cf32c1519dc6028687ad937/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/vinayakgoel/.gradle/caches/transforms-3/d7ac77918cf32c1519dc6028687ad937/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.13.0] /Users/vinayakgoel/.gradle/caches/transforms-3/fe2493e55ed439378b0f650daa9755b3/transformed/core-1.13.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.0] /Users/vinayakgoel/.gradle/caches/transforms-3/fe2493e55ed439378b0f650daa9755b3/transformed/core-1.13.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] /Users/vinayakgoel/.gradle/caches/transforms-3/f253f7c771aee773cfc603e7f8a3a1e6/transformed/lifecycle-runtime-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] /Users/vinayakgoel/.gradle/caches/transforms-3/f253f7c771aee773cfc603e7f8a3a1e6/transformed/lifecycle-runtime-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.7.0] /Users/vinayakgoel/.gradle/caches/transforms-3/a2b9c074a8d2cbabfe2fd6e67c289e38/transformed/lifecycle-runtime-ktx-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.7.0] /Users/vinayakgoel/.gradle/caches/transforms-3/a2b9c074a8d2cbabfe2fd6e67c289e38/transformed/lifecycle-runtime-ktx-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.5.1] /Users/vinayakgoel/.gradle/caches/transforms-3/139fef9a4dba9acfa1590b382ad2b670/transformed/runtime-saveable-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.5.1] /Users/vinayakgoel/.gradle/caches/transforms-3/139fef9a4dba9acfa1590b382ad2b670/transformed/runtime-saveable-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.5.1] /Users/vinayakgoel/.gradle/caches/transforms-3/ec2067ea59968e0f5a80781425135072/transformed/runtime-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.5.1] /Users/vinayakgoel/.gradle/caches/transforms-3/ec2067ea59968e0f5a80781425135072/transformed/runtime-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.4.0] /Users/vinayakgoel/.gradle/caches/transforms-3/46fc299752b31d522160c7b80b8874a0/transformed/sqlite-framework-2.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.4.0] /Users/vinayakgoel/.gradle/caches/transforms-3/46fc299752b31d522160c7b80b8874a0/transformed/sqlite-framework-2.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.4.0] /Users/vinayakgoel/.gradle/caches/transforms-3/8ff9de99cf54956ad6428f6c99136365/transformed/sqlite-2.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.4.0] /Users/vinayakgoel/.gradle/caches/transforms-3/8ff9de99cf54956ad6428f6c99136365/transformed/sqlite-2.4.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.exoplayer:extension-okhttp:2.18.1] /Users/vinayakgoel/.gradle/caches/transforms-3/447e209bb68e64cb6fba5a295decc5de/transformed/extension-okhttp-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:extension-okhttp:2.18.1] /Users/vinayakgoel/.gradle/caches/transforms-3/447e209bb68e64cb6fba5a295decc5de/transformed/extension-okhttp-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.6.0] /Users/vinayakgoel/.gradle/caches/transforms-3/746b5087d4782873923d4db93bc92e95/transformed/imagepipeline-okhttp3-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.6.0] /Users/vinayakgoel/.gradle/caches/transforms-3/746b5087d4782873923d4db93bc92e95/transformed/imagepipeline-okhttp3-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /Users/vinayakgoel/.gradle/caches/transforms-3/01c3711c87add96a8da98fedd846c218/transformed/annotation-experimental-1.4.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /Users/vinayakgoel/.gradle/caches/transforms-3/01c3711c87add96a8da98fedd846c218/transformed/annotation-experimental-1.4.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/vinayakgoel/.gradle/caches/transforms-3/0b894c72608b2a8f3d743beae188f8ef/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/vinayakgoel/.gradle/caches/transforms-3/0b894c72608b2a8f3d743beae188f8ef/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/vinayakgoel/.gradle/caches/transforms-3/6948b5c6a7c655d6addb45de2b882709/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/vinayakgoel/.gradle/caches/transforms-3/6948b5c6a7c655d6addb45de2b882709/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/vinayakgoel/.gradle/caches/transforms-3/88d63c740a587a2dcc85b228c7d0250d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/vinayakgoel/.gradle/caches/transforms-3/88d63c740a587a2dcc85b228c7d0250d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/vinayakgoel/.gradle/caches/transforms-3/cc6ba7be16e0b85c171c04fb53c56b72/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/vinayakgoel/.gradle/caches/transforms-3/cc6ba7be16e0b85c171c04fb53c56b72/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.1.0] /Users/vinayakgoel/.gradle/caches/transforms-3/2b1d59c1c82b99b8cf6deb31d8d4be9e/transformed/tracing-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.1.0] /Users/vinayakgoel/.gradle/caches/transforms-3/2b1d59c1c82b99b8cf6deb31d8d4be9e/transformed/tracing-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/vinayakgoel/.gradle/caches/transforms-3/d3003920fb6c7a61f04ab547863adaff/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/vinayakgoel/.gradle/caches/transforms-3/d3003920fb6c7a61f04ab547863adaff/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/vinayakgoel/.gradle/caches/transforms-3/fb017ad09699c572054d13a5fb77594d/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/vinayakgoel/.gradle/caches/transforms-3/fb017ad09699c572054d13a5fb77594d/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/vinayakgoel/.gradle/caches/transforms-3/163f965c440222c2ab554fc165508d6f/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/vinayakgoel/.gradle/caches/transforms-3/163f965c440222c2ab554fc165508d6f/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:7.2.2] /Users/vinayakgoel/.gradle/caches/transforms-3/cf3b7eb812f030f02e2a10366154e395/transformed/viewbinding-7.2.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:viewbinding:7.2.2] /Users/vinayakgoel/.gradle/caches/transforms-3/cf3b7eb812f030f02e2a10366154e395/transformed/viewbinding-7.2.2/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-datasource:2.18.1] /Users/vinayakgoel/.gradle/caches/transforms-3/2d7bfc2ab191044abc0acd1ff2a4fe17/transformed/exoplayer-datasource-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-datasource:2.18.1] /Users/vinayakgoel/.gradle/caches/transforms-3/2d7bfc2ab191044abc0acd1ff2a4fe17/transformed/exoplayer-datasource-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-database:2.18.1] /Users/vinayakgoel/.gradle/caches/transforms-3/043b96c63dcf6eaef4aa2213b44e27fc/transformed/exoplayer-database-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-database:2.18.1] /Users/vinayakgoel/.gradle/caches/transforms-3/043b96c63dcf6eaef4aa2213b44e27fc/transformed/exoplayer-database-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.18.1] /Users/vinayakgoel/.gradle/caches/transforms-3/1f684f447595ad5aef8489cccb68a843/transformed/exoplayer-extractor-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.18.1] /Users/vinayakgoel/.gradle/caches/transforms-3/1f684f447595ad5aef8489cccb68a843/transformed/exoplayer-extractor-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-decoder:2.18.1] /Users/vinayakgoel/.gradle/caches/transforms-3/3c2dbd956b76527caa5d73167ccbedf7/transformed/exoplayer-decoder-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-decoder:2.18.1] /Users/vinayakgoel/.gradle/caches/transforms-3/3c2dbd956b76527caa5d73167ccbedf7/transformed/exoplayer-decoder-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.18.1] /Users/vinayakgoel/.gradle/caches/transforms-3/f83a0ee863b5bed487203276357ab911/transformed/exoplayer-common-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.18.1] /Users/vinayakgoel/.gradle/caches/transforms-3/f83a0ee863b5bed487203276357ab911/transformed/exoplayer-common-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/vinayakgoel/.gradle/caches/transforms-3/573da8d163c759c9f5d2656c70a12f34/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/vinayakgoel/.gradle/caches/transforms-3/573da8d163c759c9f5d2656c70a12f34/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/vinayakgoel/.gradle/caches/transforms-3/507fdf271e930787416ffb0723bfda0e/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/vinayakgoel/.gradle/caches/transforms-3/507fdf271e930787416ffb0723bfda0e/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/vinayakgoel/.gradle/caches/transforms-3/a613e83d048f84b4f7ecc892a3bc15ac/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/vinayakgoel/.gradle/caches/transforms-3/a613e83d048f84b4f7ecc892a3bc15ac/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [org.webkit:android-jsc:r250231] /Users/vinayakgoel/.gradle/caches/transforms-3/df86aeaa16ba68151ca7d3f5f41d62be/transformed/android-jsc-r250231/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r250231] /Users/vinayakgoel/.gradle/caches/transforms-3/df86aeaa16ba68151ca7d3f5f41d62be/transformed/android-jsc-r250231/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:animated-gif:2.6.0] /Users/vinayakgoel/.gradle/caches/transforms-3/91b05a841a3a2a93dc0309c51ae9c8cf/transformed/animated-gif-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-gif:2.6.0] /Users/vinayakgoel/.gradle/caches/transforms-3/91b05a841a3a2a93dc0309c51ae9c8cf/transformed/animated-gif-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.jakewharton.timber:timber:4.7.1] /Users/vinayakgoel/.gradle/caches/transforms-3/628760951794161d70dea8f971acb418/transformed/timber-4.7.1/AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton.timber:timber:4.7.1] /Users/vinayakgoel/.gradle/caches/transforms-3/628760951794161d70dea8f971acb418/transformed/timber-4.7.1/AndroidManifest.xml:5:5-43
+MERGED from [com.squareup.duktape:duktape-android:1.3.0] /Users/vinayakgoel/.gradle/caches/transforms-3/a1578f3e0f95d3d2d5da6cc667180b6d/transformed/duktape-android-1.3.0/AndroidManifest.xml:8:5-10:41
+MERGED from [com.squareup.duktape:duktape-android:1.3.0] /Users/vinayakgoel/.gradle/caches/transforms-3/a1578f3e0f95d3d2d5da6cc667180b6d/transformed/duktape-android-1.3.0/AndroidManifest.xml:8:5-10:41
+MERGED from [com.facebook.fbjni:fbjni:0.3.0] /Users/vinayakgoel/.gradle/caches/transforms-3/87fb0e0fa91da05ad5265db3a891960a/transformed/fbjni-0.3.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fbjni:fbjni:0.3.0] /Users/vinayakgoel/.gradle/caches/transforms-3/87fb0e0fa91da05ad5265db3a891960a/transformed/fbjni-0.3.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.6.0] /Users/vinayakgoel/.gradle/caches/transforms-3/6a476a842ee47d0361667d132ed20b34/transformed/fresco-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.6.0] /Users/vinayakgoel/.gradle/caches/transforms-3/6a476a842ee47d0361667d132ed20b34/transformed/fresco-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-webp:2.6.0] /Users/vinayakgoel/.gradle/caches/transforms-3/8948b877a2ba46939e061fc567b01272/transformed/animated-webp-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-webp:2.6.0] /Users/vinayakgoel/.gradle/caches/transforms-3/8948b877a2ba46939e061fc567b01272/transformed/animated-webp-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-base:2.6.0] /Users/vinayakgoel/.gradle/caches/transforms-3/8c226d4496ca5812e0dea17bad75621c/transformed/animated-base-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-base:2.6.0] /Users/vinayakgoel/.gradle/caches/transforms-3/8c226d4496ca5812e0dea17bad75621c/transformed/animated-base-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-drawable:2.6.0] /Users/vinayakgoel/.gradle/caches/transforms-3/3344baa591e9f28f222f1bce175bab4d/transformed/animated-drawable-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-drawable:2.6.0] /Users/vinayakgoel/.gradle/caches/transforms-3/3344baa591e9f28f222f1bce175bab4d/transformed/animated-drawable-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.6.0] /Users/vinayakgoel/.gradle/caches/transforms-3/5eee55a3b64da8f56b8aac652faa7046/transformed/drawee-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.6.0] /Users/vinayakgoel/.gradle/caches/transforms-3/5eee55a3b64da8f56b8aac652faa7046/transformed/drawee-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:middleware:2.6.0] /Users/vinayakgoel/.gradle/caches/transforms-3/9e2b0d96231eb039a4f4f302f227bb1d/transformed/middleware-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:middleware:2.6.0] /Users/vinayakgoel/.gradle/caches/transforms-3/9e2b0d96231eb039a4f4f302f227bb1d/transformed/middleware-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.6.0] /Users/vinayakgoel/.gradle/caches/transforms-3/b24dc14944b84dc3373d9ddb21820963/transformed/ui-common-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.6.0] /Users/vinayakgoel/.gradle/caches/transforms-3/b24dc14944b84dc3373d9ddb21820963/transformed/ui-common-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.6.0] /Users/vinayakgoel/.gradle/caches/transforms-3/32ee795fe3a829148022ca21a702c042/transformed/nativeimagefilters-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.6.0] /Users/vinayakgoel/.gradle/caches/transforms-3/32ee795fe3a829148022ca21a702c042/transformed/nativeimagefilters-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.6.0] /Users/vinayakgoel/.gradle/caches/transforms-3/8683a5a6e92971824a26b3c66c4e1a7b/transformed/memory-type-native-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.6.0] /Users/vinayakgoel/.gradle/caches/transforms-3/8683a5a6e92971824a26b3c66c4e1a7b/transformed/memory-type-native-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.6.0] /Users/vinayakgoel/.gradle/caches/transforms-3/768fbb4460baa80520584af92fc050d2/transformed/memory-type-java-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.6.0] /Users/vinayakgoel/.gradle/caches/transforms-3/768fbb4460baa80520584af92fc050d2/transformed/memory-type-java-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.6.0] /Users/vinayakgoel/.gradle/caches/transforms-3/e80cd6287a8b8d00d83bcba1dc8eb605/transformed/imagepipeline-native-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.6.0] /Users/vinayakgoel/.gradle/caches/transforms-3/e80cd6287a8b8d00d83bcba1dc8eb605/transformed/imagepipeline-native-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.6.0] /Users/vinayakgoel/.gradle/caches/transforms-3/4b720ca69922e254312151048a4856ff/transformed/memory-type-ashmem-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.6.0] /Users/vinayakgoel/.gradle/caches/transforms-3/4b720ca69922e254312151048a4856ff/transformed/memory-type-ashmem-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.6.0] /Users/vinayakgoel/.gradle/caches/transforms-3/b8c0a5a891e93a7f9ce1e765a0df7ee7/transformed/imagepipeline-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.6.0] /Users/vinayakgoel/.gradle/caches/transforms-3/b8c0a5a891e93a7f9ce1e765a0df7ee7/transformed/imagepipeline-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:webpsupport:2.6.0] /Users/vinayakgoel/.gradle/caches/transforms-3/6ca025b46d74a3ca1b5a61ba0226663d/transformed/webpsupport-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:webpsupport:2.6.0] /Users/vinayakgoel/.gradle/caches/transforms-3/6ca025b46d74a3ca1b5a61ba0226663d/transformed/webpsupport-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.6.0] /Users/vinayakgoel/.gradle/caches/transforms-3/e9580b33ed291c556978e3fdf7a10bb5/transformed/nativeimagetranscoder-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.6.0] /Users/vinayakgoel/.gradle/caches/transforms-3/e9580b33ed291c556978e3fdf7a10bb5/transformed/nativeimagetranscoder-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.6.0] /Users/vinayakgoel/.gradle/caches/transforms-3/46a1026dadb80e734fe1dc9de932b8a1/transformed/imagepipeline-base-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.6.0] /Users/vinayakgoel/.gradle/caches/transforms-3/46a1026dadb80e734fe1dc9de932b8a1/transformed/imagepipeline-base-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.6.0] /Users/vinayakgoel/.gradle/caches/transforms-3/efe81665b55ba7d93ca0f02eeb030627/transformed/soloader-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.6.0] /Users/vinayakgoel/.gradle/caches/transforms-3/efe81665b55ba7d93ca0f02eeb030627/transformed/soloader-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.10.5] /Users/vinayakgoel/.gradle/caches/transforms-3/f84547bb7b2966322bf303897f5fb033/transformed/soloader-0.10.5/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.10.5] /Users/vinayakgoel/.gradle/caches/transforms-3/f84547bb7b2966322bf303897f5fb033/transformed/soloader-0.10.5/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fbcore:2.6.0] /Users/vinayakgoel/.gradle/caches/transforms-3/408b24afd8187062d293c4bdb545ed30/transformed/fbcore-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.6.0] /Users/vinayakgoel/.gradle/caches/transforms-3/408b24afd8187062d293c4bdb545ed30/transformed/fbcore-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.amplitude:android-sdk:2.34.0] /Users/vinayakgoel/.gradle/caches/transforms-3/3dca3e18e51426a9e7723305ec21509f/transformed/android-sdk-2.34.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.amplitude:android-sdk:2.34.0] /Users/vinayakgoel/.gradle/caches/transforms-3/3dca3e18e51426a9e7723305ec21509f/transformed/android-sdk-2.34.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.installreferrer:installreferrer:1.1.2] /Users/vinayakgoel/.gradle/caches/transforms-3/a98d202c7cfbbb11193f308483c6e306/transformed/installreferrer-1.1.2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.installreferrer:installreferrer:1.1.2] /Users/vinayakgoel/.gradle/caches/transforms-3/a98d202c7cfbbb11193f308483c6e306/transformed/installreferrer-1.1.2/AndroidManifest.xml:5:5-7:41
+MERGED from [org.jitsi:webrtc:118.0.0] /Users/vinayakgoel/.gradle/caches/transforms-3/5b806dbe6014e171f5b38699b600c477/transformed/webrtc-118.0.0/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jitsi:webrtc:118.0.0] /Users/vinayakgoel/.gradle/caches/transforms-3/5b806dbe6014e171f5b38699b600c477/transformed/webrtc-118.0.0/AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		INJECTED from /Users/vinayakgoel/Downloads/VidCall-main/VidCall/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/vinayakgoel/Downloads/VidCall-main/VidCall/app/src/main/AndroidManifest.xml
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.6.1] /Users/vinayakgoel/.gradle/caches/transforms-3/d2cd34f4b3fe975d8e8aa6373e10490e/transformed/room-runtime-2.6.1/AndroidManifest.xml:24:9-28:63
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.6.1] /Users/vinayakgoel/.gradle/caches/transforms-3/d2cd34f4b3fe975d8e8aa6373e10490e/transformed/room-runtime-2.6.1/AndroidManifest.xml:27:13-37
+	tools:ignore
+		ADDED from [androidx.room:room-runtime:2.6.1] /Users/vinayakgoel/.gradle/caches/transforms-3/d2cd34f4b3fe975d8e8aa6373e10490e/transformed/room-runtime-2.6.1/AndroidManifest.xml:28:13-60
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.6.1] /Users/vinayakgoel/.gradle/caches/transforms-3/d2cd34f4b3fe975d8e8aa6373e10490e/transformed/room-runtime-2.6.1/AndroidManifest.xml:26:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.6.1] /Users/vinayakgoel/.gradle/caches/transforms-3/d2cd34f4b3fe975d8e8aa6373e10490e/transformed/room-runtime-2.6.1/AndroidManifest.xml:25:13-74
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [org.jitsi.react:jitsi-meet-sdk:9.2.2] /Users/vinayakgoel/.gradle/caches/transforms-3/682f2a8c58f573eb97bc2713479145eb/transformed/jitsi-meet-sdk-9.2.2/AndroidManifest.xml:8:5-79
+MERGED from [com.facebook.react:react-native-community_netinfo:11.1.0-jitsi-16757212] /Users/vinayakgoel/.gradle/caches/transforms-3/17e22c02c37a696f686caf76d59a450e/transformed/react-native-community_netinfo-11.1.0-jitsi-16757212/AndroidManifest.xml:7:5-79
+MERGED from [com.facebook.react:react-native-community_netinfo:11.1.0-jitsi-16757212] /Users/vinayakgoel/.gradle/caches/transforms-3/17e22c02c37a696f686caf76d59a450e/transformed/react-native-community_netinfo-11.1.0-jitsi-16757212/AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.18.1] /Users/vinayakgoel/.gradle/caches/transforms-3/619569a36f2188f541f10f761a6818d0/transformed/exoplayer-core-2.18.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.18.1] /Users/vinayakgoel/.gradle/caches/transforms-3/619569a36f2188f541f10f761a6818d0/transformed/exoplayer-core-2.18.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.18.1] /Users/vinayakgoel/.gradle/caches/transforms-3/f83a0ee863b5bed487203276357ab911/transformed/exoplayer-common-2.18.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.18.1] /Users/vinayakgoel/.gradle/caches/transforms-3/f83a0ee863b5bed487203276357ab911/transformed/exoplayer-common-2.18.1/AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [org.jitsi.react:jitsi-meet-sdk:9.2.2] /Users/vinayakgoel/.gradle/caches/transforms-3/682f2a8c58f573eb97bc2713479145eb/transformed/jitsi-meet-sdk-9.2.2/AndroidManifest.xml:8:22-76
+uses-permission#android.permission.BLUETOOTH
+ADDED from [org.jitsi.react:jitsi-meet-sdk:9.2.2] /Users/vinayakgoel/.gradle/caches/transforms-3/682f2a8c58f573eb97bc2713479145eb/transformed/jitsi-meet-sdk-9.2.2/AndroidManifest.xml:9:5-68
+	android:name
+		ADDED from [org.jitsi.react:jitsi-meet-sdk:9.2.2] /Users/vinayakgoel/.gradle/caches/transforms-3/682f2a8c58f573eb97bc2713479145eb/transformed/jitsi-meet-sdk-9.2.2/AndroidManifest.xml:9:22-65
+uses-permission#android.permission.CAMERA
+ADDED from [org.jitsi.react:jitsi-meet-sdk:9.2.2] /Users/vinayakgoel/.gradle/caches/transforms-3/682f2a8c58f573eb97bc2713479145eb/transformed/jitsi-meet-sdk-9.2.2/AndroidManifest.xml:10:5-65
+	android:name
+		ADDED from [org.jitsi.react:jitsi-meet-sdk:9.2.2] /Users/vinayakgoel/.gradle/caches/transforms-3/682f2a8c58f573eb97bc2713479145eb/transformed/jitsi-meet-sdk-9.2.2/AndroidManifest.xml:10:22-62
+uses-permission#android.permission.INTERNET
+ADDED from [org.jitsi.react:jitsi-meet-sdk:9.2.2] /Users/vinayakgoel/.gradle/caches/transforms-3/682f2a8c58f573eb97bc2713479145eb/transformed/jitsi-meet-sdk-9.2.2/AndroidManifest.xml:11:5-67
+MERGED from [com.giphy.sdk:ui:2.3.4] /Users/vinayakgoel/.gradle/caches/transforms-3/7ad81f3bbfd8d866d8c02a97384f2b52/transformed/ui-2.3.4/AndroidManifest.xml:9:5-67
+MERGED from [com.giphy.sdk:ui:2.3.4] /Users/vinayakgoel/.gradle/caches/transforms-3/7ad81f3bbfd8d866d8c02a97384f2b52/transformed/ui-2.3.4/AndroidManifest.xml:9:5-67
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/vinayakgoel/.gradle/caches/transforms-3/41cbacf155cef9472b1b47891d827297/transformed/play-services-iid-17.0.0/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/vinayakgoel/.gradle/caches/transforms-3/41cbacf155cef9472b1b47891d827297/transformed/play-services-iid-17.0.0/AndroidManifest.xml:24:5-67
+MERGED from [com.amplitude:android-sdk:2.34.0] /Users/vinayakgoel/.gradle/caches/transforms-3/3dca3e18e51426a9e7723305ec21509f/transformed/android-sdk-2.34.0/AndroidManifest.xml:9:5-67
+MERGED from [com.amplitude:android-sdk:2.34.0] /Users/vinayakgoel/.gradle/caches/transforms-3/3dca3e18e51426a9e7723305ec21509f/transformed/android-sdk-2.34.0/AndroidManifest.xml:9:5-67
+	android:name
+		ADDED from [org.jitsi.react:jitsi-meet-sdk:9.2.2] /Users/vinayakgoel/.gradle/caches/transforms-3/682f2a8c58f573eb97bc2713479145eb/transformed/jitsi-meet-sdk-9.2.2/AndroidManifest.xml:11:22-64
+uses-permission#android.permission.MANAGE_OWN_CALLS
+ADDED from [org.jitsi.react:jitsi-meet-sdk:9.2.2] /Users/vinayakgoel/.gradle/caches/transforms-3/682f2a8c58f573eb97bc2713479145eb/transformed/jitsi-meet-sdk-9.2.2/AndroidManifest.xml:12:5-75
+	android:name
+		ADDED from [org.jitsi.react:jitsi-meet-sdk:9.2.2] /Users/vinayakgoel/.gradle/caches/transforms-3/682f2a8c58f573eb97bc2713479145eb/transformed/jitsi-meet-sdk-9.2.2/AndroidManifest.xml:12:22-72
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [org.jitsi.react:jitsi-meet-sdk:9.2.2] /Users/vinayakgoel/.gradle/caches/transforms-3/682f2a8c58f573eb97bc2713479145eb/transformed/jitsi-meet-sdk-9.2.2/AndroidManifest.xml:15:5-68
+MERGED from [com.facebook.react:react-native-background-timer:2.4.1-jitsi-16757212] /Users/vinayakgoel/.gradle/caches/transforms-3/90f1ff778d22c743349beb9d62fcdb1e/transformed/react-native-background-timer-2.4.1-jitsi-16757212/AndroidManifest.xml:7:5-68
+MERGED from [com.facebook.react:react-native-background-timer:2.4.1-jitsi-16757212] /Users/vinayakgoel/.gradle/caches/transforms-3/90f1ff778d22c743349beb9d62fcdb1e/transformed/react-native-background-timer-2.4.1-jitsi-16757212/AndroidManifest.xml:7:5-68
+	android:name
+		ADDED from [org.jitsi.react:jitsi-meet-sdk:9.2.2] /Users/vinayakgoel/.gradle/caches/transforms-3/682f2a8c58f573eb97bc2713479145eb/transformed/jitsi-meet-sdk-9.2.2/AndroidManifest.xml:15:22-65
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [org.jitsi.react:jitsi-meet-sdk:9.2.2] /Users/vinayakgoel/.gradle/caches/transforms-3/682f2a8c58f573eb97bc2713479145eb/transformed/jitsi-meet-sdk-9.2.2/AndroidManifest.xml:16:5-76
+MERGED from [com.facebook.react:react-native-community_netinfo:11.1.0-jitsi-16757212] /Users/vinayakgoel/.gradle/caches/transforms-3/17e22c02c37a696f686caf76d59a450e/transformed/react-native-community_netinfo-11.1.0-jitsi-16757212/AndroidManifest.xml:8:5-76
+MERGED from [com.facebook.react:react-native-community_netinfo:11.1.0-jitsi-16757212] /Users/vinayakgoel/.gradle/caches/transforms-3/17e22c02c37a696f686caf76d59a450e/transformed/react-native-community_netinfo-11.1.0-jitsi-16757212/AndroidManifest.xml:8:5-76
+	android:name
+		ADDED from [org.jitsi.react:jitsi-meet-sdk:9.2.2] /Users/vinayakgoel/.gradle/caches/transforms-3/682f2a8c58f573eb97bc2713479145eb/transformed/jitsi-meet-sdk-9.2.2/AndroidManifest.xml:16:22-73
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [org.jitsi.react:jitsi-meet-sdk:9.2.2] /Users/vinayakgoel/.gradle/caches/transforms-3/682f2a8c58f573eb97bc2713479145eb/transformed/jitsi-meet-sdk-9.2.2/AndroidManifest.xml:17:5-77
+	android:name
+		ADDED from [org.jitsi.react:jitsi-meet-sdk:9.2.2] /Users/vinayakgoel/.gradle/caches/transforms-3/682f2a8c58f573eb97bc2713479145eb/transformed/jitsi-meet-sdk-9.2.2/AndroidManifest.xml:17:22-74
+uses-permission#android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK
+ADDED from [org.jitsi.react:jitsi-meet-sdk:9.2.2] /Users/vinayakgoel/.gradle/caches/transforms-3/682f2a8c58f573eb97bc2713479145eb/transformed/jitsi-meet-sdk-9.2.2/AndroidManifest.xml:18:5-92
+	android:name
+		ADDED from [org.jitsi.react:jitsi-meet-sdk:9.2.2] /Users/vinayakgoel/.gradle/caches/transforms-3/682f2a8c58f573eb97bc2713479145eb/transformed/jitsi-meet-sdk-9.2.2/AndroidManifest.xml:18:22-89
+uses-permission#android.permission.FOREGROUND_SERVICE_MEDIA_PROJECTION
+ADDED from [org.jitsi.react:jitsi-meet-sdk:9.2.2] /Users/vinayakgoel/.gradle/caches/transforms-3/682f2a8c58f573eb97bc2713479145eb/transformed/jitsi-meet-sdk-9.2.2/AndroidManifest.xml:19:5-94
+	android:name
+		ADDED from [org.jitsi.react:jitsi-meet-sdk:9.2.2] /Users/vinayakgoel/.gradle/caches/transforms-3/682f2a8c58f573eb97bc2713479145eb/transformed/jitsi-meet-sdk-9.2.2/AndroidManifest.xml:19:22-91
+uses-permission#android.permission.POST_NOTIFICATIONS
+ADDED from [org.jitsi.react:jitsi-meet-sdk:9.2.2] /Users/vinayakgoel/.gradle/caches/transforms-3/682f2a8c58f573eb97bc2713479145eb/transformed/jitsi-meet-sdk-9.2.2/AndroidManifest.xml:20:5-77
+	android:name
+		ADDED from [org.jitsi.react:jitsi-meet-sdk:9.2.2] /Users/vinayakgoel/.gradle/caches/transforms-3/682f2a8c58f573eb97bc2713479145eb/transformed/jitsi-meet-sdk-9.2.2/AndroidManifest.xml:20:22-74
+uses-feature#0x00020000
+ADDED from [org.jitsi.react:jitsi-meet-sdk:9.2.2] /Users/vinayakgoel/.gradle/caches/transforms-3/682f2a8c58f573eb97bc2713479145eb/transformed/jitsi-meet-sdk-9.2.2/AndroidManifest.xml:22:5-24:35
+	android:glEsVersion
+		ADDED from [org.jitsi.react:jitsi-meet-sdk:9.2.2] /Users/vinayakgoel/.gradle/caches/transforms-3/682f2a8c58f573eb97bc2713479145eb/transformed/jitsi-meet-sdk-9.2.2/AndroidManifest.xml:23:9-41
+	android:required
+		ADDED from [org.jitsi.react:jitsi-meet-sdk:9.2.2] /Users/vinayakgoel/.gradle/caches/transforms-3/682f2a8c58f573eb97bc2713479145eb/transformed/jitsi-meet-sdk-9.2.2/AndroidManifest.xml:24:9-32
+uses-feature#android.hardware.camera
+ADDED from [org.jitsi.react:jitsi-meet-sdk:9.2.2] /Users/vinayakgoel/.gradle/caches/transforms-3/682f2a8c58f573eb97bc2713479145eb/transformed/jitsi-meet-sdk-9.2.2/AndroidManifest.xml:25:5-27:36
+	android:required
+		ADDED from [org.jitsi.react:jitsi-meet-sdk:9.2.2] /Users/vinayakgoel/.gradle/caches/transforms-3/682f2a8c58f573eb97bc2713479145eb/transformed/jitsi-meet-sdk-9.2.2/AndroidManifest.xml:27:9-33
+	android:name
+		ADDED from [org.jitsi.react:jitsi-meet-sdk:9.2.2] /Users/vinayakgoel/.gradle/caches/transforms-3/682f2a8c58f573eb97bc2713479145eb/transformed/jitsi-meet-sdk-9.2.2/AndroidManifest.xml:26:9-47
+uses-feature#android.hardware.camera.autofocus
+ADDED from [org.jitsi.react:jitsi-meet-sdk:9.2.2] /Users/vinayakgoel/.gradle/caches/transforms-3/682f2a8c58f573eb97bc2713479145eb/transformed/jitsi-meet-sdk-9.2.2/AndroidManifest.xml:28:5-30:36
+	android:required
+		ADDED from [org.jitsi.react:jitsi-meet-sdk:9.2.2] /Users/vinayakgoel/.gradle/caches/transforms-3/682f2a8c58f573eb97bc2713479145eb/transformed/jitsi-meet-sdk-9.2.2/AndroidManifest.xml:30:9-33
+	android:name
+		ADDED from [org.jitsi.react:jitsi-meet-sdk:9.2.2] /Users/vinayakgoel/.gradle/caches/transforms-3/682f2a8c58f573eb97bc2713479145eb/transformed/jitsi-meet-sdk-9.2.2/AndroidManifest.xml:29:9-57
+activity#org.jitsi.meet.sdk.JitsiMeetActivity
+ADDED from [org.jitsi.react:jitsi-meet-sdk:9.2.2] /Users/vinayakgoel/.gradle/caches/transforms-3/682f2a8c58f573eb97bc2713479145eb/transformed/jitsi-meet-sdk-9.2.2/AndroidManifest.xml:36:9-43:58
+	android:launchMode
+		ADDED from [org.jitsi.react:jitsi-meet-sdk:9.2.2] /Users/vinayakgoel/.gradle/caches/transforms-3/682f2a8c58f573eb97bc2713479145eb/transformed/jitsi-meet-sdk-9.2.2/AndroidManifest.xml:39:13-44
+	android:windowSoftInputMode
+		ADDED from [org.jitsi.react:jitsi-meet-sdk:9.2.2] /Users/vinayakgoel/.gradle/caches/transforms-3/682f2a8c58f573eb97bc2713479145eb/transformed/jitsi-meet-sdk-9.2.2/AndroidManifest.xml:43:13-55
+	android:supportsPictureInPicture
+		ADDED from [org.jitsi.react:jitsi-meet-sdk:9.2.2] /Users/vinayakgoel/.gradle/caches/transforms-3/682f2a8c58f573eb97bc2713479145eb/transformed/jitsi-meet-sdk-9.2.2/AndroidManifest.xml:41:13-52
+	android:resizeableActivity
+		ADDED from [org.jitsi.react:jitsi-meet-sdk:9.2.2] /Users/vinayakgoel/.gradle/caches/transforms-3/682f2a8c58f573eb97bc2713479145eb/transformed/jitsi-meet-sdk-9.2.2/AndroidManifest.xml:40:13-46
+	android:configChanges
+		ADDED from [org.jitsi.react:jitsi-meet-sdk:9.2.2] /Users/vinayakgoel/.gradle/caches/transforms-3/682f2a8c58f573eb97bc2713479145eb/transformed/jitsi-meet-sdk-9.2.2/AndroidManifest.xml:38:13-122
+	android:theme
+		ADDED from [org.jitsi.react:jitsi-meet-sdk:9.2.2] /Users/vinayakgoel/.gradle/caches/transforms-3/682f2a8c58f573eb97bc2713479145eb/transformed/jitsi-meet-sdk-9.2.2/AndroidManifest.xml:42:13-58
+	android:name
+		ADDED from [org.jitsi.react:jitsi-meet-sdk:9.2.2] /Users/vinayakgoel/.gradle/caches/transforms-3/682f2a8c58f573eb97bc2713479145eb/transformed/jitsi-meet-sdk-9.2.2/AndroidManifest.xml:37:13-64
+service#org.jitsi.meet.sdk.ConnectionService
+ADDED from [org.jitsi.react:jitsi-meet-sdk:9.2.2] /Users/vinayakgoel/.gradle/caches/transforms-3/682f2a8c58f573eb97bc2713479145eb/transformed/jitsi-meet-sdk-9.2.2/AndroidManifest.xml:45:9-52:19
+	android:exported
+		ADDED from [org.jitsi.react:jitsi-meet-sdk:9.2.2] /Users/vinayakgoel/.gradle/caches/transforms-3/682f2a8c58f573eb97bc2713479145eb/transformed/jitsi-meet-sdk-9.2.2/AndroidManifest.xml:47:13-36
+	android:permission
+		ADDED from [org.jitsi.react:jitsi-meet-sdk:9.2.2] /Users/vinayakgoel/.gradle/caches/transforms-3/682f2a8c58f573eb97bc2713479145eb/transformed/jitsi-meet-sdk-9.2.2/AndroidManifest.xml:48:13-84
+	android:name
+		ADDED from [org.jitsi.react:jitsi-meet-sdk:9.2.2] /Users/vinayakgoel/.gradle/caches/transforms-3/682f2a8c58f573eb97bc2713479145eb/transformed/jitsi-meet-sdk-9.2.2/AndroidManifest.xml:46:13-64
+intent-filter#action:name:android.telecom.ConnectionService
+ADDED from [org.jitsi.react:jitsi-meet-sdk:9.2.2] /Users/vinayakgoel/.gradle/caches/transforms-3/682f2a8c58f573eb97bc2713479145eb/transformed/jitsi-meet-sdk-9.2.2/AndroidManifest.xml:49:13-51:29
+action#android.telecom.ConnectionService
+ADDED from [org.jitsi.react:jitsi-meet-sdk:9.2.2] /Users/vinayakgoel/.gradle/caches/transforms-3/682f2a8c58f573eb97bc2713479145eb/transformed/jitsi-meet-sdk-9.2.2/AndroidManifest.xml:50:17-76
+	android:name
+		ADDED from [org.jitsi.react:jitsi-meet-sdk:9.2.2] /Users/vinayakgoel/.gradle/caches/transforms-3/682f2a8c58f573eb97bc2713479145eb/transformed/jitsi-meet-sdk-9.2.2/AndroidManifest.xml:50:25-73
+service#org.jitsi.meet.sdk.JitsiMeetOngoingConferenceService
+ADDED from [org.jitsi.react:jitsi-meet-sdk:9.2.2] /Users/vinayakgoel/.gradle/caches/transforms-3/682f2a8c58f573eb97bc2713479145eb/transformed/jitsi-meet-sdk-9.2.2/AndroidManifest.xml:53:9-55:61
+	android:foregroundServiceType
+		ADDED from [org.jitsi.react:jitsi-meet-sdk:9.2.2] /Users/vinayakgoel/.gradle/caches/transforms-3/682f2a8c58f573eb97bc2713479145eb/transformed/jitsi-meet-sdk-9.2.2/AndroidManifest.xml:55:13-58
+	android:name
+		ADDED from [org.jitsi.react:jitsi-meet-sdk:9.2.2] /Users/vinayakgoel/.gradle/caches/transforms-3/682f2a8c58f573eb97bc2713479145eb/transformed/jitsi-meet-sdk-9.2.2/AndroidManifest.xml:54:13-80
+provider#com.reactnativecommunity.webview.RNCWebViewFileProvider
+ADDED from [org.jitsi.react:jitsi-meet-sdk:9.2.2] /Users/vinayakgoel/.gradle/caches/transforms-3/682f2a8c58f573eb97bc2713479145eb/transformed/jitsi-meet-sdk-9.2.2/AndroidManifest.xml:57:9-62:20
+MERGED from [com.facebook.react:react-native-webview:13.5.1-jitsi-16757212] /Users/vinayakgoel/.gradle/caches/transforms-3/2744b2fa791070175ebb4a8880fe0f54/transformed/react-native-webview-13.5.1-jitsi-16757212/AndroidManifest.xml:8:9-16:20
+MERGED from [com.facebook.react:react-native-webview:13.5.1-jitsi-16757212] /Users/vinayakgoel/.gradle/caches/transforms-3/2744b2fa791070175ebb4a8880fe0f54/transformed/react-native-webview-13.5.1-jitsi-16757212/AndroidManifest.xml:8:9-16:20
+	android:grantUriPermissions
+		ADDED from [com.facebook.react:react-native-webview:13.5.1-jitsi-16757212] /Users/vinayakgoel/.gradle/caches/transforms-3/2744b2fa791070175ebb4a8880fe0f54/transformed/react-native-webview-13.5.1-jitsi-16757212/AndroidManifest.xml:12:13-47
+	android:enabled
+		ADDED from [org.jitsi.react:jitsi-meet-sdk:9.2.2] /Users/vinayakgoel/.gradle/caches/transforms-3/682f2a8c58f573eb97bc2713479145eb/transformed/jitsi-meet-sdk-9.2.2/AndroidManifest.xml:60:13-36
+	android:authorities
+		ADDED from [org.jitsi.react:jitsi-meet-sdk:9.2.2] /Users/vinayakgoel/.gradle/caches/transforms-3/682f2a8c58f573eb97bc2713479145eb/transformed/jitsi-meet-sdk-9.2.2/AndroidManifest.xml:59:13-64
+		REJECTED from [com.facebook.react:react-native-webview:13.5.1-jitsi-16757212] /Users/vinayakgoel/.gradle/caches/transforms-3/2744b2fa791070175ebb4a8880fe0f54/transformed/react-native-webview-13.5.1-jitsi-16757212/AndroidManifest.xml:10:13-64
+	android:exported
+		ADDED from [com.facebook.react:react-native-webview:13.5.1-jitsi-16757212] /Users/vinayakgoel/.gradle/caches/transforms-3/2744b2fa791070175ebb4a8880fe0f54/transformed/react-native-webview-13.5.1-jitsi-16757212/AndroidManifest.xml:11:13-37
+	tools:replace
+		ADDED from [org.jitsi.react:jitsi-meet-sdk:9.2.2] /Users/vinayakgoel/.gradle/caches/transforms-3/682f2a8c58f573eb97bc2713479145eb/transformed/jitsi-meet-sdk-9.2.2/AndroidManifest.xml:61:13-48
+	android:name
+		ADDED from [org.jitsi.react:jitsi-meet-sdk:9.2.2] /Users/vinayakgoel/.gradle/caches/transforms-3/682f2a8c58f573eb97bc2713479145eb/transformed/jitsi-meet-sdk-9.2.2/AndroidManifest.xml:58:13-83
+provider#androidx.startup.InitializationProvider
+ADDED from [org.jitsi.react:jitsi-meet-sdk:9.2.2] /Users/vinayakgoel/.gradle/caches/transforms-3/682f2a8c58f573eb97bc2713479145eb/transformed/jitsi-meet-sdk-9.2.2/AndroidManifest.xml:63:9-70:20
+MERGED from [androidx.emoji2:emoji2:1.4.0] /Users/vinayakgoel/.gradle/caches/transforms-3/0f2122af0cf9ce63063776a78cdd6786/transformed/emoji2-1.4.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.emoji2:emoji2:1.4.0] /Users/vinayakgoel/.gradle/caches/transforms-3/0f2122af0cf9ce63063776a78cdd6786/transformed/emoji2-1.4.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/vinayakgoel/.gradle/caches/transforms-3/b13010458167cba5b3502ba27f0cb0e7/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/vinayakgoel/.gradle/caches/transforms-3/b13010458167cba5b3502ba27f0cb0e7/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/vinayakgoel/.gradle/caches/transforms-3/88d63c740a587a2dcc85b228c7d0250d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/vinayakgoel/.gradle/caches/transforms-3/88d63c740a587a2dcc85b228c7d0250d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/vinayakgoel/.gradle/caches/transforms-3/cc6ba7be16e0b85c171c04fb53c56b72/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/vinayakgoel/.gradle/caches/transforms-3/cc6ba7be16e0b85c171c04fb53c56b72/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	android:authorities
+		ADDED from [org.jitsi.react:jitsi-meet-sdk:9.2.2] /Users/vinayakgoel/.gradle/caches/transforms-3/682f2a8c58f573eb97bc2713479145eb/transformed/jitsi-meet-sdk-9.2.2/AndroidManifest.xml:65:13-68
+	android:exported
+		ADDED from [org.jitsi.react:jitsi-meet-sdk:9.2.2] /Users/vinayakgoel/.gradle/caches/transforms-3/682f2a8c58f573eb97bc2713479145eb/transformed/jitsi-meet-sdk-9.2.2/AndroidManifest.xml:66:13-37
+	android:name
+		ADDED from [org.jitsi.react:jitsi-meet-sdk:9.2.2] /Users/vinayakgoel/.gradle/caches/transforms-3/682f2a8c58f573eb97bc2713479145eb/transformed/jitsi-meet-sdk-9.2.2/AndroidManifest.xml:64:13-67
+meta-data#org.jitsi.meet.sdk.JitsiInitializer
+ADDED from [org.jitsi.react:jitsi-meet-sdk:9.2.2] /Users/vinayakgoel/.gradle/caches/transforms-3/682f2a8c58f573eb97bc2713479145eb/transformed/jitsi-meet-sdk-9.2.2/AndroidManifest.xml:67:13-69:52
+	android:value
+		ADDED from [org.jitsi.react:jitsi-meet-sdk:9.2.2] /Users/vinayakgoel/.gradle/caches/transforms-3/682f2a8c58f573eb97bc2713479145eb/transformed/jitsi-meet-sdk-9.2.2/AndroidManifest.xml:69:17-49
+	android:name
+		ADDED from [org.jitsi.react:jitsi-meet-sdk:9.2.2] /Users/vinayakgoel/.gradle/caches/transforms-3/682f2a8c58f573eb97bc2713479145eb/transformed/jitsi-meet-sdk-9.2.2/AndroidManifest.xml:68:17-67
+uses-permission#android.permission.WRITE_CALENDAR
+ADDED from [com.facebook.react:react-native-calendar-events:2.2.0-jitsi-16757212] /Users/vinayakgoel/.gradle/caches/transforms-3/78ad371d61217b87ae5817680715f625/transformed/react-native-calendar-events-2.2.0-jitsi-16757212/AndroidManifest.xml:7:5-73
+	android:name
+		ADDED from [com.facebook.react:react-native-calendar-events:2.2.0-jitsi-16757212] /Users/vinayakgoel/.gradle/caches/transforms-3/78ad371d61217b87ae5817680715f625/transformed/react-native-calendar-events-2.2.0-jitsi-16757212/AndroidManifest.xml:7:22-70
+uses-permission#android.permission.READ_CALENDAR
+ADDED from [com.facebook.react:react-native-calendar-events:2.2.0-jitsi-16757212] /Users/vinayakgoel/.gradle/caches/transforms-3/78ad371d61217b87ae5817680715f625/transformed/react-native-calendar-events-2.2.0-jitsi-16757212/AndroidManifest.xml:8:5-72
+	android:name
+		ADDED from [com.facebook.react:react-native-calendar-events:2.2.0-jitsi-16757212] /Users/vinayakgoel/.gradle/caches/transforms-3/78ad371d61217b87ae5817680715f625/transformed/react-native-calendar-events-2.2.0-jitsi-16757212/AndroidManifest.xml:8:22-69
+provider#com.oblador.performance.StartTimeProvider
+ADDED from [com.facebook.react:react-native-performance:5.0.0-jitsi-16757212] /Users/vinayakgoel/.gradle/caches/transforms-3/d37e041e5f25106b328ef8a7c0775bf5/transformed/react-native-performance-5.0.0-jitsi-16757212/AndroidManifest.xml:8:9-12:39
+	android:authorities
+		ADDED from [com.facebook.react:react-native-performance:5.0.0-jitsi-16757212] /Users/vinayakgoel/.gradle/caches/transforms-3/d37e041e5f25106b328ef8a7c0775bf5/transformed/react-native-performance-5.0.0-jitsi-16757212/AndroidManifest.xml:10:13-71
+	android:exported
+		ADDED from [com.facebook.react:react-native-performance:5.0.0-jitsi-16757212] /Users/vinayakgoel/.gradle/caches/transforms-3/d37e041e5f25106b328ef8a7c0775bf5/transformed/react-native-performance-5.0.0-jitsi-16757212/AndroidManifest.xml:11:13-37
+	android:initOrder
+		ADDED from [com.facebook.react:react-native-performance:5.0.0-jitsi-16757212] /Users/vinayakgoel/.gradle/caches/transforms-3/d37e041e5f25106b328ef8a7c0775bf5/transformed/react-native-performance-5.0.0-jitsi-16757212/AndroidManifest.xml:12:13-36
+	android:name
+		ADDED from [com.facebook.react:react-native-performance:5.0.0-jitsi-16757212] /Users/vinayakgoel/.gradle/caches/transforms-3/d37e041e5f25106b328ef8a7c0775bf5/transformed/react-native-performance-5.0.0-jitsi-16757212/AndroidManifest.xml:9:13-69
+uses-feature#android.hardware.usb.host
+ADDED from [com.facebook.react:react-native-webrtc:118.0.7-jitsi-16757212] /Users/vinayakgoel/.gradle/caches/transforms-3/17413a73b0b5fe3ecd40d29963cefbe4/transformed/react-native-webrtc-118.0.7-jitsi-16757212/AndroidManifest.xml:8:5-11:32
+	tools:node
+		ADDED from [com.facebook.react:react-native-webrtc:118.0.7-jitsi-16757212] /Users/vinayakgoel/.gradle/caches/transforms-3/17413a73b0b5fe3ecd40d29963cefbe4/transformed/react-native-webrtc-118.0.7-jitsi-16757212/AndroidManifest.xml:11:9-29
+	android:required
+		ADDED from [com.facebook.react:react-native-webrtc:118.0.7-jitsi-16757212] /Users/vinayakgoel/.gradle/caches/transforms-3/17413a73b0b5fe3ecd40d29963cefbe4/transformed/react-native-webrtc-118.0.7-jitsi-16757212/AndroidManifest.xml:10:9-33
+	android:name
+		ADDED from [com.facebook.react:react-native-webrtc:118.0.7-jitsi-16757212] /Users/vinayakgoel/.gradle/caches/transforms-3/17413a73b0b5fe3ecd40d29963cefbe4/transformed/react-native-webrtc-118.0.7-jitsi-16757212/AndroidManifest.xml:9:9-49
+service#com.oney.WebRTCModule.MediaProjectionService
+ADDED from [com.facebook.react:react-native-webrtc:118.0.7-jitsi-16757212] /Users/vinayakgoel/.gradle/caches/transforms-3/17413a73b0b5fe3ecd40d29963cefbe4/transformed/react-native-webrtc-118.0.7-jitsi-16757212/AndroidManifest.xml:14:9-17:19
+	android:foregroundServiceType
+		ADDED from [com.facebook.react:react-native-webrtc:118.0.7-jitsi-16757212] /Users/vinayakgoel/.gradle/caches/transforms-3/17413a73b0b5fe3ecd40d29963cefbe4/transformed/react-native-webrtc-118.0.7-jitsi-16757212/AndroidManifest.xml:16:13-60
+	android:name
+		ADDED from [com.facebook.react:react-native-webrtc:118.0.7-jitsi-16757212] /Users/vinayakgoel/.gradle/caches/transforms-3/17413a73b0b5fe3ecd40d29963cefbe4/transformed/react-native-webrtc-118.0.7-jitsi-16757212/AndroidManifest.xml:15:13-72
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [com.facebook.react:react-native-webview:13.5.1-jitsi-16757212] /Users/vinayakgoel/.gradle/caches/transforms-3/2744b2fa791070175ebb4a8880fe0f54/transformed/react-native-webview-13.5.1-jitsi-16757212/AndroidManifest.xml:13:13-15:63
+	android:resource
+		ADDED from [com.facebook.react:react-native-webview:13.5.1-jitsi-16757212] /Users/vinayakgoel/.gradle/caches/transforms-3/2744b2fa791070175ebb4a8880fe0f54/transformed/react-native-webview-13.5.1-jitsi-16757212/AndroidManifest.xml:15:17-60
+	android:name
+		ADDED from [com.facebook.react:react-native-webview:13.5.1-jitsi-16757212] /Users/vinayakgoel/.gradle/caches/transforms-3/2744b2fa791070175ebb4a8880fe0f54/transformed/react-native-webview-13.5.1-jitsi-16757212/AndroidManifest.xml:14:17-67
+uses-library#android.test.runner
+ADDED from [com.giphy.sdk:ui:2.3.4] /Users/vinayakgoel/.gradle/caches/transforms-3/7ad81f3bbfd8d866d8c02a97384f2b52/transformed/ui-2.3.4/AndroidManifest.xml:12:9-14:40
+	android:required
+		ADDED from [com.giphy.sdk:ui:2.3.4] /Users/vinayakgoel/.gradle/caches/transforms-3/7ad81f3bbfd8d866d8c02a97384f2b52/transformed/ui-2.3.4/AndroidManifest.xml:14:13-37
+	android:name
+		ADDED from [com.giphy.sdk:ui:2.3.4] /Users/vinayakgoel/.gradle/caches/transforms-3/7ad81f3bbfd8d866d8c02a97384f2b52/transformed/ui-2.3.4/AndroidManifest.xml:13:13-47
+uses-library#android.test.base
+ADDED from [com.giphy.sdk:ui:2.3.4] /Users/vinayakgoel/.gradle/caches/transforms-3/7ad81f3bbfd8d866d8c02a97384f2b52/transformed/ui-2.3.4/AndroidManifest.xml:15:9-17:40
+	android:required
+		ADDED from [com.giphy.sdk:ui:2.3.4] /Users/vinayakgoel/.gradle/caches/transforms-3/7ad81f3bbfd8d866d8c02a97384f2b52/transformed/ui-2.3.4/AndroidManifest.xml:17:13-37
+	android:name
+		ADDED from [com.giphy.sdk:ui:2.3.4] /Users/vinayakgoel/.gradle/caches/transforms-3/7ad81f3bbfd8d866d8c02a97384f2b52/transformed/ui-2.3.4/AndroidManifest.xml:16:13-45
+uses-library#android.test.mock
+ADDED from [com.giphy.sdk:ui:2.3.4] /Users/vinayakgoel/.gradle/caches/transforms-3/7ad81f3bbfd8d866d8c02a97384f2b52/transformed/ui-2.3.4/AndroidManifest.xml:18:9-20:40
+	android:required
+		ADDED from [com.giphy.sdk:ui:2.3.4] /Users/vinayakgoel/.gradle/caches/transforms-3/7ad81f3bbfd8d866d8c02a97384f2b52/transformed/ui-2.3.4/AndroidManifest.xml:20:13-37
+	android:name
+		ADDED from [com.giphy.sdk:ui:2.3.4] /Users/vinayakgoel/.gradle/caches/transforms-3/7ad81f3bbfd8d866d8c02a97384f2b52/transformed/ui-2.3.4/AndroidManifest.xml:19:13-45
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:20.5.0] /Users/vinayakgoel/.gradle/caches/transforms-3/9e58d14c790579a2a518da974cfb9352/transformed/play-services-auth-20.5.0/AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:20.5.0] /Users/vinayakgoel/.gradle/caches/transforms-3/9e58d14c790579a2a518da974cfb9352/transformed/play-services-auth-20.5.0/AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:20.5.0] /Users/vinayakgoel/.gradle/caches/transforms-3/9e58d14c790579a2a518da974cfb9352/transformed/play-services-auth-20.5.0/AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:20.5.0] /Users/vinayakgoel/.gradle/caches/transforms-3/9e58d14c790579a2a518da974cfb9352/transformed/play-services-auth-20.5.0/AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:20.5.0] /Users/vinayakgoel/.gradle/caches/transforms-3/9e58d14c790579a2a518da974cfb9352/transformed/play-services-auth-20.5.0/AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:20.5.0] /Users/vinayakgoel/.gradle/caches/transforms-3/9e58d14c790579a2a518da974cfb9352/transformed/play-services-auth-20.5.0/AndroidManifest.xml:33:9-37:51
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:20.5.0] /Users/vinayakgoel/.gradle/caches/transforms-3/9e58d14c790579a2a518da974cfb9352/transformed/play-services-auth-20.5.0/AndroidManifest.xml:35:13-36
+	android:visibleToInstantApps
+		ADDED from [com.google.android.gms:play-services-auth:20.5.0] /Users/vinayakgoel/.gradle/caches/transforms-3/9e58d14c790579a2a518da974cfb9352/transformed/play-services-auth-20.5.0/AndroidManifest.xml:37:13-48
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:20.5.0] /Users/vinayakgoel/.gradle/caches/transforms-3/9e58d14c790579a2a518da974cfb9352/transformed/play-services-auth-20.5.0/AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:20.5.0] /Users/vinayakgoel/.gradle/caches/transforms-3/9e58d14c790579a2a518da974cfb9352/transformed/play-services-auth-20.5.0/AndroidManifest.xml:34:13-89
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-iid:17.0.0] /Users/vinayakgoel/.gradle/caches/transforms-3/41cbacf155cef9472b1b47891d827297/transformed/play-services-iid-17.0.0/AndroidManifest.xml:23:5-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-iid:17.0.0] /Users/vinayakgoel/.gradle/caches/transforms-3/41cbacf155cef9472b1b47891d827297/transformed/play-services-iid-17.0.0/AndroidManifest.xml:23:22-79
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.0.1] /Users/vinayakgoel/.gradle/caches/transforms-3/b96b0e8858f7bbc35e265247a17d59c6/transformed/play-services-base-18.0.1/AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] /Users/vinayakgoel/.gradle/caches/transforms-3/b96b0e8858f7bbc35e265247a17d59c6/transformed/play-services-base-18.0.1/AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] /Users/vinayakgoel/.gradle/caches/transforms-3/b96b0e8858f7bbc35e265247a17d59c6/transformed/play-services-base-18.0.1/AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] /Users/vinayakgoel/.gradle/caches/transforms-3/b96b0e8858f7bbc35e265247a17d59c6/transformed/play-services-base-18.0.1/AndroidManifest.xml:20:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.2.0] /Users/vinayakgoel/.gradle/caches/transforms-3/3eb24c3dc000a07452cf5a28e5ea6974/transformed/play-services-basement-18.2.0/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.2.0] /Users/vinayakgoel/.gradle/caches/transforms-3/3eb24c3dc000a07452cf5a28e5ea6974/transformed/play-services-basement-18.2.0/AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.2.0] /Users/vinayakgoel/.gradle/caches/transforms-3/3eb24c3dc000a07452cf5a28e5ea6974/transformed/play-services-basement-18.2.0/AndroidManifest.xml:22:13-58
+activity#androidx.compose.ui.tooling.PreviewActivity
+ADDED from [androidx.compose.ui:ui-tooling-android:1.5.1] /Users/vinayakgoel/.gradle/caches/transforms-3/e79d9f5b6b209a08ce281e4a8bff474f/transformed/ui-tooling-release/AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.5.1] /Users/vinayakgoel/.gradle/caches/transforms-3/e79d9f5b6b209a08ce281e4a8bff474f/transformed/ui-tooling-release/AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.5.1] /Users/vinayakgoel/.gradle/caches/transforms-3/e79d9f5b6b209a08ce281e4a8bff474f/transformed/ui-tooling-release/AndroidManifest.xml:24:13-71
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/vinayakgoel/.gradle/caches/transforms-3/0f2122af0cf9ce63063776a78cdd6786/transformed/emoji2-1.4.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/vinayakgoel/.gradle/caches/transforms-3/0f2122af0cf9ce63063776a78cdd6786/transformed/emoji2-1.4.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/vinayakgoel/.gradle/caches/transforms-3/0f2122af0cf9ce63063776a78cdd6786/transformed/emoji2-1.4.0/AndroidManifest.xml:30:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/vinayakgoel/.gradle/caches/transforms-3/b13010458167cba5b3502ba27f0cb0e7/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/vinayakgoel/.gradle/caches/transforms-3/b13010458167cba5b3502ba27f0cb0e7/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/vinayakgoel/.gradle/caches/transforms-3/b13010458167cba5b3502ba27f0cb0e7/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:30:17-78
+activity#androidx.activity.ComponentActivity
+ADDED from [androidx.compose.ui:ui-test-manifest:1.5.1] /Users/vinayakgoel/.gradle/caches/transforms-3/73bec10849f69921833b9517bbbf87e2/transformed/ui-test-manifest-1.5.1/AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.5.1] /Users/vinayakgoel/.gradle/caches/transforms-3/73bec10849f69921833b9517bbbf87e2/transformed/ui-test-manifest-1.5.1/AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.5.1] /Users/vinayakgoel/.gradle/caches/transforms-3/73bec10849f69921833b9517bbbf87e2/transformed/ui-test-manifest-1.5.1/AndroidManifest.xml:24:13-63
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] /Users/vinayakgoel/.gradle/caches/transforms-3/fe2493e55ed439378b0f650daa9755b3/transformed/core-1.13.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.0] /Users/vinayakgoel/.gradle/caches/transforms-3/fe2493e55ed439378b0f650daa9755b3/transformed/core-1.13.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.0] /Users/vinayakgoel/.gradle/caches/transforms-3/fe2493e55ed439378b0f650daa9755b3/transformed/core-1.13.0/AndroidManifest.xml:23:9-81
+permission#com.example.mc_project.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] /Users/vinayakgoel/.gradle/caches/transforms-3/fe2493e55ed439378b0f650daa9755b3/transformed/core-1.13.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.0] /Users/vinayakgoel/.gradle/caches/transforms-3/fe2493e55ed439378b0f650daa9755b3/transformed/core-1.13.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.0] /Users/vinayakgoel/.gradle/caches/transforms-3/fe2493e55ed439378b0f650daa9755b3/transformed/core-1.13.0/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] /Users/vinayakgoel/.gradle/caches/transforms-3/fe2493e55ed439378b0f650daa9755b3/transformed/core-1.13.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.0] /Users/vinayakgoel/.gradle/caches/transforms-3/fe2493e55ed439378b0f650daa9755b3/transformed/core-1.13.0/AndroidManifest.xml:26:22-94
+uses-permission#com.example.mc_project.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] /Users/vinayakgoel/.gradle/caches/transforms-3/fe2493e55ed439378b0f650daa9755b3/transformed/core-1.13.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.0] /Users/vinayakgoel/.gradle/caches/transforms-3/fe2493e55ed439378b0f650daa9755b3/transformed/core-1.13.0/AndroidManifest.xml:26:22-94
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/vinayakgoel/.gradle/caches/transforms-3/88d63c740a587a2dcc85b228c7d0250d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/vinayakgoel/.gradle/caches/transforms-3/88d63c740a587a2dcc85b228c7d0250d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/vinayakgoel/.gradle/caches/transforms-3/88d63c740a587a2dcc85b228c7d0250d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/vinayakgoel/.gradle/caches/transforms-3/88d63c740a587a2dcc85b228c7d0250d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/vinayakgoel/.gradle/caches/transforms-3/88d63c740a587a2dcc85b228c7d0250d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/vinayakgoel/.gradle/caches/transforms-3/88d63c740a587a2dcc85b228c7d0250d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/vinayakgoel/.gradle/caches/transforms-3/88d63c740a587a2dcc85b228c7d0250d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/vinayakgoel/.gradle/caches/transforms-3/88d63c740a587a2dcc85b228c7d0250d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/vinayakgoel/.gradle/caches/transforms-3/88d63c740a587a2dcc85b228c7d0250d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/vinayakgoel/.gradle/caches/transforms-3/88d63c740a587a2dcc85b228c7d0250d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/vinayakgoel/.gradle/caches/transforms-3/88d63c740a587a2dcc85b228c7d0250d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/vinayakgoel/.gradle/caches/transforms-3/88d63c740a587a2dcc85b228c7d0250d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/vinayakgoel/.gradle/caches/transforms-3/88d63c740a587a2dcc85b228c7d0250d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/vinayakgoel/.gradle/caches/transforms-3/88d63c740a587a2dcc85b228c7d0250d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/vinayakgoel/.gradle/caches/transforms-3/88d63c740a587a2dcc85b228c7d0250d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/vinayakgoel/.gradle/caches/transforms-3/88d63c740a587a2dcc85b228c7d0250d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/vinayakgoel/.gradle/caches/transforms-3/88d63c740a587a2dcc85b228c7d0250d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/vinayakgoel/.gradle/caches/transforms-3/88d63c740a587a2dcc85b228c7d0250d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/vinayakgoel/.gradle/caches/transforms-3/88d63c740a587a2dcc85b228c7d0250d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/vinayakgoel/.gradle/caches/transforms-3/88d63c740a587a2dcc85b228c7d0250d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/vinayakgoel/.gradle/caches/transforms-3/88d63c740a587a2dcc85b228c7d0250d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:50:25-92
+meta-data#com.facebook.soloader.enabled
+ADDED from [com.facebook.soloader:soloader:0.10.5] /Users/vinayakgoel/.gradle/caches/transforms-3/f84547bb7b2966322bf303897f5fb033/transformed/soloader-0.10.5/AndroidManifest.xml:12:9-14:37
+	android:value
+		ADDED from [com.facebook.soloader:soloader:0.10.5] /Users/vinayakgoel/.gradle/caches/transforms-3/f84547bb7b2966322bf303897f5fb033/transformed/soloader-0.10.5/AndroidManifest.xml:14:13-34
+	android:name
+		ADDED from [com.facebook.soloader:soloader:0.10.5] /Users/vinayakgoel/.gradle/caches/transforms-3/f84547bb7b2966322bf303897f5fb033/transformed/soloader-0.10.5/AndroidManifest.xml:13:13-57
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.android.installreferrer:installreferrer:1.1.2] /Users/vinayakgoel/.gradle/caches/transforms-3/a98d202c7cfbbb11193f308483c6e306/transformed/installreferrer-1.1.2/AndroidManifest.xml:9:5-110
+	android:name
+		ADDED from [com.android.installreferrer:installreferrer:1.1.2] /Users/vinayakgoel/.gradle/caches/transforms-3/a98d202c7cfbbb11193f308483c6e306/transformed/installreferrer-1.1.2/AndroidManifest.xml:9:22-107
